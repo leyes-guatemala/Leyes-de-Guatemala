@@ -35,8 +35,7 @@ Notificación de la causa de detención. Toda persona detenida deberá ser notif
 Derechos del detenido. Todo detenido deberá ser informado inmediatamente de sus derechos en forma que le sean comprensibles, especialmente que puede proveerse de un defensor, el cual podrá estar presente en todas las diligencias policiales y judiciales. El detenido no podrá ser obligado a declarar sino ante autoridad judicial competente.
 
 ##### ARTICULO 9
-Interrogatorio a detenido o presos. Las autoridades judiciales son las únicas competentes para interrogar a los detenidos o presos. Esta diligencia deberá practicarse dentro de un plazo que no exceda de veinticuatro horas.
-
+Interrogatorio a detenido o presos. Las autoridades judiciales son las únicas competentes para interrogar a los detenidos o presos. Esta diligencia deberá practicarse dentro de un plazo que no exceda de veinticuatro horas.\
 El interrogatorio extrajudicial carece de valor probatorio.
 
 ##### ARTICULO 10
