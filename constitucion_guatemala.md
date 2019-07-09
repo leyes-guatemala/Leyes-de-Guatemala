@@ -1,83 +1,83 @@
-# CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE GUATEMALA 1985
+# Constitución Política de la República de Guatemala 1985
 
-## TÍTULO I - LA PERSONA HUMANA, FINES Y DEBERES DEL ESTADO
+## Título 1 - La Persona Humana, Fines y Deberes del Estado
 
-### CAPÍTULO ÚNICO
+### Capítulo Único
 
-##### ARTÍCULO 1
+##### Artículo 1
 Protección a la Persona. El Estado de Guatemala se organiza para proteger a la persona y a la familia; su fin supremo es la realización del bien común.
 
-##### ARTÍCULO 2
+##### Artículo 2
 Deberes del Estado. Es deber del Estado garantizarle a los habitantes de la República la vida, la libertad, la justicia, la seguridad, la paz y el desarrollo integral de la persona.
 
-## TÍTULO II - DERECHOS HUMANOS
+## Título 2 - Derechos Humanos
 
-### CAPÍTULO I - DERECHOS INDIVIDUALES
+### Capítulo 1 - Derechos Individuales
 
-##### ARTÍCULO 3
+##### Artículo 3
 Derecho a la vida. El estado garantiza y protege la vida humana desde su concepción, así como la integridad y la seguridad de la persona.
 
-##### ARTÍCULO 4
+##### Artículo 4
 Libertad e igualdad. En Guatemala todos los seres humanos son libres e iguales en dignidad y derechos. El hombre y la mujer, cualquiera que sea su estado civil, tienen iguales oportunidades y responsabilidades. Ninguna persona puede ser sometida a servidumbre ni a otra condición que menoscabe su dignidad. Los seres humanos deben guardar conducta fraternal entre sí.
 
-##### ARTÍCULO 5
-Libertad de acción. Toda persona tiene derecho a hacer lo que la ley no prohibe; no está obligada a acatar órdenes que no estén basadas en ley y emitidas conforme a ella. Tampoco podrá ser perseguida ni molestada por sus opiniones o por actos que no impliquen infracción a la misma.
+##### Artículo 5
+Libertad de acción. Toda persona tiene derecho a hacer lo que la ley no prohíbe; no está obligada a acatar órdenes que no estén basadas en ley y emitidas conforme a ella. Tampoco podrá ser perseguida ni molestada por sus opiniones o por actos que no impliquen infracción a la misma.
 
-##### ARTÍCULO 6
+##### Artículo 6
 Detención legal. Ninguna persona puede ser detenida o presa, sino por causa de delito o falta y en virtud de orden librada con apego a la ley por autoridad judicial competente. Se exceptúan los casos de flagrante delito o falta. Los detenidos deberán ser puestos a disposición de la autoridad judicial competente en un plazo que no exceda de seis horas, y no podrán quedar sujetos a ninguna otra autoridad.
 
-El funcionario, o agente de la autoridad que infrinja lo dispuesto en este artículo será sancionado conforme a la ley, y los tribunales, de oficio, iniciarán el proceso correspondiente.
+El funcionario, o agente de la autoridad que infrinja lo dispuesto en este Artículo será sancionado conforme a la ley, y los tribunales, de oficio, iniciarán el proceso correspondiente.
 
-##### ARTÍCULO 7
+##### Artículo 7
 Notificación de la causa de detención. Toda persona detenida deberá ser notificada inmediatamente, en forma verbal y por escrito, de la causa que motivó su detención, autoridad que la ordenó y lugar en el que permanecerá. La misma notificación deberá hacerse por el medio más rápido a la persona que el detenido designe y la autoridad será responsable de la efectividad de la notificación.
 
-##### ARTÍCULO 8
+##### Artículo 8
 Derechos del detenido. Todo detenido deberá ser informado inmediatamente de sus derechos en forma que le sean comprensibles, especialmente que puede proveerse de un defensor, el cual podrá estar presente en todas las diligencias policiales y judiciales. El detenido no podrá ser obligado a declarar sino ante autoridad judicial competente.
 
-##### ARTÍCULO 9
+##### Artículo 9
 Interrogatorio a detenido o presos. Las autoridades judiciales son las únicas competentes para interrogar a los detenidos o presos. Esta diligencia deberá practicarse dentro de un plazo que no exceda de veinticuatro horas.
 
 El interrogatorio extrajudicial carece de valor probatorio.
 
-##### ARTÍCULO 10
+##### Artículo 10
 Centro de detención legal. Las personas aprehendidas por la autoridad no podrán ser conducidas a lugares de detención, arresto o prisión diferentes a los que están legal y públicamente destinados al efecto. Los centros de detención, arresto o prisión provisional, serán distintos a aquellos en que han de cumplirse las condenas.
 
-La autoridad y sus agentes, que violen lo dispuesto en el presente artículo, serán personalmente responsables.
+La autoridad y sus agentes, que violen lo dispuesto en el presente Artículo, serán personalmente responsables.
 
-##### ARTÍCULO 11
+##### Artículo 11
 Detención por faltas o infracciones. Por faltas o por infracciones a los reglamentos no deben permanecer detenidas las personas cuya identidad pueda establecerse mediante documentación, por el testimonio de persona de arraigo, o por la propia autoridad.
 
 En dichos casos, bajo pena de la sanción correspondiente, la autoridad limitará su cometido a dar parte del hecho a juez competente y a prevenir al infractor, para que comparezca ante el mismo dentro de las cuarenta y ocho horas hábiles todos los días del año, y las horas comprendidas entre las ocho y las dieciocho horas.
 
-Quienes desobedezcan el emplazamiento serán sancionados conforme a la ley. La persona que no pueda identificarse conforme a lo dispuesto en este artículo, será puesta a disposición de la autoridad judicial más cercana, dentro de la primera hora siguiente a su detención.
+Quienes desobedezcan el emplazamiento serán sancionados conforme a la ley. La persona que no pueda identificarse conforme a lo dispuesto en este Artículo, será puesta a disposición de la autoridad judicial más cercana, dentro de la primera hora siguiente a su detención.
 
-##### ARTÍCULO 12
+##### Artículo 12
 Derecho de defensa. La defensa de la persona y sus derechos son inviolables. Nadie podrá ser condenado, ni privado de sus derechos, sin haber sido citado, oído y vencido en proceso legal ante juez o tribunal competente y preestablecido.
 
 Ninguna persona puede ser juzgada por Tribunales Especiales o secretos, ni por procedimientos que no estén preestablecidos legalmente.
 
-##### ARTÍCULO 13
+##### Artículo 13
 Motivos para auto de prisión. No podrá dictarse auto de prisión, sin que preceda información de haberse cometido un delito y sin que concurran motivos racionales suficientes para creer que la persona detenida lo ha cometido o participado en él.
 
 Las autoridades policiales no podrán presentar de oficio, ante los medios de comunicación social, a ninguna persona que previamente no haya sido indagada por tribunal competente.
 
-##### ARTÍCULO 14
+##### Artículo 14
 Presunción de inocencia y publicidad del proceso. Toda persona es inocente, mientras no se le haya declarado responsable judicialmente, en sentencia debidamente ejecutoriada.
 
 El detenido, el ofendido, el Ministerio Público y los abogados que hayan sido designados por los interesados, en forma verbal o escrita, tienen derecho de conocer personalmente, todas las actuaciones, documentos y diligencias penales, sin reserva alguna y en forma inmediata.
 
-##### ARTÍCULO 15
+##### Artículo 15
 Irretroactividad de la ley. La ley no tiene efecto retroactivo, salvo en materia penal cuando favorezca al reo.
 
-##### ARTÍCULO 16
+##### Artículo 16
 Declaración contra sí y parientes. En proceso penal, ninguna persona puede ser obligada a declarar contra sí misma, contra su cónyuge o persona unida de hecho legalmente, ni contra sus parientes dentro de los grados de ley.
 
-##### ARTÍCULO 17
+##### Artículo 17
 No hay delito ni pena sin ley anterior. No son punibles las acciones u omisiones que no estén calificadas como delito o falta y penadas por ley anterior a su perpetración.
 
 No hay prisión por deuda.
 
-##### ARTÍCULO 18
+##### Artículo 18
 Pena de muerte. La pena de muerte no podrá imponerse en los siguientes casos:
 
 * a) Con fundamente en presunciones;
@@ -90,44 +90,44 @@ Contra la sentencia que imponga la pena de muerte, serán admisibles todos los r
 
 El Congreso de la República podrá abolir la pena de muerte.
 
-##### ARTÍCULO 19
-Sistema penitenciario. El sistema penitenciario debe tender a la readaptación social y a la reeducación de los reclusos y cumplir en el tratamiento de los mismos, con las siguientes normas mínimas:
+##### Artículo 19
+Sistema penitenciario. El sistema penitenciario debe tender a la re-adaptación social y a la re-educación de los reclusos y cumplir en el tratamiento de los mismos, con las siguientes normas mínimas:
 
 * a) Deben ser tratados como seres humanos; no deben ser discriminados por motivo alguno, ni podrán infligírseles tratos crueles, torturas físicas, morales, psíquicas, coacciones o molestias, trabajos incompatibles con su estado físico, acciones denigrantes a su dignidad, o hacerles víctimas de exacciones, ni ser sometidos a experimentos científicos;
 * b) Deben cumplir las penas en los lugares destinados para el efecto. Los centros penales son de carácter civil y con personal especializado; y
 * c) Tienen derecho a comunicarse, cuando lo soliciten, con sus familiares, abogado defensor, asistente religioso o médico, y en su caso, con el representante diplomático o consular de su nacionalidad.
 
-La infracción de cualquiera de las normas establecidas en este artículo, da derecho al detenido a reclamar del Estado la indemnización por los daños ocasionados y la Corte Suprema de Justicia ordenará su protección inmediata.
+La infracción de cualquiera de las normas establecidas en este Artículo, da derecho al detenido a reclamar del Estado la indemnización por los daños ocasionados y la Corte Suprema de Justicia ordenará su protección inmediata.
 
-El Estado deberá crear y fomentar las condiciones para el exacto cumplimiento de lo preceptuado en este artículo.
+El Estado deberá crear y fomentar las condiciones para el exacto cumplimiento de lo preceptuado en este Artículo.
 
-##### ARTÍCULO 20
-Menores de edad. Los menores de edad que transgredan la ley son inimputables. Su tratamiento debe estar orientado hacia una educación integral propia para la niñez y la juventud.
+##### Artículo 20
+Menores de edad. Los menores de edad que transgredan la ley son in-imputables. Su tratamiento debe estar orientado hacia una educación integral propia para la niñez y la juventud.
 
 Los menores, cuya conducta viole la ley penal, serán atendidos por instituciones y personal especializado. Por ningún motivo pueden ser recluidos en centros penales o de detención destinados para adultos. Una ley específica regulará esta materia.
 
-##### ARTÍCULO 21
-Sanciones a funcionarios o empleados públicos. Los funcionarios, empleados públicos y otras personas que den o ejecuten órdenes contra lo dispuesto en los dos artículos anteriores, además de las sanciones que les imponga la ley, serán destituidos inmediatamente de su cargo, en su caso, e inhabilitados para el desempeño de cualquier cargo o empleo público.
+##### Artículo 21
+Sanciones a funcionarios o empleados públicos. Los funcionarios, empleados públicos y otras personas que den o ejecuten órdenes contra lo dispuesto en los dos Artículos anteriores, además de las sanciones que les imponga la ley, serán destituidos inmediatamente de su cargo, en su caso, e inhabilitados para el desempeño de cualquier cargo o empleo público.
 
 El custodio que hiciere uso indebido de medios o armas contra un detenido o preso, será responsable conforme a la Ley Penal. El delito cometido en esas circunstancias es imprescriptible.
 
-##### ARTÍCULO 22
+##### Artículo 22
 Antecedentes penales y policiales. Los antecedentes penales y policiales no son causa para que a las personas se les restrinja en el ejercicio de sus derechos que esta Constitución y las leyes de la República les garantiza, salvo cuando se limiten por ley, o en sentencia firme, y por el plazo fijado en la misma.
 
-##### ARTÍCULO 23
+##### Artículo 23
 Inviolabilidad de la vivienda. La vivienda es inviolable. Nadie podrá penetrar en morada ajena sin permiso de quien la habita, salvo por orden escrita de juez competente en la que se especifique el motivo de la diligencia y nunca antes de las seis ni después de las dieciocho horas, Tal diligencia se realizará siempre en presencia del interesado, o de su mandatario.
 
-##### ARTÍCULO 24
-Inviolabilidad de correspondencia, documentos y libros. La correspondencia de toda persona, sus documentos y libros son inviolables. Sólo podrán revisarse o incautarse, en virtud de resolución firme dictada por juez competente y con las formalidades legales. Se garantiza el secreto de la correspondencia y de las comunicaciones telefónicas, radiofónicas, cablegráficas y otros productos de la tecnología moderna.
+##### Artículo 24
+Inviolabilidad de correspondencia, documentos y libros. La correspondencia de toda persona, sus documentos y libros son inviolables. Sólo podrán revisarse o incautarse, en virtud de resolución firme dictada por juez competente y con las formalidades legales. Se garantiza el secreto de la correspondencia y de las comunicaciones telefónicas, radiofónicas, cable-gráficas y otros productos de la tecnología moderna.
 
 Los libros, documentos y archivos que se relacionan con el pago de impuestos, tasa, arbitrios y contribuciones, podrán ser revisados por la autoridad competente de conformidad con la ley. Es punible revelar el monto de los impuestos pagados, utilidades, pérdidas, costos y cualquier otro dato referente a las contabilidades revisadas a personas individuales o jurídicas, con excepción de los balances generales, cuya publicación ordene la ley.
 
-Los documentos o informaciones obtenidas con violación de este artículo no producen fe ni hacen prueba en juicio.
+Los documentos o informaciones obtenidas con violación de este Artículo no producen fe ni hacen prueba en juicio.
 
-##### ARTÍCULO 25
+##### Artículo 25
 Registro de personas y vehículos. El registro de las personas y de los vehículos, sólo podrá efectuarse por elementos de las fuerzas de seguridad cuando se establezca causa justificada para ello. Para ese efecto, los elementos de las fuerzas de seguridad deberán presentarse debidamente uniformados y pertenecer al mismo sexo de los requisados, debiendo guardarse el respeto a la dignidad, intimidad y decoro de las personas.
 
-##### ARTÍCULO 26
+##### Artículo 26
 Libertad de locomoción. Toda persona tiene libertad de entrar, permanecer, transitar y salir del territorio nacional y cambiar de domicilio o residencia, sin más limitaciones que las establecidas por ley.
 
 No podrá expatriarse a ningún guatemalteco, ni prohibírsele la entrada al territorio nacional o negársele pasaporte u otros documentos de identificación.
@@ -136,7 +136,7 @@ Los guatemaltecos pueden entrar y salir del país sin llenar el requisito de vis
 
 La ley determinará las responsabilidades en que incurran quienes infrinjan esta disposición.
 
-##### ARTÍCULO 27
+##### Artículo 27
 Derecho de asilo. Guatemala reconoce el derecho de asilo y lo otorga de acuerdo con las prácticas internacionales.
 
 La extradición se rige por lo dispuesto en tratados internacionales.
@@ -145,30 +145,30 @@ Por delitos políticos no se intentará la extradición de guatemaltecos, quiene
 
 No se acordará la expulsión del territorio nacional de un refugiado político, con destino al país que lo persigue.
 
-##### ARTÍCULO 28
+##### Artículo 28
 Derecho de petición. Los habitantes de la República de Guatemala tienen derecho a dirigir, individual o colectivamente, peticiones a la autoridad, la que está obligada a tramitarlas y deberá resolverlas conforme a la ley.
 
 En materia administrativa el término para resolver las peticiones y notificar las resoluciones no podrá exceder de treinta días.
 
 En materia fiscal, para impugnar resoluciones administrativas en los expedientes que se originen en reparos o ajustes por cualquier tributo, no se exigirá al contribuyente el pago previo del impuesto o garantía alguna.
 
-##### ARTÍCULO 29
+##### Artículo 29
 Libre acceso a tribunales y dependencias del Estado. Toda persona tiene libre acceso a los tribunales, dependencias y oficinas del Estado, para ejercer sus acciones y hacer valer sus derechos de conformidad con la ley.
 
 Los extranjeros únicamente podrán acudir a la vía diplomática en caso de denegación de justicia.
 
 No se califica como tal, el solo hecho de que el fallo sea contrario a sus intereses y en todo caso, deben haberse agotado los recursos legales que establecen las leyes guatemaltecas.
 
-##### ARTÍCULO 30
+##### Artículo 30
 Publicidad de los actos administrativos. Todos los actos de la administración son públicos. Los interesados tienen derecho a obtener, en cualquier tiempo, informes, copias, reproducciones y certificaciones que soliciten y la exhibición de los expedientes que deseen consultar, salvo que se trate de asuntos militares o diplomáticos de seguridad nacional, o de datos suministrados por particulares bajo garantía de confidencia.
 
-##### ARTÍCULO 31
+##### Artículo 31
 Acceso a archivos y registros estatales. Toda persona tiene el derecho de conocer lo que de ella conste en archivos, fichas o cualquier otra forma de registros estatales, y la finalidad a que se dedica esta información, así como a corrección, rectificación y actualización. Quedan prohibidos los registros y archivos de filiación política, excepto los propios de las autoridades electorales y de los partidos políticos.
 
-##### ARTÍCULO 32
+##### Artículo 32
 Objeto de citaciones. No es obligatoria la comparecencia ante autoridad, funcionario o empleado público, si en las citaciones correspondientes no consta expresamente el objeto de la diligencia.
 
-##### ARTÍCULO 33
+##### Artículo 33
 Derecho de reunión y manifestación. Se reconoce el derecho de reunión pacífica y sin armas.
 
 Los derechos de reunión y de manifestación pública no pueden ser restringidos, disminuidos o coartados; y la ley los regulará con el único objeto de garantizar el orden público.
@@ -177,12 +177,12 @@ Las manifestaciones religiosas en el exterior de los templos son permitidas y se
 
 Para el ejercicio de estos derechos bastará la previa notificación de los organizadores ante la autoridad competente.
 
-##### ARTÍCULO 34
+##### Artículo 34
 Derecho de asociación. Se reconoce el derecho de libre asociación.
 
 Nadie está obligado a asociarse ni a formar parte de grupos o asociaciones de auto-defensa o similares. Se exceptúa el caso de la colegiación profesional.
 
-##### ARTÍCULO 35
+##### Artículo 35
 Libertad de emisión del pensamiento. Es libre la emisión del pensamiento por cualesquiera medios de difusión, sin censura ni licencia previa. Este derecho constitucional no podrá ser restringido por ley o disposición gubernamental alguna. Quien en uso de esta libertad faltare al respeto a la vida privada o a la moral, será responsable conforme a la ley. Quienes se creyeren ofendidos tienen derechos a la publicación de sus defensas, aclaraciones y rectificaciones.
 
 No constituyen delito o falta las publicaciones que contengan denuncias, críticas o imputaciones contra funcionarios o empleados públicos por actos efectuados en el ejercicio de sus cargos.
@@ -195,33 +195,33 @@ Es libre el acceso a las fuentes de información y ninguna autoridad podrá limi
 
 La autorización, limitación o cancelación de las concesiones otorgadas por el Estado a las personas, no pueden utilizarse como elementos de presión o coacción, para limitar el ejercicio de la libre emisión del pensamiento.
 
-Un jurado conocerá privativamente de los delitos o faltas a que se refiere este artículo.
+Un jurado conocerá privativamente de los delitos o faltas a que se refiere este Artículo.
 
 Todo lo relativo a este derecho constitucional se regula en la Ley Constitucional de Emisión del Pensamiento.
 
-Los propietarios de los medios de comunicación social, deberán proporcionar cobertura socioeconómica a sus reporteros, a través de la contratación de seguros de vida.
+Los propietarios de los medios de comunicación social, deberán proporcionar cobertura socio-económica a sus reporteros, a través de la contratación de seguros de vida.
 
-##### ARTÍCULO 36
+##### Artículo 36
 Libertad de religión. El ejercicio de todas las religiones es libre. Toda persona tiene derechos a practicar su religión o creencia, tanto en público como en privado, por medio de la enseñanza, el culto y la observancia, sin más límites que el orden público y el respeto debido a la dignidad de la jerarquía y a los fieles de otros credos.
 
-##### ARTÍCULO 37
+##### Artículo 37
 Personalidad jurídica de las iglesias. Se reconocer la personalidad jurídica de la Iglesia Católica. Las otras iglesias, cultos, entidades y asociaciones de carácter religioso obtendrán el reconocimiento de su personalidad jurídica conforme las reglas de su institución y el Gobierno no podrá negarlo si no fuese por razones de orden público.
 
 El Estado extenderá a la Iglesia Católica, sin costo alguno, títulos de propiedad de los bienes inmuebles que actualmente y en forma pacífica posee para sus propios fines, siempre que hayan formado parte del patrimonio de la Iglesia Católica en el pasado. No podrán ser afectados los bienes inscritos a favor de terceras personas, ni los que el Estado tradicionalmente ha destinado a sus servicios.
 
 Los bienes inmuebles de las entidades religiosas destinados al culto, a la educación y a la asistencia social, gozan de exención de impuestos, arbitrios y contribuciones.
 
-##### ARTÍCULO 38
+##### Artículo 38
 Tenencia y portación de armas. Se reconoce el derecho de tenencia de armas de uso personal, no prohibidas por la ley, en el lugar de habitación. No habrá obligación de entregarlas, salvo en los casos que fuera ordenado por el juez competente.
 
 Se reconoce el derecho de portación de armas, regulado por la ley.
 
-##### ARTÍCULO 39
+##### Artículo 39
 Propiedad privada. Se garantiza la propiedad privada como un derecho inherente a la persona humana. Toda persona puede disponer libremente de sus bienes de acuerdo con la ley.
 
 El Estado garantiza el ejercicio de este derecho y deberá crear las condiciones que faciliten al propietario el uso y disfrute de sus bienes, de manera que se alcance el progreso individual y el desarrollo nacional en beneficio de todos los guatemaltecos.
 
-##### ARTÍCULO 40
+##### Artículo 40
 Expropiación. En casos concretos, la propiedad privada podrá ser expropiada por razones de utilidad colectiva, beneficio social o interés público debidamente comprobadas. La expropiación deberá sujetarse a los procedimientos señalados por la ley, y el bien afectado se justipreciará por expertos tomando como base su valor actual.
 
 La indemnización deberá ser previa y en moneda efectiva de curso legal, a menos que con el interesado se convenga en otra forma de compensación.
@@ -230,128 +230,128 @@ Sólo en caso de guerra, calamidad pública o grave perturbación de la paz pued
 
 La forma de pago de las indemnizaciones por expropiación de tierras ociosas será fijado por la ley. En ningún caso el término para hacer efectivo dicho pago podrá exceder de diez años.
 
-##### ARTÍCULO 41
-Protección al derecho de propiedad. Por causa de actividad o delito político no puede limitarse el derecho de propiedad en forma alguna. Se prohibe la confiscación de bienes y la imposición de multas confiscatorias. Las multas en ningún caso podrán exceder del valor del impuesto omitido.
+##### Artículo 41
+Protección al derecho de propiedad. Por causa de actividad o delito político no puede limitarse el derecho de propiedad en forma alguna. Se prohíbe la confiscación de bienes y la imposición de multas confiscatorias. Las multas en ningún caso podrán exceder del valor del impuesto omitido.
 
-##### ARTÍCULO 42
+##### Artículo 42
 Derecho de autor o inventor. Se reconoce el derecho de autor y el derecho de inventor; los titulares de los mismos gozarán de la propiedad exclusiva de su obra o invento, de conformidad con la ley y los tratados internacionales.
 
-##### ARTÍCULO 43
+##### Artículo 43
 Libertad de industria, comercio y trabajo. Se reconoce la libertad de industria, de comercio y de trabajo, salvo las limitaciones que por motivos sociales o de interés nacional impongan las leyes.
 
-##### ARTÍCULO 44
+##### Artículo 44
 Derechos inherentes a la persona humana. Los derechos y garantías que otorga la Constitución no excluyen otros que, aunque no figuren expresamente en ella, son inherentes a la persona humana.
 
 El interés social prevalece sobre el interés particular.
 
 Serán nulas ipso jure las leyes y las disposiciones gubernativas o de cualquier otro orden que disminuyan, restrinjan o tergiversen los derechos que la Constitución garantiza.
 
-##### ARTÍCULO 45
+##### Artículo 45
 Acción contra infractores y legitimidad de resistencia. La acción para enjuiciar a los infractores de los derechos humanos es pública y puede ejercerse mediante simple denuncia, sin caución ni formalidad alguna. Es legítima la resistencia del pueblo para la protección y defensa de los derechos y garantías consignados en la Constitución.
 
-##### ARTÍCULO 46
+##### Artículo 46
 Preeminencia del Derecho Internacional. Se establece el principio general de que en materia de derechos humanos, los tratados y convenciones aceptados y ratificados por Guatemala, tienen preeminencia sobre el derecho interno.
 
-### CAPÍTULO II - DERECHOS SOCIALES
+### Capítulo 2 - Derechos Sociales
 
-#### SECCION PRIMERA FAMILIA
+#### Sección Primera Familia
 
-##### ARTÍCULO 47
+##### Artículo 47
 Protección a la familia. El Estado garantiza la protección social, económica y jurídica de la familia. Promoverá su organización sobre la base legal del matrimonio, la igualdad de derechos de los cónyuges, la paternidad responsable y el derecho de las personas a decir libremente el número y espaciamiento de sus hijos.
 
-##### ARTÍCULO 48
+##### Artículo 48
 Unión de hecho. El Estado reconoce la unión de hecho y la ley preceptuará todo lo relativo a la misma.
 
-##### ARTÍCULO 49
+##### Artículo 49
 Matrimonio. El matrimonio podrá ser autorizado por los alcaldes, concejales, notarios en ejercicio y ministros de culto facultados por la autoridad administrativa correspondiente.
 
-##### ARTÍCULO 50
+##### Artículo 50
 Igualdad de los hijos. Todos los hijos son iguales ante la ley y tienen los mismos derechos. Todos discriminación es punible.
 
-##### ARTÍCULO 51
+##### Artículo 51
 Protección a menores y ancianos. El Estado protegerá la salud física, mental y moral de los menores de edad y de los ancianos. Les garantizará su derecho a la alimentación, salud, educación y seguridad y previsión social.
 
-##### ARTÍCULO 52
+##### Artículo 52
 Maternidad. La maternidad tiene la protección del Estado, el que velará en forma especial por el estricto cumplimiento de los derechos y obligaciones que de ella se deriven.
 
-##### ARTÍCULO 53
+##### Artículo 53
 Minusválidos. El Estado garantiza la protección de los minusválidos y personas que adolecen de limitaciones físicas, psíquicas o sensoriales. Se declara de interés nacional su atención médico-social, así como la promoción de políticas y servicios que permitan su rehabilitación y su reincorporación integral a la sociedad. La ley regulará esta materia y creará los organismos técnicos y ejecutores que sean necesarios.
 
-##### ARTÍCULO 54
+##### Artículo 54
 Adopción. El Estado reconoce y protege la adopción. El adoptado adquiere la condición de hijo del adoptante. Se declara de interés nacional la protección de los niños huérfanos y de los niños abandonados.
 
-##### ARTÍCULO 55
+##### Artículo 55
 Obligación de proporcionar alimentos. Es punible la negativa a proporcionar alimentos en la forma que la ley prescribe.
 
-##### ARTÍCULO 56
+##### Artículo 56
 Acciones contra causas de desintegración familiar. Se declara de interés social, las acciones contra el alcoholismo, la drogadicción y otras causas de desintegración familiar. El Estado deberá tomar las medidas de prevención, tratamiento y rehabilitación adecuadas para hacer efectivas dichas acciones, por el bienestar del individuo, la familia y la sociedad.
 
-#### SECCION SEGUNDA CULTURA
+#### Sección Segunda Cultura
 
-##### ARTÍCULO 57
+##### Artículo 57
 Derecho a la cultura. Toda persona tiene derecho a participar libremente en la vida cultural y artística de la comunidad, así como a beneficiarse del progreso científico y tecnológico de la Nación.
 
-##### ARTÍCULO 58
+##### Artículo 58
 Identidad cultural. Se reconoce el derecho de las personas y de las comunidades a su identidad cultural de acuerdo a sus valores, su lengua y sus costumbres.
 
-##### ARTÍCULO 59
+##### Artículo 59
 Protección e investigación de la cultura. Es obligación primordial del Estado proteger, fomentar y divulgar la cultura nacional; emitir las leyes y disposiciones que tiendan a su enriquecimiento, restauración, preservación y recuperación; promover y reglamentar su investigación científica, así como la creación y aplicación de tecnología apropiada.
 
-##### ARTÍCULO 60
+##### Artículo 60
 Patrimonio cultural. Forman el patrimonio cultural de la Nación los bienes y valores paleontológicos, arqueológicos, históricos y artísticos del país y están bajo la protección del Estado. Se prohibe su enajenación, exportación o alteración salvo los casos que determine la ley.
 
-##### ARTÍCULO 61
+##### Artículo 61
 Protección al patrimonio cultural. Los sitios arqueológicos, conjuntos monumentales y el Centro Cultural de Guatemala, recibirán atención especial del Estado, con el propósito de preservar sus características y resguardar su valor histórico y bienes culturales. Estarán sometidos a régimen especial de conservación el Parque Nacional Tikal, el Parque Arqueológico de Quiriguá y la ciudad de Antigua Guatemala, por haber sido declarados Patrimonio Mundial, así como aquéllos que adquieran similar reconocimiento.
 
-##### ARTÍCULO 62
+##### Artículo 62
 Protección al arte, folklore y artesanías tradicionales. La expresión artística nacional, el arte popular, el folklore y las artesanías e industrias autóctonas, deben ser objeto de protección especial del Estado, con el fin de preservar su autenticidad. El Estado propiciará la apertura de mercados nacionales e internacionales para la libre comercialización de la obra de los artistas y artesanos, promoviendo su producción y adecuada a tecnificación.
 
-##### ARTÍCULO 63
+##### Artículo 63
 Derecho a la expresión creadora. El Estado garantiza la libre expresión creadora, apoya y estimula al científico, al intelectual y al artista nacional, promoviendo su formación y superación profesional y económica.
 
-##### ARTÍCULO 64
+##### Artículo 64
 Patrimonio natural. Se declara de interés nacional la conservación, protección y mejoramiento del patrimonio natural de la Nación. El Estado fomentará la creación de parques nacionales, reservas y refugios naturales, los cuales son inalienables. Una ley garantizará su protección y la de la fauna y la flora que en ellos exista.
 
-##### ARTÍCULO 65
+##### Artículo 65
 Preservación y promoción de la cultura. La actividad del Estado en cuanto a la preservación y promoción de la cultura y sus manifestaciones, está a cargo de un órgano específico con presupuesto propio.
 
-#### SECCION TERCERA COMUNIDADES INDIGENAS
+#### Sección Tercera Comunidades Indígenas
 
-##### ARTÍCULO 66
+##### Artículo 66
 Protección a grupos étnicos. Guatemala está formada por diversos grupos étnicos entre los que figuran los grupos indígenas de ascendencia maya. El Estado reconoce, respeta y promueve sus formas de vida, costumbres, tradiciones, formas de organización social, el uso del traje indígena en hombres y mujeres, idiomas y dialectos.
 
-##### ARTÍCULO 67
+##### Artículo 67
 Protección a las tierras y las cooperativas agrícolas indígenas. Las tierras de las cooperativas, comunidades indígenas o cualesquiera otras formas de tenencia comunal o colectiva de propiedad agraria, así como el patrimonio familiar y vivienda popular, gozarán de protección especial del Estado, asistencia crediticia y de técnica preferencial, que garanticen su posesión y desarrollo, a fin de asegurar a todos los habitantes una mejor calidad de vida.
 
 Las comunidades indígenas y otras que tengan tierras que históricamente les pertenecen y que tradicionalmente han administrado en forma especial, mantendrán ese sistema.
 
-##### ARTÍCULO 68
+##### Artículo 68
 Tierras para comunidades indígenas. Mediante programas especiales y legislación adecuada, el Estado proveerá de tierras estatales a las comunidades indígenas que las necesiten para su desarrollo.
 
-##### ARTÍCULO 69
+##### Artículo 69
 Traslación de trabajadores y su protección. Las actividades laborales que impliquen traslación de trabajadores fuera de sus comunidades, serán objeto de protección y legislación que aseguren las condiciones adecuadas de salud, seguridad y previsión social que impidan el pago de salarios no ajustados a la ley, la desintegración de esas comunidades y en general todo trato discriminatorio.
 
-##### ARTÍCULO 70
+##### Artículo 70
 Ley específica. Una ley regulará lo relativo a las materias de esta sección.
 
-#### SECCION CUARTA EDUCACION
+#### Sección Cuarta Educación
 
-##### ARTÍCULO 71
+##### Artículo 71
 Derecho a la educación. Se garantiza la libertad de enseñanza y de criterio docente. Es obligación del Estado proporcionar y facilitar educación a sus habitantes sin discriminación alguna. Se declara de utilidad y necesidad públicas la fundación y mantenimiento de centros educativos culturales y museos.
 
-##### ARTÍCULO 72
+##### Artículo 72
 Fines de la educación. La educación tiene como fin primordial el desarrollo integral de la persona humana, el conocimiento de la realidad y cultura nacional y universal.
 
 Se declaran de interés nacional la educación, la instrucción, formación social y la enseñanza sistemática de la Constitución de la República y de los derechos humanos.
 
-##### ARTÍCULO 73
+##### Artículo 73
 Libertad de educación y asistencia económica estatal. La familia es fuente de la educación y los padres tienen derecho a escoger la que ha de impartirse a sus hijos menores. El Estado podrá subvencionar a los centros educativos privados gratuitos y la ley regulará lo relativo a esta materia. Los centros educativos privados funcionarán bajo la inspección del Estado. Están obligados a llenar, por lo menos, los planes y programas oficiales de estudio. Como centros de cultura gozarán de la exención de toda clase de impuestos y arbitrios.
 
 La enseñanza religiosa es optativa en los establecimientos oficiales y podrá impartirse dentro de los horarios ordinarios, sin discriminación alguna.
 
 El Estado contribuirá al sostenimiento de la enseñanza religiosa sin discriminación alguna.
 
-##### ARTÍCULO 74
+##### Artículo 74
 Educación obligatoria. Los habitantes tienen el derecho y la obligación de recibir la educación inicial, preprimaria, primaria y básica, dentro de los límites de edad que fije la ley.
 
 La educación impartida por el Estado es gratuita.
@@ -362,64 +362,64 @@ La educación científica, la tecnológica y la humanística constituyen objetiv
 
 El Estado promoverá la educación especial, la diversificada y la extraescolar.
 
-##### ARTÍCULO 75
+##### Artículo 75
 Alfabetización. La alfabetización se declara de urgencia nacional y es obligación social contribuir a ella. El Estado debe organizarla y promoverla con todos los recursos necesarios.
 
-##### ARTÍCULO 76
+##### Artículo 76
 Sistema educativo y enseñanza bilingüe. La administración del sistema educativo deberá ser descentralizado y regionalizado.
 
 En las escuelas establecidas en zonas de predominante población indígena, la enseñanza deberá impartirse preferentemente en forma bilingüe.
 
-##### ARTÍCULO 77
+##### Artículo 77
 Obligaciones de los propietarios de empresas. Los propietarios de las empresas industriales, agrícolas, pecuarias y comerciales están obligados a establecer y mantener, de acuerdo con la ley, escuelas, guarderías y centros culturales para sus trabajadores y población escolar.
 
-##### ARTÍCULO 78
+##### Artículo 78
 Magisterio. El Estado promoverá la superación económica social y cultural del magisterio, incluyendo el derecho a la jubilación que haga posible su dignificación efectiva.
 
 Los derechos adquiridos por el magisterio nacional tiene carácter de mínimos e irrenunciables. la ley regulará estas materias.
 
-##### ARTÍCULO 79
+##### Artículo 79
 Enseñanza agropecuaria. Se declara de interés nacional el estudio, aprendizaje, explotación, comercialización e industrialización agropecuaria. Se crea como entidad descentralizada, autónoma, con personalidad jurídica y patrimonio propio, la Escuela Nacional Central de Agricultura; debe organizar, dirigir y desarrollar los planes de estudio agropecuario y forestal de la Nación a nivel de enseñanza media; y se regirá por su propia ley orgánica, correspondiéndole una asignación no menor del cinco por ciento del presupuesto ordinario del Ministerio de Agricultura.
 
-##### ARTÍCULO 80
+##### Artículo 80
 Promoción de la ciencia y la tecnología. El Estado reconoce y promueve la ciencia y la tecnología como bases fundamentales del desarrollo nacional. La ley normará lo pertinente.
 
-##### ARTÍCULO 81
+##### Artículo 81
 Títulos y diplomas. Los títulos y diplomas cuya expedición corresponda al Estado, tiene plena validez legal.
 
 Los derechos adquiridos por el ejercicio de las profesionales acreditadas por dichos títulos, deben ser respetados y no podrán emitirse disposiciones de cualquier clase que los limiten o restrinjan.
 
-#### SECCION QUINTA UNIVERSIDADES
+#### Sección Quinta Universidades
 
-##### ARTÍCULO 82
+##### Artículo 82
 Autonomía de la Universidad de San Carlos de Guatemala. La Universidad de San Carlos de Guatemala, es una institución autónoma con personalidad jurídica. En su carácter de única universidad estatal le corresponde con exclusividad dirigir, organizar y desarrollar la educación superior del Estado y la educación profesional universitaria estatal, así como la difusión de la cultura en todas sus manifestaciones. Promoverá por todos los medios a su alcance la investigación en todas las esferas del saber humano y cooperará al estudio y solución de los problemas nacionales.
 
 Se rige por su Ley Orgánica y por los estatutos y reglamentos que ella emita, debiendo observarse en la conformación de los órganos de dirección, el principio de representación de sus catedráticos titulares, sus graduados y sus estudiantes.
 
-##### ARTÍCULO 83
+##### Artículo 83
 Gobierno de la Universidad de San Carlos de Guatemala. El gobierno de la Universidad de San Carlos de Guatemala corresponde al Consejo Superior Universitario, integrado por el Rector, quien lo preside; los decanos de las facultades; un representante del colegio profesional, egresado de la Universidad de San Carlos de Guatemala, que corresponda a cada facultad; un catedrático titular y un estudiante por cada facultad.
 
-##### ARTÍCULO 84
+##### Artículo 84
 Asignación presupuestaria para la Universidad de San Carlos de Guatemala. Corresponde a la Universidad de San Carlos de Guatemala una asignación privativa no menor del cinco por ciento del Presupuesto General de Ingresos Ordinarios del Estado, debiéndose procurar un incremento presupuestal adecuado al aumento de su población estudiantil o al mejoramiento del nivel académico.
 
-##### ARTÍCULO 85
+##### Artículo 85
 Universidades privadas. A las universidades privadas, que son instituciones independientes, les corresponde organizar y desarrollar la educación superior privada de la Nación, con el fin de contribuir a la formación profesional, a la investigación científica, a la difusión de la cultura y al estudio y solución de los problemas nacionales.
 
 Desde que sea autorizado el funcionamiento de una universidad privada, tendrá personalidad jurídica y libertad para crear sus facultades e institutos, desarrollar sus actividades académicas y docentes, así como para el desenvolvimiento de sus planes y programas de estudio.
 
-##### ARTÍCULO 86
+##### Artículo 86
 Consejo de la Enseñanza Privada Superior. El Consejo de la Enseñanza Privada Superior tendrá las funciones de velar porque se mantenga el nivel académico en las universidades privadas sin menoscabo de su independencia y de autorizar la creación de nuevas universidades; se integra por dos delegados de la Universidad de San Carlos de Guatemala, dos delegados por las universidades privadas y un delegado electo por los presidentes de los colegios profesionales que no ejerza cargo alguno en ninguna universidad.
 
 La presidencia se ejercerá en forma rotativa. La ley regulará esta materia.
 
-##### ARTÍCULO 87
+##### Artículo 87
 Reconocimiento de grados, títulos, diplomas e incorporaciones. Sólo serán reconocidos en Guatemala, los grados, títulos y diplomas otorgados por las universidades legalmente autorizadas y organizadas para funcionar en el país, salvo lo dispuesto por tratados internacionales.
 
 La Universidad de San Carlos de Guatemala, es la única facultada para resolver la incorporación de profesionales egresados de universidades extranjeras y para fijar los requisitos previos que al efecto hayan de llenarse, así como para reconocer títulos y diplomas de carácter universitarios amparados por tratados internacionales. Los títulos otorgados por universidades centroamericanas tendrán plena validez en Guatemala al lograrse la unificación básica de los planes de estudio.
 
-No podrán dictarse disposiciones legales que otorguen privilegios en perjuicio de quienes ejercen una profesión con título o que ya han sido autorizados legalmente para ejercerla.
+No podrán dictarse disposiciones legales que otorguen privilegios en perjuicio de quienes ejercen una profesión con Título o que ya han sido autorizados legalmente para ejercerla.
 
-##### ARTÍCULO 88
+##### Artículo 88
 Exenciones y deducciones de los impuestos. Las universidades están exentas del pago de toda clase de impuestos, arbitrios y contribuciones, sin excepción alguna.
 
 Serán deducibles de la renta neta gravada por el Impuesto sobre la Renta las donaciones que se otorguen a favor de las universidades, entidades culturales o científicas.
@@ -428,10 +428,10 @@ El Estado podrá dar asistencia económica a las universidades privadas, para el
 
 No podrán ser objeto de procesos de ejecución ni podrán ser intervenidas la Universidad de San Carlos de Guatemala y las universidades privadas, salvo el caso de las universidades privadas cuando la obligación que se haga valer provenga de contratos civiles, mercantiles o laborales.
 
-##### ARTÍCULO 89
+##### Artículo 89
 Otorgamiento de grados, títulos y diplomas. Solamente las universidades legalmente autorizadas podrán otorgar grados y expedir títulos y diplomas de graduación en educación superior.
 
-##### ARTÍCULO 90
+##### Artículo 90
 Colegiación profesional. La colegiación de los profesionales universitarios es obligatoria y tendrá por fines la superación moral, científica, técnica y material de las profesiones universitarias y el control de su ejercicio.
 
 Los colegios profesionales, como asociaciones gremiales con personalidad jurídica, funcionarán de conformidad con la Ley de Colegiación Profesional obligatoria y los estatutos de cada colegio se aprobarán con independencia de las universidades de las que fueren egresados sus miembros.
@@ -440,41 +440,41 @@ Contribuirán al fortalecimiento de la autonomía de la Universidad de San Carlo
 
 En todo asunto que se relaciones con el mejoramiento del nivel científico y técnico cultural de las profesiones universitarias, las universidades del país podrán requerir la participación de los colegios profesionales.
 
-#### SECCION SEXTA DEPORTE
+#### Sección Sexta Deporte
 
-##### ARTÍCULO 91
+##### Artículo 91
 Asignación presupuestaria para el deporte. Es deber del Estado el fomento y la promoción de la educación física y el deporte. Para ese efecto, se destinará una asignación privativa no menor del tres por ciento del Presupuesto General de Ingresos Ordinarios del Estado. De tal asignación el cincuenta por ciento se destinará al sector del deporte federado a través de sus organismos rectores, en la forma que establezca la ley; veinticinco por ciento a educación física, recreación y deportes escolares; y veinticinco pro ciento al deporte no federado.
 
-##### ARTÍCULO 92
+##### Artículo 92
 Autonomía del deporte. Se reconoce y garantiza la autonomía del deporte federado a través de sus organismos rectores, Confederación Deportiva Autónoma de Guatemala y Comité Olímpico Guatemalteco, que tienen personalidad jurídica y patrimonio propio, quedando exonerados de toda clase de impuestos y arbitrios.
 
-#### SECCION SEPTIMA SALUD, SEGURIDAD Y ASISTENCIA SOCIAL
+#### Sección Séptima Salud, Seguridad y Asistencia Social
 
-##### ARTÍCULO 93
+##### Artículo 93
 Derecho a la salud. El goce de la salud es derecho fundamental del ser humano, sin discriminación alguna.
 
-##### ARTÍCULO 94
+##### Artículo 94
 Obligación del Estado, sobre salud y asistencia social. El Estado velará por la salud y la asistencia social de todos los habitantes. Desarrollará, a través de sus instituciones, acciones de prevención, promoción, recuperación, rehabilitación, coordinación y las complementarias pertinentes a fin de procurarles el más completo bienestar físico, mental y social.
 
-##### ARTÍCULO 95
+##### Artículo 95
 La salud, bien público. La salud de los habitantes de la Nación es un bien público. Todas las personas e instituciones están obligadas a velar por su conservación y restablecimiento.
 
-##### ARTÍCULO 96
+##### Artículo 96
 Control de calidad de productos. El Estado controlará la calidad de los productos alimenticios, farmacéuticos, químicos y de todos aquéllos que puedan afectar la salud y bienestar de los habitantes. Velará por el establecimiento y programación de la atención primaria de la salud, y por el mejoramiento de las condiciones de saneamiento ambiental básico de las comunidades menos protegidas.
 
-##### ARTÍCULO 97
+##### Artículo 97
 Medio ambiente y equilibrio ecológico. El Estado, las municipalidades y los habitantes del territorio nacional están obligados a propiciar el desarrollo social, económico y tecnológico que prevenga la contaminación del ambiente y mantenga el equilibrio ecológico. Se dictarán todas las normas necesarias para garantizar que la utilización y el aprovechamiento de la fauna, de la flora, de la tierra y del agua, se realicen racionalmente, evitando su depredación.
 
-##### ARTÍCULO 98
+##### Artículo 98
 Participación de las comunidades en programas de salud. Las comunidades tienen el derecho y el deber de participar activamente en el planificación, ejecución y evaluación de los programas de salud.
 
-##### ARTÍCULO 99
+##### Artículo 99
 Alimentación y nutrición. El Estado velará porque la alimentación y nutrición de la población reúna los requisitos mínimos de salud. Las instituciones especializadas del Estado deberán coordinar sus acciones entre sí o con organismos internacionales dedicados a la salud, para lograr un sistema alimentario nacional efectivo.
 
-##### ARTÍCULO 100
+##### Artículo 100
 Seguridad social. El Estado reconoce y garantiza el derecho a la seguridad social para beneficio de los habitantes de la Nación. Su régimen se instituye como función pública, en forma nacional, unitaria y obligatoria.
 
-El Estado, los empleadores y los trabajadores cubiertos por el régimen, con la única excepción de lo preceptuado por el artículo 88 de esta Constitución, tienen obligación de contribuir a financiar dicho régimen y derecho a participar en su dirección, procurando su mejoramiento progresivo.
+El Estado, los empleadores y los trabajadores cubiertos por el régimen, con la única excepción de lo preceptuado por el Artículo 88 de esta Constitución, tienen obligación de contribuir a financiar dicho régimen y derecho a participar en su dirección, procurando su mejoramiento progresivo.
 
 La aplicación del régimen de seguridad social corresponde al Instituto Guatemalteco de Seguridad Social, que es una entidad autónoma con personalidad jurídica, patrimonio y funciones propias; goza de exoneración total de impuestos, contribuciones y arbitrios, establecidos o por establecerse. El Instituto Guatemalteco de Seguridad Social debe participar con las instituciones de salud en forma coordinada.
 
@@ -482,12 +482,12 @@ El Organismo Ejecutivo asignará anualmente en el Presupuesto de Ingresos y Egre
 
 Contra las resoluciones que se dicten en esta materia, producen los recursos administrativos y el de lo contencioso-administrativo de conformidad con la ley. Cuando se trate de prestaciones que deba otorgar el régimen, conocerán los tribunales de trabajo y previsión social.
 
-#### SECCION OCTAVA TRABAJO
+#### Sección Octava Trabajo
 
-##### ARTÍCULO 101
+##### Artículo 101
 Derecho al trabajo. El trabajo es un derecho de la persona y una obligación social. El régimen laboral del país debe organizarse conforme a principios de justicia social.
 
-##### ARTÍCULO 102
+##### Artículo 102
 Derechos sociales mínimos de la legislación del trabajo. Son derechos sociales mínimos que fundamentan la legislación del trabajo y la actividad de los tribunales y autoridades:
 
 * a) Derecho a la libre elección de trabajo y a condiciones económicas satisfactorias que garanticen el trabajador y a su familia una existencia digna;
@@ -515,80 +515,80 @@ Derechos sociales mínimos de la legislación del trabajo. Son derechos sociales
 * p) Es obligación del empleador otorgar al cónyuge o conviviente, hijos menores o incapacitados de un trabajador que fallezca estando a su servicio, una prestación equivalente a un mes de salario por cada año laborado. Esta prestación se cubrirá por mensualidades vencidas y su monto no será menor del último salario recibido por el trabajador. Si la muerte ocurre por causa cuyo riesgo esté cubierto totalmente por el régimen de seguridad social, cesa esta obligación del empleador. En caso de que este régimen no cubra íntegramente la prestación, el empleador deberá pagar la diferencia;
 * q) Derecho de sindicalización libre de los trabajadores. Este derecho lo podrán ejercer sin discriminación alguna y sin estar sujetos a autorización previa, debiendo únicamente cumplir con llenar los requisitos que establezca la ley. Los trabajadores no podrán ser despedidos por participar en la formación de un sindicato, debiendo gozar de este derecho a partir del momento en que den aviso a la Inspección General de Trabajo. Sólo los guatemaltecos por nacimientos podrán intervenir en la organización, dirección y asesoría de la entidades sindicales. Se exceptúan los casos de asistencia técnica gubernamental y lo dispuesto en tratos internacionales o en convenios intersindicales autorizados por el Organismo Ejecutivo;
 * r) El establecimiento de instituciones económicas y de previsión social que, en beneficio de los trabajadores, otorguen prestaciones de todo orden especialmente por invalidez, jubilación y sobrevivencia;
-* s) Si el empleador no probare la justa causa del despido, debe pagar al trabajador a título de daños y perjuicios un mes de salario si el juicio se ventila en una instancia, dos meses de salario en caso de apelación de la sentencia, y si el proceso durare en su trámite más de dos meses, deberá pagar el cincuenta por ciento del salario del trabajador, por cada mes que excediere el trámite de ese plazo, hasta un máximo, en este caso, de seis meses; y
+* s) Si el empleador no probare la justa causa del despido, debe pagar al trabajador a Título de daños y perjuicios un mes de salario si el juicio se ventila en una instancia, dos meses de salario en caso de apelación de la sentencia, y si el proceso durare en su trámite más de dos meses, deberá pagar el cincuenta por ciento del salario del trabajador, por cada mes que excediere el trámite de ese plazo, hasta un máximo, en este caso, de seis meses; y
 * t) El Estado participará en convenios y tratados internacionales o regionales que se refieran a asuntos de trabajo y que concedan a los trabajadores mejores protecciones o condiciones.
 
 En tales casos, lo establecido en dichos convenios y tratados se considerará como parte de los derechos mínimos de que gozan los trabajadores de la República de Guatemala.
 
-##### ARTÍCULO 103
+##### Artículo 103
 Tutelaridad de las leyes de trabajo. Las leyes que regulan las relaciones entre empleadores y el trabajo son conciliatorias, tutelares para los trabajadores y atenderán a todos los factores económicos y sociales pertinentes. Para el trabajo agrícola la ley tomará especialmente en cuenta sus necesidades y las zonas en que se ejecuta.
 
 Todos los conflictos relativos al trabajo están sometidos a jurisdicción privativa. La ley establecerá las normas correspondientes a esa jurisdicción y los órganos encargados de ponerlas en práctica.
 
-##### ARTÍCULO 104
+##### Artículo 104
 Derecho de huelga y paro. Se reconoce el derecho de huelga y para ejercido de conformidad con la ley, después de agotados todos los procedimientos de conciliación. Estos derechos podrán ejercerse únicamente por razones de orden económico social. Las leyes establecerán los casos y situaciones en que no serán permitidos la huelga y el paro.
 
-##### ARTÍCULO 105
+##### Artículo 105
 Viviendas de los trabajadores. El Estado, a través de las entidades específicas, apoyará la planificación y construcción de conjuntos habitacionales, estableciendo los adecuados sistemas de financiamiento, que permitan atender los diferentes programas, para que los trabajadores puedan optar a viviendas adecuadas y que llenen las condiciones de salubridad.
 
 Los propietarios de las empresas quedan obligados a proporcionar a sus trabajadores, en los casos establecidos por la ley, viviendas que llenen los requisitos anteriores.
 
-##### ARTÍCULO 106
+##### Artículo 106
 Irrenunciabilidad de los derechos laborales. Los derechos consignados en esta sección son irrenunciables para los trabajadores, susceptibles de ser superados a través de la contratación individual o colectiva, y en la forma que fija la ley. Para este fin el Estado fomentará y protegerá la negociación colectiva. Serán nulas ipso jure y no obligarán a los trabajadores, aunque se expresen en un contrato colectivo o individual de trabajo, en un convenio o en otro documento, las estipulaciones que impliquen renuncia, disminución tergiversación o limitación de los derechos reconocidos a favor de los trabajadores en la Constitución, en la ley, en los tratados internacionales ratificados por Guatemala, en los reglamentos u otras disposiciones relativas al trabajo.
 
 En caso de duda sobre la interpretación o alcance de las disposiciones legales, reglamentarias o contractuales en materia laboral, se interpretarán en el sentido más favorable para los trabajadores.
 
-#### SECCION NOVENA TRABAJADORES DEL ESTADO
+#### Sección Novena Trabajadores del Estado
 
-##### ARTÍCULO 107
+##### Artículo 107
 Trabajadores del Estado. Los trabajadores del Estado están al servicio de la administración pública y nunca de partido político, grupo, organización o persona alguna.
 
-##### ARTÍCULO 108
+##### Artículo 108
 Régimen de los trabajadores del Estado. Las relaciones del Estado y sus entidades descentralizadas o autónomas con sus trabajadores se rigen por la Ley de Servicio Civil, con excepción de aquellas que se rijan por leyes o disposiciones propias de dichas entidades.
 
 Los trabajadores del Estado o de sus entidades descentralizadas autónomas que por ley o por costumbre reciban prestaciones que superen a las establecidas en la Ley de Servicio Civil, conservarán ese trato.
 
-##### ARTÍCULO 109
+##### Artículo 109
 Trabajadores por planilla. Los trabajadores del Estado y sus entidades descentralizadas o autónomas que laboren por planilla, serán equiparados en salarios, prestaciones y derechos a los otros trabajadores del Estado.
 
-##### ARTÍCULO 110
+##### Artículo 110
 Indemnización. Los trabajadores del Estado, al ser despedidos sin causa justificada, recibirán su indemnización equivalente aun mes de salario por cada año de servicios continuos prestados. Este derecho en ningún caso excederá de diez meses de salario.
 
-##### ARTÍCULO 111
+##### Artículo 111
 Régimen de entidades descentralizadas. Las entidades descentralizadas del Estado, que realicen funciones económicas similares a las empresas de carácter privado, se regirán en sus relaciones de trabajo con el personal a su servicio por las leyes laborales comunes, siempre que nos menoscaben otros derechos adquiridos.
 
-##### ARTÍCULO 112
+##### Artículo 112
 Prohibición de desempeñar más de un cargo público. Ninguna persona puede desempeñar más de un empleo o cargo público remunerado, con excepción de quienes presten servicios en centros docentes o instituciones asistenciales y siempre que haya compatibilidad en los horarios.
 
-##### ARTÍCULO 113
+##### Artículo 113
 Derecho a optar a empleos o cargos públicos. Los guatemaltecos tienen derecho a optar a empleos o cargos públicos y para su otorgamiento no se atenderá más que razones fundadas en méritos de capacidad, idoneidad y honradez.
 
-##### ARTÍCULO 114
+##### Artículo 114
 Revisión a la jubilación. Cuando un trabajador del Estado que goce del beneficio de la jubilación, regrese a un cargo público, dicha jubilación cesará de inmediato, pero al terminar la nueva relación laboral, tiene derecho a optar por la revisión del expediente respectivo y a que se le otorgue el beneficio derivado del tiempo servido y del último salario devengado, durante el nuevo cargo.
 
 Conforme las posibilidades del Estado, se procederá a revisar periódicamente las cuantías asignadas a jubilaciones, pensiones y montepíos.
 
-##### ARTÍCULO 115
+##### Artículo 115
 Cobertura gratuita del Instituto Guatemalteco de Seguridad Social a jubilados. Las personas que gocen de jubilación, pensión o montepío del Estado e instituciones autónomas y descentralizadas, tiene derecho a recibir gratuitamente la cobertura total de los servicios médicos del Instituto Guatemalteco de Seguridad Social.
 
-##### ARTÍCULO 116
+##### Artículo 116
 Regulación de la huelga para trabajadores del Estado. Las asociaciones, agrupaciones y los sindicatos formados por trabajadores del estado y sus entidades descentralizadas y autónomas, no pueden participar en actividades políticas partidista.
 
 Se reconoce el derecho de huelga de los trabajadores del Estado y sus entidades descentralizadas y autónomas. Este derecho únicamente podrá ejercitarse en la forma que preceptúe la ley de la materia y en ningún caso deberá afectar la tensión de los servicios públicos esenciales.
 
-##### ARTÍCULO 117
+##### Artículo 117
 Opción al régimen de clases pasivas. Los trabajadores de las entidades descentralizadas o autónomas que no estén afectos a descuentos para el fondo de clases pasivas, ni gocen de los beneficios correspondientes, podrán acogerse a este régimen y, la dependencia respectiva, en este caso, deberá aceptar la solicitud del interesado y ordenar a quien corresponde que se hagan los descuentos correspondientes.
 
-#### SECCION DECIMA REGIMEN ECONOMICO Y SOCIAL
+#### Sección Décima Régimen Económico y Social
 
-##### ARTÍCULO 118
+##### Artículo 118
 Principios del Régimen Económico y Social. El régimen económico y social de la República de Guatemala se funda en principios de justicia social.
 
 Es obligación del Estado orientar la economía nacional para lograr la utilización de los recursos naturales y el potencial humano, para incrementar la riqueza y tratar de lograr el pleno empleo y la equitativa distribución del ingreso nacional.
 
 Cuando fuere necesario, el Estado actuará complementando la iniciativa y la actividad privada, para el logro de los fines expresados.
 
-##### ARTÍCULO 119
+##### Artículo 119
 Obligaciones del Estado. Son obligaciones fundamentales del Estado:
 
 a. Promover el desarrollo económico de la Nación, estimulando la iniciativa en actividades agrícolas, pecuarias, industriales, turísticas y de otra naturaleza;
@@ -607,10 +607,10 @@ a. Promover el desarrollo económico de la Nación, estimulando la iniciativa en
 * m) Mantener dentro de la política económica, una relación congruente entre el gasto público y la producción nacional; y
 * n) Crear las condiciones adecuadas para promover la inversión de capitales nacionales y extranjeros.
 
-##### ARTÍCULO 120
+##### Artículo 120
 Intervención de empresas que prestan servicios públicos. El Estado podrá, en caso de fuerza mayor y por el tiempo estrictamente necesario, intervenir las empresas que prestan servicios públicos esenciales para la comunidad, cuando se obstaculizare su funcionamiento.
 
-##### ARTÍCULO 121
+##### Artículo 121
 Bienes del Estado. Son bienes del estado:
 
 * a) Los de dominio público;
@@ -622,7 +622,7 @@ Bienes del Estado. Son bienes del estado:
 * g) Los ingresos fiscales y municipales, así como los de carácter privativo que las leyes asignen a las entidades descentralizadas y autónomas; y
 * h) Las frecuencias radioeléctricas.
 
-##### ARTÍCULO 122
+##### Artículo 122
 Reservas territoriales del Estado. El Estado se reserva el dominio de una faja terrestre de tres kilómetros a lo largo de los océanos, contados a partir de la línea superior de las mareas; de doscientos metros alrededor de las orillas de los lagos; de cien metros a cada lado de las riberas de los ríos navegables; de cincuenta metros alrededor de las fuentes y manantiales donde nazcan las aguas que surtan a las poblaciones.
 
 Se exceptúan de las expresadas reservas:
@@ -632,44 +632,44 @@ Se exceptúan de las expresadas reservas:
 
 Los extranjeros necesitarán autorización del ejecutivo, para adquirir en propiedad, inmuebles comprendidos en las excepciones de los dos incisos anteriores. Cuando se trate de propiedades declaradas como monumento nacional o cuando se ubiquen en conjuntos monumentales, el Estado tendrá derecho preferencial en toda enajenación.
 
-##### ARTÍCULO 123
+##### Artículo 123
 Limitaciones en las fajas fronterizas. Sólo los guatemaltecos de origen, o las sociedades cuyos miembros tengan las mismas calidades, podrán ser propietarios o poseedores de inmuebles situados en la faja de quince kilómetros de ancho a lo largo de las fronteras, medidos desde la línea divisoria. Se exceptúan los bienes urbanos y los derechos inscritos con anterioridad al primero de marzo de mil novecientos cincuenta y seis.
 
-##### ARTÍCULO 124
+##### Artículo 124
 Enajenación de los bienes nacionales. Los bienes nacionales sólo podrán ser enajenados en la forma que determine la ley, la cual fijará las limitaciones y formalidades a que deba sujetarse la operación y sus objetivos fiscales.
 
 Las entidades descentralizadas o autónomas, se regirán por lo que dispongan sus leyes y reglamentos.
 
-##### ARTÍCULO 125
+##### Artículo 125
 Explotación de recursos naturales no renovables. Se declara de utilidad y necesidad públicas, la explotación técnica y racional de hidrocarburos, minerales y demás recursos naturales no renovables.
 
 El Estado establecerá y propiciará las condiciones propias para su exploración, explotación y comercialización.
 
-##### ARTÍCULO 126
+##### Artículo 126
 Reforestación. Se declara de urgencia nacional y de interés social, la reforestación del país y la conservación de los bosques. La ley determinará la forma y requisitos para la explotación racional de los recursos forestales y su renovación, incluyendo las resinas, gomas, productos vegetales silvestres no cultivados y demás productos similares, y fomentará su industrialización. La explotación de todos estos recursos, corresponderá exclusivamente a personas guatemaltecos, individuales o jurídicas.
 
 Los bosques y la vegetación en las riberas de los ríos y lagos, y en las cercanías de las fuentes de aguas, gozarán de especial protección.
 
-##### ARTÍCULO 127
+##### Artículo 127
 Régimen de aguas. Todas las aguas son bienes de dominio público, inalienables e imprescriptibles. Su aprovechamiento, uso y goce, se otorgan en la forma establecida por la ley, de acuerdo con el interés social. Una ley específica regulará esta materia.
 
-##### ARTÍCULO 128
+##### Artículo 128
 Aprovechamiento de aguas, lagos y ríos. El aprovechamiento de las aguas de los lagos y de los ríos, para fines agrícolas, agropecuarios, turísticos o de cualquier otra naturaleza, que contribuya al desarrollo de la economía nacional, está al servicios de la comunidad y no de persona particular alguna, pero los usuarios están obligados a reforestar las riberas y los cauces correspondientes, así como a facilitar las vías de acceso.
 
-##### ARTÍCULO 129
+##### Artículo 129
 Electrificación. Se declara de urgencia nacional, la electrificación del país, con base en planes formulados por el Estado y las municipalidades, en la cual podrá participar la iniciativa privada.
 
-##### ARTÍCULO 130
+##### Artículo 130
 Prohibición de monopolios. Se prohiben los monopolios y privilegios. El Estado limitará el funcionamiento de las empresas que absorban o tiendan a absorber, en perjuicio de la economía nacional, la producción en uno o más ramos industriales o de una misma actividad comercial o agropecuaria. Las leyes determinarán lo relativo a esta materia. El Estado protegerá la economía de mercado e impedirá las asociaciones que tiendan a restringir la libertad del mercado o a perjudicar a los consumidores.
 
-##### ARTÍCULO 131
+##### Artículo 131
 Servicio de transporte comercial. Por su importancia económica en el desarrollo del país, se reconoce la utilidad pública, y por lo tanto, gozan de la protección del Estado, todos los servicios de transporte comercial y turístico, sean terrestres, marítimos o aéreos, dentro de los cuales quedan comprendidas las naves, vehículos, instalaciones y servicios.
 
 Las terminales terrestres, aeropuertos y puertos marítimos comerciales, se consideran bienes de uso público común y así como los servicios del transporte, quedan sujetos únicamente a la jurisdicción de autoridades civiles. Queda prohibida la utilización de naves, vehículos y terminales, propiedad de entidades gubernamentales y del Ejército Nacional, para fines comerciales; esta disposición no es aplicable a las entidades estatales descentralizadas que presten servicio de transporte.
 
 Para la instalación y explotación de cualquier servicio de transporte nacional o internacional, es necesaria la autorización gubernamental. Para este propósito, una vez llenados los requisitos legales correspondientes por el solicitante, la autoridad gubernativa deberá extender la autorización inmediatamente.
 
-##### ARTÍCULO 132
+##### Artículo 132
 Moneda. Es potestad exclusiva del Estado, emitir y regular la moneda, así, como formular y realizar las políticas que tiendan a crear y mantener condiciones cambiarias y crediticias favorables al desarrollo ordenado de la economía nacional. Las actividades monetarias, bancarias y financieras, estarán organizadas bajo el sistema de banca central, el cual ejerce vigilancia sobre todo lo relativo a la circulación de dinero y a la deuda pública. dirigirá este sistema, la Junta Monetaria, de la que depende el Banco de Guatemala, entidad autónoma con patrimonio propio, que se regirá por su Ley Orgánica y la Ley Monetaria.
 
 La Junta Monetaria se integra con los siguientes miembros:
@@ -691,12 +691,12 @@ El Presidente, el Vicepresidente y los designados por el Consejo Superior Univer
 
 Los actos y decisiones de la Junta Monetaria, están sujetos a los recursos administrativos y al de lo contencioso-administrativo y de casación.
 
-##### ARTÍCULO 133
+##### Artículo 133
 Junta Monetaria. La Junta Monetaria tendrá a su cargo la determinación de la política monetaria, cambiaria y crediticia del país y velará por la liquidez y solvencia del Sistema Bancario Nacional, asegurando la estabilidad y el fortalecimiento de la banca privada nacional.
 
 La Superintendencia de Bancos, organizada conforme a la ley, es el órgano que ejercerá la vigilancia e inspección de bancos, instituciones de crédito, empresas financieras, entidades afianzadoras, de seguros y las demás que la ley disponga.
 
-##### ARTÍCULO 134
+##### Artículo 134
 Descentralización y autonomía. El municipio y las entidades autónomas y descentralizadas, actúan por delegación del Estado.
 
 La autonomía, fuera de los casos especiales contemplados en la Constitución de la República, se concederá únicamente, cuando se estime indispensable para la mayor eficiencia de la entidad y el mejor cumplimiento de sus fines. Para crear entidades descentralizadas y autónomas, será necesario el voto favorable de las dos terceras partes del Congreso de la República.
@@ -712,9 +712,9 @@ Se establecen como obligaciones mínimas del municipio y de toda entidad descent
 
 De considerarse inoperante el funcionamiento de una entidad descentralizada, será suprimida mediante el voto favorable de las dos terceras partes del Congreso de la República.
 
-### CAPÍTULO III - DEBERES Y DERECHOS CIVICOS Y POLITICOS
+### Capítulo 3 - Deberes y Derechos Cívicos y Políticos
 
-##### ARTÍCULO 135
+##### Artículo 135
 Deberes y derechos cívicos. Son derechos y deberes de los guatemaltecos, además de los consignados en otras normas de la Constitución y leyes de la República, los siguientes:
 
 * a) Servir y defender a la Patria;
@@ -725,7 +725,7 @@ Deberes y derechos cívicos. Son derechos y deberes de los guatemaltecos, ademá
 * f) Guardar el debido respeto a las autoridades; y
 * g) Prestar servicio militar y social, de acuerdo con la ley.
 
-##### ARTÍCULO 136
+##### Artículo 136
 Deberes y derechos políticos. Son derechos y deberes de los ciudadanos:
 
 * a) Inscribirse en el Registro de Ciudadanos;
@@ -735,15 +735,15 @@ Deberes y derechos políticos. Son derechos y deberes de los ciudadanos:
 * e) Participar en actividades políticas; y
 * f) Defender el principio de alternabilidad y no reelección en el ejercicio de la Presidencia de la República.
 
-##### ARTÍCULO 137
+##### Artículo 137
 Derecho de petición en materia política. El derecho de petición en materia política, corresponde exclusivamente a los guatemaltecos.
 
 Toda petición en esta materia, deberá ser resuelta y notificada, en un término que no exceda de ocho días. Si la autoridad no resuelve en ese término, se tendrá por denegada la petición y el interesado podrá interponer los recursos de ley.
 
-### CAPÍTULO IV - LIMITACION A LOS DERECHOS CONSTITUCIONALES
+### Capítulo 4 - Limitación a los Derechos Constitucionales
 
-##### ARTÍCULO 138
-Limitación a los derechos constitucionales. Es obligación del Estado y de las autoridades, mantener a los habitantes de la Nación, en el pleno goce de los derechos que la Constitución garantiza. Sin embargo, en caso de invasión del territorio, de perturbación grave de la paz, de actividades contra la seguridad del Estado o calamidad pública, podrá cesar la plana vigencia de los derechos a que se refieren los artículo 5, 6, 9, 26, 33, primer párrafo del artículo 35, segundo párrafo del artículo 38 y segundo párrafo del artículo 116.
+##### Artículo 138
+Limitación a los derechos constitucionales. Es obligación del Estado y de las autoridades, mantener a los habitantes de la Nación, en el pleno goce de los derechos que la Constitución garantiza. Sin embargo, en caso de invasión del territorio, de perturbación grave de la paz, de actividades contra la seguridad del Estado o calamidad pública, podrá cesar la plana vigencia de los derechos a que se refieren los Artículo 5, 6, 9, 26, 33, primer párrafo del Artículo 35, segundo párrafo del Artículo 38 y segundo párrafo del Artículo 116.
 
 Al concurrir cualquiera de los casos que se indican en el párrafo anterior, el Presidente de la República, hará la declaratoria correspondiente, por medio de decreto dictado en Consejo de Ministros y se aplicarán las disposiciones de la Ley de Orden Público. En el estado de prevención, no será necesaria esta formalidad.
 
@@ -758,9 +758,9 @@ Además, en el propio decreto, se convocará al Congreso, para que dentro del t�
 
 Los efectos del decreto no podrán exceder de treinta días por cada vez. Si antes de que venza el plazo señalado, hubieren desaparecido las causas que motivaron el decreto, se le hará cesar en sus efectos y para este fin, todo ciudadano tiene derecho a pedir su revisión. Vencido el plazo de treinta días, automáticamente queda restablecida la vigencia plena de los derechos, salvo que se hubiere dictado nuevo decreto en igual sentido. Cuando Guatemala afronte un estado real de guerra, el decreto no estará sujeto a las limitaciones de tiempo, consideradas en el párrafo anterior.
 
-Desaparecidas las causas que motivaron el decreto a que se refiere este artículo, toda persona tiene derecho a deducir las responsabilidades legales procedentes, por los actos innecesarios y medidas no autorizadas por la Ley de Orden Público.
+Desaparecidas las causas que motivaron el decreto a que se refiere este Artículo, toda persona tiene derecho a deducir las responsabilidades legales procedentes, por los actos innecesarios y medidas no autorizadas por la Ley de Orden Público.
 
-##### ARTÍCULO 139
+##### Artículo 139
 Ley de Orden Público y Estados de Excepción. Todo lo relativo a esta materia, se regula en la Ley Constitucional de Orden Público.
 
 La Ley de Orden Público, no afectará el funcionamiento de los organismos del Estado y sus miembros gozarán siempre de las inmunidades y prerrogativas que les reconoce la ley; tampoco afectará el funcionamiento de los partidos políticos.
@@ -773,78 +773,78 @@ La Ley de Orden Público, establecerá las medidas y facultades que procedan, de
 * d) Estado de sitio; y
 * e)  Estado de guerra.
 
-## TÍTULO III - EL ESTADO
+## Título 3 - El Estado
 
-### CAPÍTULO I - EL ESTADO Y SU FORMA DE GOBIERNO
+### Capítulo 1 - El Estado y su Forma de Gobierno
 
-##### ARTÍCULO 140
+##### Artículo 140
 Estado de Guatemala. Guatemala es un Estado libre, independiente y soberano, organizado para garantizar a sus habitantes el goce de sus derechos y de sus libertades. Su sistema de Gobierno es republicano, democrático y representativo.
 
-##### ARTÍCULO 141
+##### Artículo 141
 Soberanía. La soberanía radica en el pueblo quien la delega, para su ejercicio, en los Organismos Legislativo, Ejecutivo y Judicial. La subordinación entre los mismos, es prohibida.
 
-##### ARTÍCULO 142
+##### Artículo 142
 De la soberanía y el territorio. El Estado ejerce plena soberanía, sobre:
 
 * a) El territorio nacional integrado por su suelo, subsuelo, aguas interiores, el mar territorial en la extensión que fija la ley y el espacio aéreo que se extiende sobre los mismos;
 * b) La zona contigua del mar adyacente al mar territorial, para el ejercicio de determinadas actividades reconocidas por el derecho internacional; y
 * c) Los recursos naturales y vivos del lecho y subsuelo marinos y los existentes en las aguas adyacentes a las costas fuera del mar territorial, que constituyen la zona económica exclusiva, en la extensión que fija la ley, conforme la práctica internacional.
 
-##### ARTÍCULO 143
+##### Artículo 143
 Idioma oficial. El idioma oficial de Guatemala es el español. Las lenguas vernáculas, forman parte del patrimonio cultural de la Nación.
 
-### CAPÍTULO II - NACIONALIDAD Y CIUDADANIA
+### Capítulo 2 - Nacionalidad y Ciudadanía
 
-##### ARTÍCULO 144
+##### Artículo 144
 Nacionalidad de origen. Son guatemaltecos de origen, los nacidos en el territorio de la República de Guatemala, naves y aeronaves guatemaltecas y los hijos de padre o madre guatemaltecos, nacidos en el extranjero. Se exceptúan los hijos de funcionarios diplomáticos y de quienes ejerzan cargos legalmente equiparados.
 
 A ningún guatemalteco de origen, puede privársele de su nacionalidad.
 
-##### ARTÍCULO 145
+##### Artículo 145
 Nacionalidad de centroamericanos. También se consideran guatemaltecos de origen, a los nacionales por nacimiento, de las repúblicas que constituyeron la Federación de Centroamérica, si adquieren domicilio en Guatemala y manifestaren ante autoridad competente, su deseo de ser guatemaltecos. En ese caso podrán conservar su nacionalidad de origen, sin perjuicio de lo que se establezca en tratados o convenios centroamericanos.
 
-##### ARTÍCULO 146
+##### Artículo 146
 Naturalización. Son guatemaltecos, quienes obtengan su naturalización, de conformidad con la ley.
 
 Los guatemaltecos naturalizados, tienen los mismos derechos que los de origen, salvo las limitaciones que establece esta Constitución.
 
-##### ARTÍCULO 147
+##### Artículo 147
 Ciudadanía. Son ciudadanos los guatemaltecos mayores de dieciocho años de edad. Los ciudadanos no tendrán más limitaciones, que las que establecen esta Constitución y la ley.
 
-##### ARTÍCULO 148
+##### Artículo 148
 Suspensión, pérdida y recuperación de la ciudadanía. La ciudadanía se suspende, se pierde y se recobra de conformidad con lo que preceptúa la ley.
 
-### CAPÍTULO III - RELACIONES INTERNACIONALES DEL ESTADO
+### Capítulo 3 - Relaciones Internacionales del Estado
 
-##### ARTÍCULO 149
+##### Artículo 149
 De las relaciones internacionales. Guatemala normará sus relaciones con otros Estados, de conformidad con los principios, reglas y prácticas internacionales con el propósito de contribuir al mantenimiento de la paz y la libertad, al respeto y defensa de los derechos humanos, al fortalecimiento de los procesos democráticos e instituciones internacionales que garanticen el beneficio mutuo y equitativo entre los Estados.
 
-##### ARTÍCULO 150
+##### Artículo 150
 De la comunidad centroamericana. Guatemala, como parte de la comunidad centroamericana, mantendrá y cultivará relaciones de cooperación y solidaridad con los demás Estados que formaron la Federación de Centroamérica; deberá adoptar las medidas adecuadas para llevar a la práctica, en forma parcial o total, la unión política o económica de Centroamérica. Las autoridades competentes están obligadas a fortalecer la integración económica centroamericana sobre bases de equidad.
 
-##### ARTÍCULO 151
+##### Artículo 151
 Relaciones con Estados afines. El Estado mantendrá relaciones de amistad, solidaridad y cooperación con aquellos Estados, cuyo desarrollo económico, social y cultural, sea análogo al de Guatemala, con el propósito de encontrar soluciones apropiadas a sus problemas comunes y de formular conjuntamente, políticas tendientes al progreso de las naciones respectivas.
 
-## TÍTULO IV - PODER PUBLICO
+## Título 4 - Poder Público
 
-### CAPÍTULO I - EJERCICIO DEL PODER PUBLICO
+### Capítulo 1 - Ejercicio del Poder Público
 
-##### ARTÍCULO 152
+##### Artículo 152
 Poder Público. El poder proviene del pueblo. Su ejercicio está sujeto a las limitaciones señaladas por esta Constitución y la ley.
 
 Ninguna persona, sector del pueblo, fuerza armada o política, puede arrogarse su ejercicio.
 
-##### ARTÍCULO 153
+##### Artículo 153
 Imperio de la ley. El imperio de la ley se extiende a todas las personas que se encuentren en el territorio de la República.
 
-##### ARTÍCULO 154
+##### Artículo 154
 Función pública; sujeción a la ley. Los funcionarios son depositarios de la autoridad, responsables legalmente por su conducta oficial, sujetos a la ley y jamás superiores a ella.
 
 Los funcionarios y empleados públicos están al servicio del Estado y no de partido político alguno.
 
 La función pública no es delegable, excepto en los casos señalados por la ley, y no podrá ejercerse sin prestar previamente juramento de fidelidad a la Constitución.
 
-##### ARTÍCULO 155
+##### Artículo 155
 Responsabilidad por infracción a la ley. Cuando un dignatario, funcionario o trabajador del Estado, en el ejercicio de su cargo, infrinja la ley en perjuicio de particulares, el Estado o la institución estatal a quien sirva, será solidariamente responsable por los daños y perjuicios que se causaren.
 
 La responsabilidad civil de los funcionarios y empleados públicos podrá deducirse mientras no se hubiere consumado la prescripción, cuyo término será de veinte años.
@@ -853,30 +853,30 @@ La responsabilidad criminal se extingue, en este caso, por el transcurso del dob
 
 Ni los guatemaltecos ni los extranjeros, podrán reclamar al Estado, indemnización por daños o perjuicios causados por movimientos armados o disturbios civiles.
 
-##### ARTÍCULO 156
+##### Artículo 156
 No obligatoriedad de órdenes ilegales. Ningún funcionario o empleado público, civil o militar, está obligado a cumplir órdenes manifiestamente ilegales o que impliquen la comisión de un delito.
 
-### CAPÍTULO II - ORGANISMO LEGISLATIVO
+### Capítulo 2 - Organismo Legislativo
 
-#### SECCION PRIMERA CONGRESO
+#### Sección Primera Congreso
 
-##### ARTÍCULO 157
+##### Artículo 157
 Potestad legislativa y elección de diputados. La potestad legislativa corresponde al Congreso de la República, integrado por diputados electos directamente por el pueblo en sufragio universal, por el sistema de lista nacional y distritos electorales.
 
 La ley establecerá el número de diputados que correspondan a cada distrito en proporción a la población y el que corresponda por lista nacional. Asimismo, dispondrá la forma de llenar las vacantes y el régimen de incompatibilidad a que está sujeta la función de diputados.
 
-##### ARTÍCULO 158
+##### Artículo 158
 Sesiones del Congreso. El Congreso se reunirá sin necesidad de convocatoria, el quince de enero de cada año.
 
 Sus sesiones ordinarias durarán todo el tiempo que sea necesario. Se reunirá en sesiones extraordinarias, cuando sea convocado por la Comisión Permanente o por el Organismo Ejecutivo, para conocer de los asuntos que motivaron la convocatoria. Podrá conocer de otras materias con el voto favorable de la mayoría absoluta del total de diputados que lo integran. El veinticinco por ciento de diputados o más, tienen derecho a pedir a la Comisión Permanente, la convocatoria del Congreso, por razones suficientes de necesidad o conveniencia públicas. Si la solicitaren por lo menos la mitad más uno del total de diputados, la Comisión deberá proceder inmediatamente a la convocatoria.
 
-##### ARTÍCULO 159
+##### Artículo 159
 Mayoría para resoluciones. Las resoluciones del Congreso, deben tomarse con el voto favorable de la mayoría absoluta de los miembros que lo integran, salvo los casos en que la ley exija un número especial.
 
-##### ARTÍCULO 160
+##### Artículo 160
 Autorización a diputados para desempeñar otro cargo. Los diputados pueden desempeñar el cargo de ministro o funcionario de Estado o de cualquier otra entidad descentralizada o autónoma. En estos casos deberá concedérseles permiso por el tiempo que duren en sus funciones ejecutivas. En su ausencia temporal, será sustituido por el diputado suplente que corresponda.
 
-##### ARTÍCULO 161
+##### Artículo 161
 Prerrogativas de los diputados. Los diputados son representantes del pueblo y dignatarios de la Nación; como garantía para el ejercicio de sus funciones gozarán, desde el día que se les declare electos, de las siguiente prerrogativas:
 
 * a) Inmunidad personal para no ser detenidos ni juzgados, si el Congreso no lo autoriza previamente y declara que ha lugar a formación de causa, salvo el caso de flagrante delito en que deberán ser puestos inmediatamente a disposición de la Junta Directiva o Comisión Permanente del Congreso para los efectos del antejuicio correspondiente; y
@@ -884,21 +884,21 @@ Prerrogativas de los diputados. Los diputados son representantes del pueblo y di
 
 Todas las dependencias del Estado tienen la obligación de guardar a los diputados las consideraciones derivadas de su alta investidura. Estas prerrogativas no autorizan arbitrariedad, exceso de iniciativa personal o cualquier orden de maniobra tendientes a vulnerar el principio de no reelección para el ejercicio de la Presidencia de la República. Sólo el Congreso será competente para juzgar y calificar si ha habido arbitrariedad o exceso y para imponer las sanciones disciplinarias pertinentes.
 
-Hecha la declaración a que se refiere el inciso a) de este artículo, los acusados quedan sujetos a la jurisdicción de juez competente. Si se les decretare prisión provisional quedan suspensos en sus funciones en tanto no se revoque el auto de prisión.
+Hecha la declaración a que se refiere el inciso a) de este Artículo, los acusados quedan sujetos a la jurisdicción de juez competente. Si se les decretare prisión provisional quedan suspensos en sus funciones en tanto no se revoque el auto de prisión.
 
 En caso de sentencia condenatoria firme, el cargo quedará vacante.
 
-##### ARTÍCULO 162
+##### Artículo 162
 Requisitos para el cargo de diputado. Para ser electo diputado se requiere ser guatemalteco de origen y estar en el ejercicio de sus derechos ciudadanos.
 
 Los diputados durarán en su función cinco años pudiendo ser reelectos.
 
-##### ARTÍCULO 163
+##### Artículo 163
 Junta Directiva y Comisión Permanente. El Congreso elegirá, cada año, su Junta Directiva. Antes de clausurar el período de sesiones ordinarias elegirá la Comisión Permanente, presidida por el Presidente del Congreso, la cual funcionará mientras el Congreso no esté reunido.
 
 La integración y las atribuciones del Junta Directiva y de la Comisión Permanente serán fijadas en la Ley de Régimen anterior.
 
-##### ARTÍCULO 164
+##### Artículo 164
 Prohibiciones y compatibilidades. No pueden ser diputados:
 
 * a) Los funcionarios y empleados de los Organismos Ejecutivo, Judicial y del Tribunal y Contraloría de Cuentas, así como los Magistrados del Tribunal Supremo Electoral y el director del Registro de Ciudadanos; Quienes desempeñen funciones docentes y los profesionales al servicio de establecimientos de asistencia social, están exceptuados de la prohibición anterior;
@@ -908,13 +908,13 @@ Prohibiciones y compatibilidades. No pueden ser diputados:
 * e) Quienes representen intereses de compañías o personas individuales que exploten servicios públicos; y
 * f) Los militares en servicio activo.
 
-Si al tiempo de su elección o posteriormente, el electo resultare incluido en cualquiera de las prohibiciones contenidas en este artículo, se declarará vacante su puesto, pero si fuera de los comprendidos en los literales a) y e) podrá optar entre el ejercicio de esas funciones o el cargo de diputado. Es nula la elección de diputado que recayere en funcionario que ejerza jurisdicción en el distrito electoral que lo postula, o la hubiere ejercido tres meses antes de la fecha en que se haya convocado a la elección.
+Si al tiempo de su elección o posteriormente, el electo resultare incluido en cualquiera de las prohibiciones contenidas en este Artículo, se declarará vacante su puesto, pero si fuera de los comprendidos en los literales a) y e) podrá optar entre el ejercicio de esas funciones o el cargo de diputado. Es nula la elección de diputado que recayere en funcionario que ejerza jurisdicción en el distrito electoral que lo postula, o la hubiere ejercido tres meses antes de la fecha en que se haya convocado a la elección.
 
 El cargo de diputado es compatible con el desempeño de misiones diplomáticas temporales o especiales y con la representación de Guatemala en congresos internacionales.
 
-#### SECCION SEGUNDA ATRIBUCIONES DEL CONGRESO
+#### Sección Segunda Atribuciones del Congreso
 
-##### ARTÍCULO 165
+##### Artículo 165
 Atribuciones. Corresponde al Congreso de la República:
 
 * a) Abrir y cerrar sus períodos de sesiones;
@@ -929,14 +929,14 @@ Atribuciones. Corresponde al Congreso de la República:
 * j) Interpelar a los ministros de Estado; y
 * k) Todas las demás atribuciones que le asigne la Constitución y otras leyes.
 
-##### ARTÍCULO 166
+##### Artículo 166
 Interpelaciones a ministros. Los ministros de Estado, tienen la obligación de presentarse al Congreso, a fin de contestar las interpelaciones que se les formulen por uno o más diputados. Se exceptúan aquellas que se refieran a asuntos diplomáticos u operaciones pendientes.
 
 Las preguntas básicas deben comunicarse al ministro o ministros interpelados, con cuarenta y ocho horas de anticipación. Ni el Congreso en pleno, ni autoridad alguna, podrá limitar a los diputados al Congreso el derecho de interpelar, calificar las preguntas o restringirlas.
 
 Cualquier diputado puede hacer las preguntas adicionales que estime pertinentes relacionadas con el asunto o asuntos que motiven la interpelación y de ésta podrá derivarse el planteamiento de un voto de falta de confianza que deberá ser solicitado por cuatro diputados, por lo menos, y tramitado sin demora, en la misma sesión o en una de las dos inmediatas siguientes.
 
-##### ARTÍCULO 167
+##### Artículo 167
 Efectos de la interpelación. Cuando se planteare la interpelación de un ministro, éste no podrá ausentarse del país, ni excusarse de responder en forma alguna.
 
 Si se emitiere voto de falta de confianza a un ministro, aprobado por no menos de la mayoría absoluta del total de diputados al Congreso, el ministro presentará inmediatamente su dimisión. El Presidente de la República podrá aceptarla, pero si considera en Consejo de Ministros, que el acto o actos censurables al ministro se ajustan a la conveniencia nacional y a la política del gobierno, el interpelado podrá recurrir ante el Congreso dentro de los ocho días a partir de la fecha del voto de falta de confianza. Si no lo hiciere, se le tendrá por separado de su cargo e inhábil para ejercer el cargo de ministro de Estado por un períodos no menor de seis meses.
@@ -945,15 +945,15 @@ Si el ministro afectado hubiese recurrido ante el Congreso, después de oídas l
 
 En igual forma, se procederá cuando el voto de falta de confianza se emitiere contra varios ministros y el número no puede exceder de cuatro en cada caso.
 
-##### ARTÍCULO 168
+##### Artículo 168
 Asistencia de ministros, funcionarios y empleados al Congreso. Los ministros de Estado podrán asistir y tomar parte con voz, en las sesiones del Congreso de la República, así como de sus comisiones, cuando sean invitados y se traten asuntos relacionados con su ramo. Podrán hacerse representar por sus viceministros.
 
 Todos los funcionarios y empleados públicos están obligados a acudir e informar al Congreso, cuando éste o sus comisiones lo considere necesario.
 
-##### ARTÍCULO 169
+##### Artículo 169
 Convocatoria a elecciones por el Congreso. Es obligación del Congreso, o en su defecto de la Comisión Permanente, convocar sin demora a elecciones generales cuando en la fecha indicada por la ley, el Tribunal Supremo Electoral no lo hubiere hecho.
 
-##### ARTÍCULO 170
+##### Artículo 170
 Atribuciones específicas. Son atribuciones específicas del Congreso:
 
 * a) Calificar las credenciales que extenderá el Tribunal Supremo Electoral a los diputados electos;
@@ -962,7 +962,7 @@ Atribuciones específicas. Son atribuciones específicas del Congreso:
 * d) Llamar a los diputados suplentes en caso de muerte, renuncia, nulidad de elección, permiso temporal o imposibilidad de concurrir de los propietarios; y
 * e) Elaborar y aprobar su presupuesto, para ser incluido en el del Estado.
 
-##### ARTÍCULO 171
+##### Artículo 171
 Otras atribuciones del Congreso. Corresponde también al Congreso:
 
 * a) Decretar, reformar y derogar las leyes;
@@ -984,59 +984,59 @@ Otras atribuciones del Congreso. Corresponde también al Congreso:
     5) Contengan cláusula general de arbitraje o de sometimiento a jurisdicción internacional; y
 * m) Nombrar comisiones de investigación en asuntos específicos de la administración pública, que planteen problemas de interés nacional.
 
-##### ARTÍCULO 172
+##### Artículo 172
 Mayoría calificada. Aprobar antes de su ratificación, con el voto de las dos terceras partes del total de diputados que integran el Congreso, los tratados, convenios o cualquier arreglo internacional, cuando:
 
 * a) Se refieran al paso de ejércitos extranjeros por el territorio nacional o al establecimiento temporal de bases militares extranjeras; y
 * b) Afecten o puedan afectar la seguridad del Estado o pongan fin a un estado de guerra.
 
-##### ARTÍCULO 173
+##### Artículo 173
 Procedimiento consultivo. Las decisiones políticas de especial trascendencia deberán ser sometidas a procedimiento consultivo de todos los ciudadanos.
 
 La consulta será convocada por el Tribunal Supremo Electoral a iniciativa del Presidente de la República o del Congreso de la República, que fijarán con precisión la o las preguntas se someterán a los ciudadanos.
 
-#### SECCION TERCERA FORMACION Y SANCION DE LA LEY
+#### Sección Tercera Formación y Sanción de la Ley
 
-##### ARTÍCULO 174
+##### Artículo 174
 Iniciativa de ley. Para la formación de las leyes tienen iniciativa los diputados al Congreso, el Organismo Ejecutivo, la Corte Suprema de Justicia, la Universidad de San Carlos de Guatemala y el Tribunal Supremo Electoral.
 
-##### ARTÍCULO 175
+##### Artículo 175
 Jerarquía constitucional. Ninguna ley podrá contrariar las disposiciones de la Constitución. Las leyes que violen o tergiversen los mandatos constitucionales son nulas ipso jure.
 
 Las leyes calificadas como constitucionales requieren, para su reforma, el voto de las dos terceras partes del total de diputados que integran el Congreso, previo dictamen favorable de la Corte de Constitucionalidad.
 
-##### ARTÍCULO 176
+##### Artículo 176
 Admisión y discusión. Admitido un proyecto de ley se pondrá a discusión en tres sesiones diferentes, celebradas en discusión en tres sesiones diferentes, celebradas en distintos días y no podrá votarse hasta que se tenga por suficientemente discutido en la tercera sesión. Se exceptúan aquellos casos que el Congreso declare de urgencia nacional, con el voto de las dos terceras partes del total de diputados que lo integran. En todo lo demás, se observará el procedimiento que prescriba el Reglamente Interior.
 
-##### ARTÍCULO 177
+##### Artículo 177
 Aprobación, sanción y promulgación. Aprobado un proyecto de ley, pasará al Ejecutivo para su sanción y promulgación.
 
-##### ARTÍCULO 178
+##### Artículo 178
 Veto. Dentro de los quince días de recibido el decreto y previo acuerdo tomado en Consejo de Ministros, el Presidente de la República podrá devolverlo al Congreso con las observaciones que estime pertinentes, en ejercicio de sus derechos de veto. Las leyes no podrán ser vetadas parcialmente.
 
 Si el Organismo Ejecutivo no devolviere el decreto dentro de los quince días contados desde la fecha de su recepción, se tendrá por sancionado y deberá promulgarse como ley dentro de los ocho días siguientes.
 
 En caso de que el Congreso clausurare sus sesiones antes de que expire el plazo en que puede ejercitarse el veto, el ejecutivo deberá devolver el decreto dentro de los ocho días de sesiones ordinarias del período siguiente.
 
-##### ARTÍCULO 179
+##### Artículo 179
 Primacía legislativa. Devuelto el decreto al Congreso, éste podrá reconsiderarlo o dejarlo para el período siguiente; si no fueren aceptadas las observaciones hechas por el ejecutivo, y el Congreso ratificare con el voto de las dos terceras partes de sus miembros, el Ejecutivo deberá necesariamente sancionar y promulgar el decreto dentro de los ocho días siguientes de haberlo recibido. Si el Ejecutivo no lo hiciere, el Congreso ordenará su publicación, para que surta efectos como ley de la República.
 
-##### ARTÍCULO 180
+##### Artículo 180
 Vigencia. La ley empieza a regir en todo el territorio nacional, ocho días después de su publicación integra en el diario Oficial, a menos que la misma ley amplíe o restrinja dicho plazo.
 
-##### ARTÍCULO 181
-Disposiciones del Congreso. No necesitan de sanción del Ejecutivo, las disposiciones del Congreso relativas a su Régimen Interior y las contenidas en los artículos 165 y 170 de esta Constitución.
+##### Artículo 181
+Disposiciones del Congreso. No necesitan de sanción del Ejecutivo, las disposiciones del Congreso relativas a su Régimen Interior y las contenidas en los Artículos 165 y 170 de esta Constitución.
 
-### CAPÍTULO II - ORGANISMO EJECUTIVO
+### Capítulo 2 - Organismo Ejecutivo
 
-#### SECCION PRIMERA PRESIDENTE DE LA REPUBLICA
+#### Sección primera Presidente de la República
 
-##### ARTÍCULO 182
+##### Artículo 182
 Presidencia de la República e integración del Organismo Ejecutivo. El Presidente de la República es el Jefe del estado, representa la unidad nacional y los intereses del pueblo de Guatemala.
 
 El Presidente y Vicepresidente de la República, ministros y viceministros de Estado y funcionarios dependientes integran el Organismo Ejecutivo.
 
-##### ARTÍCULO 183
+##### Artículo 183
 Funciones del Presidente de la República. Son funciones del Presidente de la República:
 
 * a) Cumplir y hacer cumplir la Constitución y las leyes;
@@ -1063,46 +1063,46 @@ Funciones del Presidente de la República. Son funciones del Presidente de la Re
 * u) Conceder condecoraciones a guatemaltecos y extranjeros; y
 * v) Todas las demás funciones que le asigne esta Constitución o la ley.
 
-##### ARTÍCULO 184
+##### Artículo 184
 Elección del Presidente y Vicepresidente de la República. El Presidente y Vicepresidente de la República serán electos por el pueblo mediante sufragio universal y por un período improrrogable de cinco años.
 
 Si ninguno de los candidatos obtiene la mayoría absoluta se procederá a segunda elección dentro de un plazo no mayor de sesenta ni menor de cuarenta y cinco días, contados a partir de la primera y en día domingo, entre los candidatos que hayan obtenido las dos más altas mayorías relativas.
 
-##### ARTÍCULO 185
+##### Artículo 185
 Requisitos para optar a los cargos de Presidente o Vicepresidente de la República. Podrán optar a cargo de Presidente o Vicepresidente de la República, los guatemaltecos de origen que sean ciudadanos en ejercicio y mayores de cuarenta años.
 
-##### ARTÍCULO 186
+##### Artículo 186
 Prohibiciones para optar a los cargos de Presidente o Vicepresidente de la República. No podrán optar al cargo de Presidente o Vicepresidente de la República:
 
 * a) El caudillo ni los jefes de un golpe de Estado, revolución armada o movimiento similar, que haya alterado el orden constitucional, ni quienes como consecuencia de tales hechos asuman la Jefatura de Gobierno;
 * b) La persona que ejerza la Presidencia o Vicepresidencia de la República cuando se haga la elección para dicho cargo, o que la hubiere ejercido durante cualquier tiempo dentro del período presidencial en que se celebren las elecciones;
-* c) Los parientes dentro de cuarto grado de consanguinidad y segundo de afinidad del Presidente o Vicepresidente de la República, cuando este último se encuentre ejerciendo la Presidencia, y los de las personas a que se refiere el inciso primero de este artículo;
+* c) Los parientes dentro de cuarto grado de consanguinidad y segundo de afinidad del Presidente o Vicepresidente de la República, cuando este último se encuentre ejerciendo la Presidencia, y los de las personas a que se refiere el inciso primero de este Artículo;
 * d) El que hubiese sido ministro de Estado, durante cualquier tiempo en los seis meses anteriores a la elección;
 * e) Los miembros del Ejército, salvo que estén de baja o en situación de retiro por lo menos cinco años antes de la fecha de convocatoria;
 * f) Los ministros de cualquier religión o culto; y
 * g) Los magistrados del Tribunal Supremo Electoral.
 
-##### ARTÍCULO 187
+##### Artículo 187
 Prohibición de reelección. La persona que haya desempeñado durante cualquier tiempo el cargo de Presidente de la República por elección popular, o quien la haya ejercido por más de dos años en sustitución del titular, no podrá volver a desempeñarlo en ningún caso.
 
 La reelección o la prolongación del período presidencial por cualquier medio, son punibles de conformidad con la ley. El mandato que se pretenda ejercer será nulo.
 
-##### ARTÍCULO 188
+##### Artículo 188
 Convocatoria a elecciones y toma de posesión. La convocatoria a elecciones y la toma de posesión del Presidente y del Vicepresidente de la República, se regirán por lo establecido en la Ley Electoral y de Partidos Políticos.
 
-##### ARTÍCULO 189
+##### Artículo 189
 Falta temporal o absoluta del Presidente de la República. En caso de falta temporal o absoluta del Presidente de la República, lo sustituirá el Vicepresidente. Si la falta fuere absoluta el Vicepresidente desempeñará la Presidencia hasta la terminación del período constitucional; y en caso de falta permanente de ambos, completará dicho período la persona que designe el Congreso de la República, con el voto favorable de las dos terceras partes del total de diputados.
 
-#### SECCION SEGUNDA VICEPRESIDENTE DE LA REPUBLICA
+#### Sección segunda Vicepresidente de la República
 
-##### ARTÍCULO 190
+##### Artículo 190
 Vicepresidente de la República. El Vicepresidente de la República ejercerá las funciones de Presidente de la República en los casos y forma que establece la Constitución.
 
 Será electo en la misma planilla con el Presidente de la República, en idéntica forma y para igual período.
 
 El Vicepresidente deberá reunir las mismas calidades que el Presidente de la República, gozará de iguales inmunidades y tiene en el orden jerárquico del Estado, el grado inmediato inferior al de dicho funcionario.
 
-##### ARTÍCULO 191
+##### Artículo 191
 Funciones del Vicepresidente. Son funciones del Vicepresidente de la República:
 
 * a) Participar en las deliberaciones del Consejo de Ministros con voz y voto;
@@ -1114,15 +1114,15 @@ Funciones del Vicepresidente. Son funciones del Vicepresidente de la República:
 * g) Coordinar la labor de los ministros de Estado; y
 * h) Ejercer las demás atribuciones que le señalen la Constitución y las leyes.
 
-##### ARTÍCULO 192
+##### Artículo 192
 Falta del Vicepresidente. En caso de falta absoluta del Vicepresidente de la República o renuncia del mismo, será sustituido por la persona que designe el Congreso de la República, escogiéndola de la terna propuesta por el Presidente de la República; en tales el sustituto regirá hasta terminar el período con igualdad de funciones y preeminencias.
 
-#### SECCION TERCERA MINISTROS DE ESTADO
+#### Sección tercera Ministros de Estado
 
-##### ARTÍCULO 193
+##### Artículo 193
 Ministerios. Para el despacho de los negocios del Organismo Ejecutivo, habrá los ministerios que la ley establezca, con las atribuciones y la competencia que la misma les señale.
 
-##### ARTÍCULO 194
+##### Artículo 194
 Funciones del ministro. Cada ministerio estará a cargo de un ministro de Estado, quien tendrá las siguientes funciones:
 
 * a) Ejercer jurisdicción sobre todas las dependencias de su ministerio;
@@ -1135,19 +1135,19 @@ Funciones del ministro. Cada ministerio estará a cargo de un ministro de Estado
 * h) Concurrir al Congreso de la República y participar en los debates sobre negocios relacionados con su ramo; e
 * i) Velar por el estricto cumplimiento de las leyes, la probidad administrativa y la correcta inversión de los fondos públicos en los negocios confiados a su cargo.
 
-##### ARTÍCULO 195
+##### Artículo 195
 Consejo de Ministros y su responsabilidad. El Presidente, el Vicepresidente de la República y los ministros de Estado, reunidos en sesión, constituyen el Consejo de Ministros el cual conoce de los asuntos sometidos a su consideración por el Presidente de la República, quien lo convoca y preside.
 
 Los ministros son responsables de sus actos de conformidad con esta Constitución y las leyes, aún en el caso de que obren por orden expresa del Presidente. De las decisiones del Consejo de Ministros serán solidariamente responsables los ministros que hubieren concurrido, salvo aquellos que hayan hecho constar su voto adverso.
 
-##### ARTÍCULO 196
+##### Artículo 196
 Requisitos para ser ministro de Estado. Para ser ministro de Estado se requiere:
 
 * a) Ser guatemalteco;
 * b) Hallarse en el goce de los derechos de ciudadanos; y
 * c) Ser mayor de treinta años.
 
-##### ARTÍCULO 197
+##### Artículo 197
 Prohibiciones para ser ministro de Estado. No pueden ser ministros de Estado:
 
 * a) Los parientes del Presidente o del Vicepresidente de la República, así como los de otro ministro de Estado, dentro del cuarto grado de consanguinidad y segundo de afinidad;
@@ -1158,31 +1158,31 @@ Prohibiciones para ser ministro de Estado. No pueden ser ministros de Estado:
 
 En ningún caso pueden los ministros actuar como apoderados de personas individuales o jurídicas, ni gestionar en forma alguna negocios de particulares.
 
-##### ARTÍCULO 198
+##### Artículo 198
 Memoria de actividades de los ministerios. Los ministros están obligados a presentar anualmente al Congreso, en los primeros diez días del mes de febrero de cada año, la memoria de las actividades de sus respectivos ramos, que deberá contener además la ejecución presupuestaria de su ministerio.
 
-##### ARTÍCULO 199
+##### Artículo 199
 Comparecencia obligatoria a interpelaciones. Los ministros tienen la obligación de presentarse ante el Congreso, con el objeto de contestar las interpelaciones que se les formule.
 
-##### ARTÍCULO 200
+##### Artículo 200
 Viceministros de Estado. En cada Ministerio de Estado habrá un viceministro. Para ser viceministro se requieren las mismas calidades que para ser ministro.
 
 Para la creación de plazas adicionales de viceministros será necesaria la opinión favorable del Consejo de Ministros.
 
-##### ARTÍCULO 201
-Responsabilidad de los ministros y viceministros. Los ministros y viceministros de Estado son responsables de sus actos, de acuerdo con lo que prescribe el artículo 195 de esta Constitución y lo que determina la Ley de Responsabilidades.
+##### Artículo 201
+Responsabilidad de los ministros y viceministros. Los ministros y viceministros de Estado son responsables de sus actos, de acuerdo con lo que prescribe el Artículo 195 de esta Constitución y lo que determina la Ley de Responsabilidades.
 
-##### ARTÍCULO 202
+##### Artículo 202
 Secretarios de la Presidencia. El Presidente de la República tendrá los secretarios que sean necesarios. Las atribuciones de éstos serán determinadas por la ley.
 
 Los secretarios General y Privado de la Presidencia de la República, deberán reunir los mismos requisitos que se exigen para ser ministro y gozarán de iguales prerrogativas e inmunidades.
 
-### CAPÍTULO IV - ORGANISMO JUDICIAL
+### Capítulo 4 - Organismo Judicial
 
-#### SECCION PRIMARIA DISPOSICIONES GENERALES
+#### Sección Primaria Disposiciones Generales
 
-##### ARTÍCULO 203
-Independencia del Organismo Judicial y potestad de juzgar. La justicia se imparte de conformidad con la Constitución y las leyes de la República. Corresponde a los tribunales de justicia la potestad de juzgar y promover la ejecución de los juzgado. Los otros organismos del Estado deberán prestar a los tribunales el auxilio que requieran para el cumplimiento de sus resoluciones.
+##### Artículo 203
+Independenci del Organismo Judicial y potestad de juzgar. La justicia se imparte de conformidad con la Constitución y las leyes de la República. Corresponde a los tribunales de justicia la potestad de juzgar y promover la ejecución de los juzgado. Los otros organismos del Estado deberán prestar a los tribunales el auxilio que requieran para el cumplimiento de sus resoluciones.
 
 Los magistrados y jueces son independientes en el ejercicio de sus funciones y únicamente están sujetos a la Constitución de la República y a las leyes. A quienes atentaren contra la independencia del Organismo Judicial, además de imponérseles las penas fijadas por el Código Penal, se les inhabilitará para ejercer cualquier cargo público.
 
@@ -1190,10 +1190,10 @@ La función jurisdiccional se ejerce, con exclusividad absoluta, por la Corte Su
 
 Ninguna otra autoridad podrá intervenir en la administración de justicia.
 
-##### ARTÍCULO 204
+##### Artículo 204
 Condiciones esenciales de la administración de justicia. Los tribunales de justicia en toda resolución o sentencia observarán obligadamente el principio de que la Constitución de la República prevalece sobre cualquier ley o tratado.
 
-##### ARTÍCULO 205
+##### Artículo 205
 Garantías del Organismo Judicial. Se instituyen como garantías del Organismo Judicial, las siguientes:
 
 * a) La independencia funcional;
@@ -1201,12 +1201,12 @@ Garantías del Organismo Judicial. Se instituyen como garantías del Organismo J
 * c) La no remoción de los magistrados y jueces de primera instancia, salvo los casos establecidos por la ley; y
 * d) La selección del personal.
 
-##### ARTÍCULO 206
+##### Artículo 206
 Derecho de antejuicio para magistrados y jueces. Los magistrados y jueces gozarán del derecho de antejuicio en la forma que lo determine la ley. El Congreso de la República tiene competencia para declarar si ha lugar o no a formación de causa contra el Presidente del Organismo Judicial y los magistrados de la Corte Suprema de Justicia.
 
 Corresponde a esta última la competencia en relación a los otros magistrados y jueces.
 
-##### ARTÍCULO 207
+##### Artículo 207
 Requisitos para ser magistrado o juez. Los magistrados y jueces deben ser guatemaltecos de origen, de reconocida honorabilidad, estar en el goce de sus derechos ciudadanos y ser abogados colegiados, salvo las excepciones que la ley establece con respecto a este último requisito en relación a determinados jueces de jurisdicción privativa y jueces menores.
 
 La ley fijará el número de magistrados, así como la organización y funcionamiento de los tribunales y los procedimientos que deban observarse, según la materia de que se trate.
@@ -1215,42 +1215,42 @@ La función de magistrado o juez es incompatible con cualquier otro empleo, con 
 
 Los magistrados de la Corte Suprema de Justicia prestarán ante el Congreso de la República, la protesta de administrar pronta y cumplida justicia. Los demás magistrados y jueces, la prestarán ante la Corte Suprema de Justicia.
 
-##### ARTÍCULO 208
+##### Artículo 208
 Período de funciones de magistrados y jueces. Los magistrados, cualquiera que sea su categoría, y los jueces de primera instancia, durarán en sus funciones cinco años, pudiendo ser reelectos los primeros y nombrados nuevamente los segundos. Durante ese período no podrán ser removidos ni suspendidos, sino en los casos y con las formalidades que disponga la ley.
 
-##### ARTÍCULO 209
+##### Artículo 209
 Nombramiento de jueces y personal auxiliar. Los jueces, secretarios y personal auxiliar serán nombrados por la Corte Suprema de Justicia.
 
 Se establece la carrera judicial. Los ingresos, promociones y ascenso se harán mediante oposición. Una ley regulará esta materia.
 
-##### ARTÍCULO 210
+##### Artículo 210
 Ley de Servicio Civil del Organismo Judicial. Las relaciones laborales de los funcionarios y empleados del Organismo Judicial, se normarán por su Ley de Servicios Civil.
 
 Los jueces y magistrados no podrán ser separados, suspendidos, trasladados ni jubilados, sino por alguna de las causas y con las garantías previstas en la ley.
 
-##### ARTÍCULO 211
+##### Artículo 211
 Instancias en todo proceso. En ningún proceso habrá más de dos instancias y el magistrado o juez que haya ejercido jurisdicción en alguna de ellas no podrá conocer en la otra ni en casación, en el mismo asunto, sin incurrir en responsabilidad.
 
 Ningún tribunal o autoridad puede conocer de procesos fenecidos, salvo los casos y formas de revisión que determine la ley.
 
-##### ARTÍCULO 212
+##### Artículo 212
 Jurisdicción específica de los tribunales. Los tribunales comunes conocerán de todas las controversias de derecho privado en las que el Estado, el municipio o cualquier otra entidad descentralizada o autónoma actúe como parte.
 
-##### ARTÍCULO 213
+##### Artículo 213
 Presupuesto del Organismo Judicial. Es atribución de la Corte Suprema de Justicia formular el presupuesto del Ramo; para el efecto, se le asigna una cantidad no menor del dos por ciento del Presupuesto de Ingresos Ordinarios del Estado, que deberá entregarse a la Tesorería del Organismo Judicial cada mes en forma proporcional y anticipada por el órgano correspondiente.
 
 Son fondos privativos del Organismo Judicial los derivados de la Administración de Justicia y corresponde a la Corte Suprema de Justicia su inversión, la cual será conforme a la ley y publicándose el detalle de los gastos que se haga de dichos fondos.
 
-#### SECCION SEGUNDA CORTE SUPREMA DE JUSTICIA
+#### Sección Segunda Corte Suprema de Justicia
 
-##### ARTÍCULO 214
+##### Artículo 214
 Integración de la Corte Suprema de Justicia. La Corte Suprema de Justicia se integra con nueve magistrados, incluyendo al Presidente, y se organizará en las cámaras que la ley determine.
 
 El Presidente del Organismo Judicial lo es también de la Corte Suprema de Justicia y su autoridad, se extiende a los tribunales de toda la República.
 
 En caso de falta temporal del Presidente del Organismo Judicial o cuando conforme a la ley no pueda actuar o conocer, en determinados casos, lo sustituirán los demás magistrados de la Corte Suprema de Justicia en el orden de su elección.
 
-##### ARTÍCULO 215
+##### Artículo 215
 Elección de la Corte Suprema de Justicia. Los magistrados de la Corte Suprema de Justicia serán electos por el Congreso de la República para un período de seis años, así:
 
 * a) Cuatro magistrados electos directamente por el Congreso de la República; y
@@ -1260,108 +1260,108 @@ En las votaciones, tanto para integrar la Comisión de Postulación como para la
 
 Los magistrados de la Corte Suprema de Justicia elegirán entre sus miembros al Presidente de la misma.
 
-##### ARTÍCULO 216
-Requisitos para ser magistrado de la Corte Suprema de Justicia. Para ser electo magistrado de la Corte Suprema de Justicia, se requiere, además de los requisitos previstos en el artículo 207 de esta Constitución, ser mayor de cuarenta años, y haber desempeñado un período completo como magistrado de la Corte de apelaciones o de los tribunales colegiados que tengan la misma calidad, o haber ejercido la profesión de abogado por más de diez años.
+##### Artículo 216
+Requisitos para ser magistrado de la Corte Suprema de Justicia. Para ser electo magistrado de la Corte Suprema de Justicia, se requiere, además de los requisitos previstos en el Artículo 207 de esta Constitución, ser mayor de cuarenta años, y haber desempeñado un período completo como magistrado de la Corte de apelaciones o de los tribunales colegiados que tengan la misma calidad, o haber ejercido la profesión de abogado por más de diez años.
 
-#### SECCION TERCERA CORTE DE APELACIONES Y OTROS TRIBUNALES
+#### SECCIÓN TERCERA CORTE DE APELACIONES Y OTROS TRIBUNALES
 
-##### ARTÍCULO 217
-Magistrados. Para ser magistrado de la Corte de Apelaciones, de los tribunales colegiados y de otros que se crearen con la misma categoría, se requiere, además de los requisitos señalados en el artículo 207, ser mayor de treinta y cinco años, haber sido juez de primera instancia o haber ejercido por más de cinco años la profesión de abogado.
+##### Artículo 217
+Magistrados. Para ser magistrado de la Corte de Apelaciones, de los tribunales colegiados y de otros que se crearen con la misma categoría, se requiere, además de los requisitos señalados en el Artículo 207, ser mayor de treinta y cinco años, haber sido juez de primera instancia o haber ejercido por más de cinco años la profesión de abogado.
 
-Los magistrados a que se refiere este artículo, serán electos por el Congreso de la República, seleccionados de una nómina de candidatos propuestos por la Corte Suprema de Justicia. Esta nómina será de un número equivalente al doble de magistrados a elegir.
+Los magistrados a que se refiere este Artículo, serán electos por el Congreso de la República, seleccionados de una nómina de candidatos propuestos por la Corte Suprema de Justicia. Esta nómina será de un número equivalente al doble de magistrados a elegir.
 
-##### ARTÍCULO 218
+##### Artículo 218
 Integración de la Corte de Apelaciones. La Corte de Apelaciones se integra con el número de salas que determine la Corte Suprema de Justicia, la que también fijará su sede y jurisdicción.
 
-##### ARTÍCULO 219
+##### Artículo 219
 Tribunales militares. Los tribunales militares conocerán de los delitos o faltas cometidos por los integrantes del Ejército de Guatemala.
 
 Ningún civil podrá ser juzgado por tribunales militares.
 
-##### ARTÍCULO 220
+##### Artículo 220
 Tribunales de Cuentas. La función judicial en materia de cuentas será ejercida por los jueces de primera instancia y el Tribunal de Segunda Instancia de Cuentas.
 
 Contra las sentencias y los autos definitivos de cuentas que pongan fin al proceso en los asuntos de mayor cuantía, procede el recurso de casación. Este recurso es inadmisible en los procedimientos económico-coactivos.
 
-##### ARTÍCULO 221
+##### Artículo 221
 Tribunal de lo Contencioso-Administrativo. Su función es de controlar de la juridicidad de la administración pública y tiene atribuciones para conocer en caso de contienda por actos o resoluciones de la administración y de las entidades descentralizadas y autónomas del Estado, así como en los casos de controversias derivadas de contratos y concesiones administrativas.
 
 Para ocurrir a este Tribunal, no será necesario ningún pago o caución previa. Sin embargo, la ley podrá establecer determinadas situaciones en las que el recurrente tenga que pagar intereses a la tasa corriente sobre los impuestos que haya discutido o impugnado y cuyo pago al Fisco se demoró en virtud del recurso.
 
 Contra las resoluciones y autos que pongan fin al proceso, puede interponerse el recurso de casación.
 
-##### ARTÍCULO 222
+##### Artículo 222
 Magistrados suplentes. Los magistrados suplentes de la Corte Suprema de Justicia, de la Corte de Apelaciones y demás tribunales colegiados, serán electos en la misma forma que los titulares y de la misma nómina.
 
-## TÍTULO V - ESTRUCTURA Y ORGANIZACION DEL ESTADO
+## Título V - ESTRUCTURA Y ORGANIZACIÓN DEL ESTADO
 
-### CAPÍTULO I - REGIMEN POLITICO ELECTORAL
+### Capítulo 1 - RÉGIMEN POLÍTICO ELECTORAL
 
-##### ARTÍCULO 223
+##### Artículo 223
 Libertad de formación y funcionamiento de las organizaciones políticas. El Estado garantiza la libre formación y funcionamiento de las organizaciones políticas y sólo tendrán las limitaciones que esta Constitución y la ley determinen.
 
 Todo lo relativo al ejercicio del sufragio, los derechos políticos, organizaciones políticas, autoridades y órganos electorales y proceso electoral, será regulado por la ley constitucional de la materia.
 
-### CAPÍTULO II - REGIMEN ADMINISTRATIVO
+### Capítulo 2 - RÉGIMEN ADMINISTRATIVO
 
-##### ARTÍCULO 224
+##### Artículo 224
 División administrativa. El territorio de la República, se divide para su administración en departamentos y éstos en municipios.
 
 La administración será descentralizada y se establecerán regiones de desarrollo con criterios económicos, sociales y culturales que podrán estar constituidos por uno o más departamentos para dar un impulso racionalizado al desarrollo integral del país.
 
 Sin embargo, cuando así convenga a los intereses de la Nación, el Congreso podrá modificar la división administrativa del país, estableciendo un régimen de regiones, departamentos y municipios, o cualquier otro sistema, sin menoscabo de la autonomía municipal.
 
-##### ARTÍCULO 225
+##### Artículo 225
 Consejo Nacional de Desarrollo Urbano y Rural. Para la organización y coordinación de la administración pública, se crea el Consejo Nacional de Desarrollo Urbano y Rural coordinado por el Presidente de la República e integrado en la forma que la ley establezca.
 
 Esta Consejo tendrá a su cargo la formulación de las políticas de desarrollo urbano y rural, así como la de ordenamiento territorial.
 
-##### ARTÍCULO 226
+##### Artículo 226
 Consejo Regional de Desarrollo Urbano y Rural. Las regiones que conforme a la ley se establezcan contarán con un Consejo Regional de Desarrollo Urbano y Rural, presidido por un representante del Presidente de la República e integrado por los gobernadores de los departamentos que forman la región, por un representante de las corporaciones municipales de cada uno de los departamentos incluidos en la misma y por los representantes de las entidades públicas y privadas que la ley establezca.
 
 Los presidentes de estos consejos integrarán ex oficio el Consejo Nacional de Desarrollo Urbano y Rural.
 
-##### ARTÍCULO 227
+##### Artículo 227
 Gobernadores. El gobierno de los departamentos estará a cargo de un gobernador nombrado por el Presidente de la República, deberá reunir las misma s calidades que un ministro de Estado y gozará de las mismas inmunidades que éste, debiendo haber estado domiciliado durante los cinco años anteriores a su designación en el departamento para el que fuere nombrado.
 
-##### ARTÍCULO 228
+##### Artículo 228
 Consejo departamental. En cada departamento habrá un Consejo Departamental que presidirá el gobernador; estará integrado por los alcaldes de todos los municipios y representantes de los sectores público y privado organizados, con el fin de promover el desarrollo del departamento.
 
-##### ARTÍCULO 229
+##### Artículo 229
 Aporte financiero del gobierno central a los departamentos. Los consejos regionales y departamentales, deberán de recibir el apoyo financiero necesario para su funcionamiento del Gobierno Central.
 
-##### ARTÍCULO 230
+##### Artículo 230
 Registro General de la Propiedad. El Registro General de la Propiedad, deberá ser organizado a efecto de que en cada departamento o región, que la ley específica determine, se establezca su propio registro de la propiedad y el respectivo catastro fiscal.
 
-##### ARTÍCULO 231
+##### Artículo 231
 Región metropolitana. La ciudad de Guatemala como capital de la República y su área de influencia urbana, constituirán la región metropolitana, integrándose en la misma el Consejo Regional de Desarrollo respectivo.
 
 Lo relativo a su jurisdicción territorial, organización administrativa y participación financiera del Gobierno Central, será determinado por la ley de la materia.
 
-### CAPÍTULO III - REGIMEN DE CONTROL Y FISCALIZACION
+### Capítulo 3 - RÉGIMEN DE CONTROL Y FISCALIZACIÓN
 
-##### ARTÍCULO 232
+##### Artículo 232
 Contraloría General de Cuentas. La Contraloría General de Cuentas es una institución técnica descentralizada, con funciones fiscalizadoras de los ingresos, egresos y en general de todo interés hacendarío de los organismos del Estado, los municipios, entidades descentralizadas y autónomas, así como de cualquier persona que reciba fondos del Estado o que haga colectas públicas.
 
 También están sujetos a esta fiscalización los contratistas de obras públicas y cualquier otra persona que, por delegación del Estado, invierta o administre fondos públicos.
 
 Su organización, funcionamiento y atribuciones serán determinados por la ley.
 
-##### ARTÍCULO 233
+##### Artículo 233
 Elección del Contralor General de Cuentas. El jefe de la contraloría General de Cuentas, será electo para un período de cuatro años, por el Congreso de la República, por mayoría absoluta de diputados que conformen dicho Organismo. Sólo podrá ser removido por el Congreso de la República en los casos de negligencia, delito y falta de idoneidad. Rendirá informe de su gestión al Congreso de la República, cada vez que sea requerido y de oficio dos veces al año. gozará de iguales inmunidades que los magistrados de la Corte de Apelaciones. En ningún caso el Contralor General de Cuentas podrá ser reelecto.
 
-##### ARTÍCULO 234
+##### Artículo 234
 Requisitos del Contralor General de Cuentas. Para ser Contralor General de Cuentas se requiere ser guatemalteco mayor de cuarenta años, de reconocida honorabilidad y prestigio profesional, estar en el goce de sus derechos ciudadanos, no tener juicio pendiente en materia de cuentas y haber ejercido su profesión por lo menos diez años.
 
-##### ARTÍCULO 235
+##### Artículo 235
 Facultades del Contralor General de Cuentas. El Contralor General de Cuentas tiene la facultad de nombrar y remover a los funcionarios y empleados de las distintas dependencias de la Contraloría y para nombrar interventores en los asuntos de competencia, todo ellos conforme a la Ley de Servicio Civil.
 
-##### ARTÍCULO 236
+##### Artículo 236
 Recursos legales. Contra los actos y las resoluciones de la Contraloría General de Cuentas, proceden los recursos judiciales y administrativos que señala la ley.
 
-### CAPÍTULO IV - REGIMEN FINANCIERO
+### Capítulo 4 - RÉGIMEN FINANCIERO
 
-##### ARTÍCULO 237
+##### Artículo 237
 Presupuesto General de Ingresos y Egresos del Estado. El Presupuesto General de Ingresos y Egresos del Estado, aprobado para cada ejercicio fiscal, de conformidad con lo establecido en esta Constitución, incluirá la estimación de todos los ingresos a obtener y los gastos por realizar.
 
 La unidad del presupuesto es obligatoria y su estructura programática. Todos los ingresos del Estado constituyen un fondo común indivisible destinado exclusivamente a cubrir sus egresos.
@@ -1370,7 +1370,7 @@ Los organismos, las entidades descentralizadas y las autónomas podrán tener pr
 
 Todo egreso extraordinario deberá ser decretado por el congreso de la República como ampliación del Presupuesto General de Ingresos y Egresos del Estado, y su aprobación deberá llenar los mismos requisitos que se fijan para la aprobación del presupuesto ordinario.
 
-##### ARTÍCULO 238
+##### Artículo 238
 Ley Orgánica del Presupuesto. La Ley Orgánica del Presupuesto regulará:
 
 * a) La formulación, ejecución y liquidación del Presupuesto General de Ingresos y Egresos del Estado y las normas a las que conforme esta Constitución se somete su discusión y aprobación;
@@ -1382,7 +1382,7 @@ Ley Orgánica del Presupuesto. La Ley Orgánica del Presupuesto regulará:
 * g) La forma de comprobar los gastos públicos y los casos muy calificados y aprobados por el Congreso de la República, en los que se eroguen gastos no comprobables y de naturaleza confidencial; y
 * h) Las formas de recaudación de los ingresos públicos.
 
-##### ARTÍCULO 239
+##### Artículo 239
 Principio de legalidad. Corresponde con exclusividad al Congreso de la República, decretar impuestos ordinarios y extraordinarios, arbitrios y contribuciones especiales, conforme a las necesidades del Estado y de acuerdo a la equidad y justicia tributaria, así como determinar las bases de recaudación, especialmente las siguientes:
 
 * a) El hecho generador de la relación tributaria;
@@ -1394,10 +1394,10 @@ Principio de legalidad. Corresponde con exclusividad al Congreso de la Repúblic
 
 Son nulas ipso jure las disposiciones, jerárquicamente inferiores a la ley, que contradigan o tergiversen las normas legales reguladoras de las bases de recaudación del tributo. Las disposiciones reglamentarias no podrán modificar dichas bases y se concretarán a normar lo relativo al cobro administrativo del tributo y establecer los procedimientos que faciliten su recaudación.
 
-##### ARTÍCULO 240
+##### Artículo 240
 Fuente de inversiones y gastos del Estado. Toda ley que implique inversiones y gastos del Estado, debe indicar la fuente de donde se tomarán los fondos destinados a cubrirlos.
 
-##### ARTÍCULO 241
+##### Artículo 241
 Rendición de cuentas del Estado. El Organismo Ejecutivo presentará anualmente al Congreso de la República la rendición de cuentas del Estado.
 
 El ministerio respectivo formulará la liquidación del presupuesto anual y la someterá a conocimiento de la Contraloría General de Cuentas dentro de los tres primeros meses de cada año. Recibida la liquidación la Contraloría General de Cuentas rendirá informe y emitirá dictamen en un plazo no mayor de dos meses, debiendo remitirlos al Congreso de la República, el que aprobará o improbará la liquidación.
@@ -1408,19 +1408,19 @@ Aprobada la liquidación del presupuesto, se publicará en el Diario Oficial una
 
 Los organismos, entidades descentralizadas o autónomas del Estado, con presupuesto propio, presentarán al Congreso de la República en la misma forma y plazo, la liquidación correspondiente, para satisfacer el principio de unidad en la fiscalización de los ingresos y egresos del Estado.
 
-##### ARTÍCULO 242
+##### Artículo 242
 Fondo de garantía. Con el fin de financiar programas de desarrollo económico y social que realizan las organizaciones no lucrativas del sector privado, reconocidas legalmente en el país, el Estado constituirá un fondo específico de garantía de sus propios recursos, de entidades descentralizadas o autónomas, de aportes privados o de origen internacional. Una ley regulará esta materia.
 
-##### ARTÍCULO 243
+##### Artículo 243
 Principio de capacidad de pago. El sistema tributario debe ser justo y equitativo. Para el efecto las leyes tributarias serán estructuradas conforme al principio de capacidad de pago.
 
 Se prohiben los tributos confiscatorios y la doble o múltiple tributación interna. Hay doble o múltiple tributación, cuando un mismo hecho generador atribuible al mismo sujeto pasivo, es gravado dos o más veces, por uno o más sujetos con poder tributario y por el mismo evento o período de imposición.
 
 Los casos de doble o múltiple tributación al ser promulgada la presente Constitución, deberán eliminarse progresivamente, para no dañar al fisco.
 
-### CAPÍTULO V - EJERCITO
+### Capítulo V - EJERCITO
 
-##### ARTÍCULO 244
+##### Artículo 244
 Integración, organización y fines del Ejército. El Ejército de Guatemala, es una institución destinada a mantener la independencia, la soberanía y el honor de Guatemala, la integridad del territorio, la paz y la seguridad interior y exterior.
 
 Es único e indivisible, esencialmente profesional, apolítico, obediente y no deliberante.
@@ -1429,10 +1429,10 @@ Está integrado por fuerzas de tierra, aire y mar.
 
 Su organización es jerárquica y se basa en los principios de disciplina y obediencia.
 
-##### ARTÍCULO 245
+##### Artículo 245
 Prohibición de grupos armados ilegales. Es punible la organización y funcionamiento de grupos armados no regulados por las leyes de la República y sus reglamentos.
 
-##### ARTÍCULO 246
+##### Artículo 246
 Cargos y atribuciones del Presidente en el Ejército. El Presidente de la República es el Comandante General del Ejército e impartirá sus órdenes por conducto del oficial general o coronel o su equivalente en la Marina de Guerra, que desempeñe el cargo de Ministro de la Defensa Nacional.
 
 En ese carácter tiene las atribuciones que le señale la ley y en especial las siguientes:
@@ -1440,33 +1440,33 @@ En ese carácter tiene las atribuciones que le señale la ley y en especial las 
 * a) Decretar la movilización y desmovilización; y
 * b) Otorgar los ascensos de la oficialidad del Ejército de Guatemala en tiempo de paz y en estado de guerra, así como conferir condecoraciones y honores militares en los casos y formas establecidas por la Ley Constitutiva del Ejército y demás leyes y reglamentos militares. Puede, asimismo, conceder pensiones extraordinarias.
 
-##### ARTÍCULO 247
+##### Artículo 247
 Requisitos para ser oficial del Ejército. Para ser oficial del Ejército de Guatemala, se requiere ser guatemalteco de origen u no haber adoptado en ningún tiempo nacionalidad extranjera.
 
-##### ARTÍCULO 248
+##### Artículo 248
 Prohibiciones. Los integrantes del Ejército de Guatemala en servicio activo, no pueden ejercer el derecho de sufragio, ni el derecho de petición en materia política. Tampoco pueden ejercer el derecho de petición en forma colectiva.
 
-##### ARTÍCULO 249
+##### Artículo 249
 Cooperación del Ejército. El Ejército prestará su cooperación en situaciones de emergencia o calamidad pública.
 
-##### ARTÍCULO 250
+##### Artículo 250
 Régimen legal del Ejército. El Ejército de Guatemala se rige por lo preceptuado en la Constitución, su Ley Constitutiva y demás leyes y reglamentos militares.
 
-### CAPÍTULO VI - MINISTERIO PUBLICO
+### Capítulo VI - MINISTERIO PUBLICO
 
-##### ARTÍCULO 251
+##### Artículo 251
 Ministerio Público. El Ministerio Público es una institución auxiliar de la administración pública y de los tribunales con funciones autónomas, cuyos fines principales son velar por el estricto cumplimiento de las leyes del país y ejercer la representación del Estado.
 
 Su organización y funcionamiento se regirá por su ley orgánica.
 
-##### ARTÍCULO 252
+##### Artículo 252
 Procurador General de la Nación y Jefe del Ministerio Público. El Procurador General de la Nación, será nombrado por el presidente de la República, quien podrá también removerlo mediante causa justa debidamente establecida. Para ser Procurador General de la Nación, se necesita ser abogado colegiado y tener las mismas calidades correspondientes a magistrado de la Corte Suprema de Justicia.
 
 El Procurador General de la Nación y Jefe del Ministerio Público, durará cinco años en el ejercicio de sus funciones, tendrá las mismas preeminencias e inmunidades que los magistrados de la Corte Suprema de Justicia.
 
-### CAPÍTULO VII - REGIMEN MUNICIPAL
+### Capítulo VII - RÉGIMEN MUNICIPAL
 
-##### ARTÍCULO 253
+##### Artículo 253
 Autonomía Municipal. Los municipios de la República de Guatemala, son instituciones autónomas.
 
 Entre otras funciones les corresponde:
@@ -1477,40 +1477,40 @@ Entre otras funciones les corresponde:
 
 Para los efectos correspondientes emitirán las ordenanzas y reglamentos respectivos.
 
-##### ARTÍCULO 254
+##### Artículo 254
 Gobierno municipal. El gobierno municipal será ejercido por una corporación, la cual se integra por el alcalde y por síndicos y concejales, todos electos directa y popularmente en cada municipio, en la forma y por el período que establezcan las leyes de la materia.
 
-##### ARTÍCULO 255
+##### Artículo 255
 Recursos económicos del municipio. Las corporaciones municipales deberán procurar el fortalecimiento económico de sus respectivos municipios, a efecto de poder realizar las obras y prestar los servicios que les sean necesarios.
 
-La captación de recursos deberá ajustarse al principio establecido en el artículo 239 de esta Constitución, a la ley y a las necesidades de los municipios.
+La captación de recursos deberá ajustarse al principio establecido en el Artículo 239 de esta Constitución, a la ley y a las necesidades de los municipios.
 
-##### ARTÍCULO 256
+##### Artículo 256
 Clasificación de las municipalidades. La ley clasificará las municipalidades en categorías, atendiendo a la realidad demográfica del municipio, a su capacidad económica, a su importancia político administrativa, a su desarrollo cultural y a otras circunstancias de interés para el municipio.
 
-##### ARTÍCULO 257
+##### Artículo 257
 Presupuesto para obras de infraestructura municipal. El Organismo Ejecutivo velará porque anualmente, del Presupuesto General de Ingresos Ordinarios del Estado, se fije y traslade un ocho por ciento del mismo a las municipalidades del país, a través del Consejo Nacional de Desarrollo Urbano y Rural. Este porcentaje deberá ser distribuido en la forma que la ley determine, y destinado exclusivamente a obras de infraestructura y servicios públicos que mejoren el ingreso y la calidad de vida de los habitantes, las cuales por su magnitud no pueden ser financiadas por los propios municipios.
 
-##### ARTÍCULO 258
+##### Artículo 258
 Derecho de antejuicio de los alcaldes. Los alcaldes no podrán ser detenidos ni enjuiciados, sin que preceda declaración de autoridad judicial competente de que ha lugar a formación de causa, salvo el caso de flagrante delito.
 
-##### ARTÍCULO 259
+##### Artículo 259
 Juzgado de Asuntos Municipales. Para la ejecución de sus ordenanzas y el cumplimiento de sus disposiciones las municipalidades podrán crear, de conformidad con la ley, su Juzgado de Asuntos Municipales y su Cuerpo de Policía de acuerdo con sus recursos y necesidades, los que funcionarán bajo órdenes directas del alcalde.
 
-##### ARTÍCULO 260
+##### Artículo 260
 Privilegios y garantías de los bienes municipales. Los bienes, rentas arbitrios y tasas son propiedad exclusiva del municipio y gozarán de las mismas garantías y privilegios de la propiedad de Estado.
 
-##### ARTÍCULO 261
+##### Artículo 261
 Prohibiciones de eximir tasas o arbitrios municipales. Ningún organismo del Estado está facultado para eximir de tasas o arbitrios municipales a personas individuales o jurídicas, salvo las propias municipalidades y lo que al respecto establece esta Constitución.
 
-##### ARTÍCULO 262
+##### Artículo 262
 Ley de Servicio Municipal. Las relaciones laborales de los funcionarios y empleados de las municipalidades, se normarán por la Ley de Servicio Municipal.
 
-## TÍTULO VI - GARANTIAS CONSTITUCIONES Y DEFENSA DEL ORDEN CONSTITUCIONAL
+## Título VI - GARANTÍAS CONSTITUCIONES Y DEFENSA DEL ORDEN CONSTITUCIONAL
 
-### CAPÍTULO I - EXHIBICION PERSONAL
+### Capítulo 1 - EXHIBICIÓN PERSONAL
 
-##### ARTÍCULO 263
+##### Artículo 263
 Derecho a la exhibición personal. Quien se encuentre ilegalmente preso, detenido o cohibido de cualquier otro modo del goce de su libertad individual, amenazado de la pérdida de ella, o sufriere vejámenes, aun cuando su prisión o detención fuere fundada en ley, tiene derecho a pedir su inmediata exhibición ante los tribunales de justicia, ya sea con el fin de que se le restituya o garantice su libertad, se hagan cesar los vejámenes o termine la coacción a que estuviere sujeto.
 
 Si el tribunal decretare la libertad de la persona ilegalmente recluida, ésta quedará libre en el mismo acto y lugar.
@@ -1519,32 +1519,32 @@ Cuando así se solicite o el juez o tribunal lo juzgue pertinente, la exhibició
 
 Es ineludible la exhibición personal del detenido en cuyo favor se hubiere solicitado.
 
-##### ARTÍCULO 264
+##### Artículo 264
 Responsabilidades de los infractores. Las autoridades que ordenen el ocultamiento del detenido o que se nieguen a presentarlo al tribunal respectivo, o que en cualquier forma burlen esta garantía, así como los agentes ejecutores, incurrirán en el delito de plagio y serán sancionados de conformidad con la ley.
 
 Si como resultado de las diligencias practicadas no se localiza a la persona a cuyo favor se interpuso la exhibición, el tribunal de oficio, ordenará inmediatamente la pesquisa del caso, hasta su total esclarecimiento.
 
-### CAPÍTULO II - AMPARO
+### Capítulo 2 - AMPARO
 
-##### ARTÍCULO 265
+##### Artículo 265
 Procedencia del amparo. Se instituye el amparo con el fin de proteger a las personas contra las amenazas de violaciones a sus derechos o para restaurar el imperio de los mismos cuando la violación hubiere ocurrido. No hay ámbito que no sea susceptible de amparo, y procederá siempre que los actos, resoluciones, disposiciones o leyes de autoridad lleven implícitos una amenaza, restricción o violación a los derechos que la Constitución y las leyes garantizan.
 
-### CAPÍTULO III - INCONSTITUCIONALIDAD DE LAS LEYES
+### Capítulo 3 - INCONSTITUCIONALIDAD DE LAS LEYES
 
-##### ARTÍCULO 266
+##### Artículo 266
 Inconstitucionalidad de las leyes en casos concretos. En casos concretos, en todo proceso de cualquier competencia o jurisdicción, en cualquier instancia y en casación y hasta antes de dictarse sentencia, las partes podrán plantear como acción, excepción o incidente, la inconstitucionalidad total o parcial de una ley. El tribunal deberá pronunciarse al respecto.
 
-##### ARTÍCULO 267
+##### Artículo 267
 Inconstitucionalidad de las leyes de carácter general. Las acciones en contra de leyes, reglamentos o disposiciones de carácter general que contengan vicio parcial o total de inconstitucionalidad, se plantearán directamente ante el Tribunal o Corte de Constitucionalidad.
 
-### CAPÍTULO IV - CORTE DE CONSTITUCIONALIDAD
+### Capítulo 4 - CORTE DE CONSTITUCIONALIDAD
 
-##### ARTÍCULO 268
+##### Artículo 268
 Función esencial de la Corte de Constitucionalidad. La Corte de Constitucionalidad es un tribunal permanente de jurisdicción privativa, cuya función esencial es la defensa del orden constitucional; actúa como tribunal colegiado con independencia de los demás organismos del Estado y ejerce funciones específicas que le asigna la Constitución y la ley de la materia.
 
 La independencia económica de la Corte de Constitucionalidad, será garantizada con un porcentaje de los ingresos que correspondan al Organismo Judicial.
 
-##### ARTÍCULO 269
+##### Artículo 269
 Integración de la Corte de Constitucionalidad. La Corte de Constitucionalidad se integra con cinco magistrados titulares, cada uno de los cuales tendrá su respectivo suplente. Cuando conozca de asuntos de inconstitucionalidad en contra de la Corte Suprema de Justicia, el Congreso de la República, el Presidente o el Vicepresidente de la República, el número de sus integrantes se elevará a siete, escogiéndose los otros dos magistrados por sorteo de entre los suplentes.
 
 Los magistrados durarán en sus funciones cinco años y serán designados en la siguiente forma:
@@ -1559,7 +1559,7 @@ Simultáneamente con la designación del titular, se hará la del respectivo sup
 
 La instalación de la Corte de constitucionalidad se hará efectiva noventa días después que la del Congreso de la República.
 
-##### ARTÍCULO 270
+##### Artículo 270
 Requisitos de los magistrados de la Corte de Constitucionalidad. Para ser magistrado de la Corte de Constitucionalidad, se requiere llenar los siguientes requisitos:
 
 * a) Ser guatemalteco de origen;
@@ -1569,15 +1569,15 @@ Requisitos de los magistrados de la Corte de Constitucionalidad. Para ser magist
 
 Los magistrados de la Corte de Constitucionalidad gozarán de las mismas prerrogativas e inmunidades que los magistrados de la Corte Suprema de Justicia.
 
-##### ARTÍCULO 271
+##### Artículo 271
 Presidencia de la Corte de Constitucionalidad. La Presidencia de la Corte de Constitucionalidad será desempeñada por los mismos magistrados titulares que a integran, en forma rotativa, en período de un año, comenzando por el de mayor edad y siguiendo en orden descendente de edades.
 
-##### ARTÍCULO 272
+##### Artículo 272
 Funciones de la Corte de Constitucionalidad. La Corte de Constitucionalidad tiene las siguientes funciones:
 
 * a) Conocer en única instancia de las impugnaciones interpuestas contra leyes o disposiciones de carácter general, objetadas parcial o totalmente de inconstitucionalidad;
 * b) Conocer en única instancia en calidad de Tribunal Extraordinario de Amparo en las acciones de amparo interpuestas en contra del Congreso de la República, la Corte Suprema de Justicia, el Presidente y el Vicepresidente de la República;
-* c) Conocer en apelación de todos los amparos interpuestos ante cualquiera de los tribunales de justicia. Si la apelación fuere en contra de una resolución de amparo de la Corte Suprema de Justicia, la Corte de Constitucionalidad se ampliará con dos vocales en la forma prevista en el artículo 268;
+* c) Conocer en apelación de todos los amparos interpuestos ante cualquiera de los tribunales de justicia. Si la apelación fuere en contra de una resolución de amparo de la Corte Suprema de Justicia, la Corte de Constitucionalidad se ampliará con dos vocales en la forma prevista en el Artículo 268;
 * d) Conocer en apelación de todas las impugnaciones en contra de las leyes objetadas de inconstitucionalidad en casos concretos, en cualquier juicio, en casación, o en los casos contemplados por la ley de la materia;
 * e) Emitir opinión sobre la constitucionalidad de los tratados, convenios y proyecto de ley, a solicitud de cualquiera de los organismos del Estado;
 * f) Conocer y resolver lo relativo a cualquier conflicto de jurisdicción en materia de constitucionalidad;
@@ -1585,15 +1585,15 @@ Funciones de la Corte de Constitucionalidad. La Corte de Constitucionalidad tien
 * h) Emitir opinión sobre la inconstitucionalidad de las leyes vejadas por el Ejecutivo alegando inconstitucionalidad; e
 * i) Actuar, opinar, dictaminar o conocer de aquellos asuntos de su competencia establecidos en la Constitución de la República.
 
-### CAPÍTULO V - COMISION Y PROCURADOR DE DERECHOS HUMANOS
+### Capítulo V - COMISIÓN Y PROCURADOR DE DERECHOS HUMANOS
 
-##### ARTÍCULO 273
-Comisión de Derechos Humanos y Procurador de la Comisión. El Congreso de la República designará una Comisión de Derechos Humanos formada por un diputado por cada partido político representado en el correspondiente período. Esta Comisión propondrá al Congreso tres candidatos para la elección de un procurador, que deberá reunir las calidades de los magistrados de la Corte Suprema de justicia y gozará de las mismas inmunidades y prerrogativas de los diputados al Congreso. la ley regulará las atribuciones de la Comisión y del Procurador de los Derechos Humanos a que se refiere este artículo.
+##### Artículo 273
+Comisión de Derechos Humanos y Procurador de la Comisión. El Congreso de la República designará una Comisión de Derechos Humanos formada por un diputado por cada partido político representado en el correspondiente período. Esta Comisión propondrá al Congreso tres candidatos para la elección de un procurador, que deberá reunir las calidades de los magistrados de la Corte Suprema de justicia y gozará de las mismas inmunidades y prerrogativas de los diputados al Congreso. la ley regulará las atribuciones de la Comisión y del Procurador de los Derechos Humanos a que se refiere este Artículo.
 
-##### ARTÍCULO 274
+##### Artículo 274
 Procurador de los Derechos Humanos. El procurador de los Derechos Humanos es un comisionado del Congreso de la República para la defensa de los Derechos Humanos que la Constitución garantiza. Tendrá facultades de supervisar la administración; ejercerá su cargo por un período de cinco años, y rendirá informe anual al pleno del Congreso, con el que se relacionará a través de la Comisión de Derechos Humanos.
 
-##### ARTÍCULO 275
+##### Artículo 275
 Atribuciones del Procurador de los Derechos Humanos. El Procurador de los Derechos Humanos tiene las siguientes atribuciones:
 
 * a) Promover el buen funcionamiento y la agilización de la gestión administrativa gubernamental, en materia de Derechos Humanos;
@@ -1606,16 +1606,16 @@ Atribuciones del Procurador de los Derechos Humanos. El Procurador de los Derech
 
 El Procurador de los Derechos Humanos, de oficio o a instancia de parte, acatará con la debida diligencia para que, durante el régimen de excepción, se garanticen a plenitud los derechos fundamentales cuya vigencia no hubiere sido expresamente restringida. Para el cumplimiento de sus funciones todos los días y horas son hábiles.
 
-### CAPÍTULO VI - LEY DE AMPARO, EXHIBICION PERSONAL Y DE CONSTITUCIONALIDAD
+### Capítulo VI - LEY DE AMPARO, EXHIBICIÓN PERSONAL Y DE CONSTITUCIONALIDAD
 
-##### ARTÍCULO 276
+##### Artículo 276
 Ley Constitucional de la materia. Una ley constitucional desarrollará lo relativo al amparo, a la exhibición personal y a la constitucionalidad de las leyes.
 
-## TÍTULO VII - REFORMAS A LA CONSTITUCION
+## Título VII - REFORMAS A LA CONSTITUCIÓN
 
-### CAPÍTULO UNICO REFORMAS A LA CONSTITUCION
+### Capítulo ÚNICO REFORMAS A LA CONSTITUCIÓN
 
-##### ARTÍCULO 277
+##### Artículo 277
 Iniciativa. Tiene iniciativa para proponer reformas a la Constitución:
 
 * a) El Presidente de la República en Consejo de Ministros;
@@ -1625,20 +1625,20 @@ Iniciativa. Tiene iniciativa para proponer reformas a la Constitución:
 
 En cualquiera de los casos anteriores, el congreso de la República debe ocuparse sin demora alguna del asunto planteado.
 
-##### ARTÍCULO 278
-Asamblea Nacional Constituyente. Para reformar este o cualquier artículo de los contenidos en el Capítulo I del Título II de esta Constitución, es indispensable que el Congreso de la República, con el voto afirmativo de las dos terceras partes de los miembros que lo integran, convoque a una Asamblea Nacional Constituyente. En el decreto de convocatoria señalará el artículo o los artículos que haya de revisarse y se comunicará al Tribunal Supremo Electoral para que fije la fecha en que se llevarán a cabo las elecciones dentro del plazo máximo de ciento veinte días, procediéndose en lo demás conforme a la Ley Electoral Constitucional.
+##### Artículo 278
+Asamblea Nacional Constituyente. Para reformar este o cualquier Artículo de los contenidos en el Capítulo 1 del Título 2 de esta Constitución, es indispensable que el Congreso de la República, con el voto afirmativo de las dos terceras partes de los miembros que lo integran, convoque a una Asamblea Nacional Constituyente. En el decreto de convocatoria señalará el Artículo o los Artículos que haya de revisarse y se comunicará al Tribunal Supremo Electoral para que fije la fecha en que se llevarán a cabo las elecciones dentro del plazo máximo de ciento veinte días, procediéndose en lo demás conforme a la Ley Electoral Constitucional.
 
-##### ARTÍCULO 279
+##### Artículo 279
 Diputados a la Asamblea Nacional Constituyente. La Asamblea Nacional Constituyente y el Congreso de la República podrán funcionar simultáneamente. Las calidades requeridas para ser diputado a la Asamblea Nacional Constituyente son las mismas que se exigen para ser Diputado al Congreso y los diputados constituyentes gozarán de iguales inmunidades y prerrogativas.
 
 No se podrá simultáneamente ser diputado a la Asamblea Nacional Constituyente y al Congreso de la República.
 
 Las elecciones de diputados, a la Asamblea Nacional Constituyente, el número de diputados a elegir y as demás cuestiones relacionadas, con el proceso electoral se normarán en igual forma que las elecciones al Congreso de la República.
 
-##### ARTÍCULO 280
-Reformas por el Congreso y consulta popular. Para cualquier otra reforma constitucional, será necesario que el Congreso de la República la apruebe el Congreso de la República la apruebe con el voto afirmativo de las dos terceras partes del total de diputados. las reformas no entrarán en vigencia sino hasta que sean ratificadas mediante la consulta popular a que se refiere el artículo 173 de esta Constitución.
+##### Artículo 280
+Reformas por el Congreso y consulta popular. Para cualquier otra reforma constitucional, será necesario que el Congreso de la República la apruebe el Congreso de la República la apruebe con el voto afirmativo de las dos terceras partes del total de diputados. las reformas no entrarán en vigencia sino hasta que sean ratificadas mediante la consulta popular a que se refiere el Artículo 173 de esta Constitución.
 
 Si el resultado de la consulta popular fuere de ratificación de la reforma, ésta entrará en vigencia sesenta días después que el Tribunal Supremo Electoral anuncie el resultado de la consulta.
 
-##### ARTÍCULO 281
-Artículos no reformables. En ningún caso podrán reformarse los artículos 140, 141, 165 inciso g), 186 y 187, ni en forma alguna toda cuestión que se refiera a la forma republicana de gobierno, al principio de no reelección para el ejercicio de la Presidencia de la República, ni restársele efectividad o vigencia a los artículos que estatuyen la alternabilidad en el ejercicio de la Presidencia de la República, así como tampoco dejárseles en suspenso o de cualquier otra manera variar o modificar su contenido.
+##### Artículo 281
+Artículos no reformables. En ningún caso podrán reformarse los Artículos 140, 141, 165 inciso g), 186 y 187, ni en forma alguna toda cuestión que se refiera a la forma republicana de gobierno, al principio de no reelección para el ejercicio de la Presidencia de la República, ni restársele efectividad o vigencia a los Artículos que estatuyen la alternabilidad en el ejercicio de la Presidencia de la República, así como tampoco dejárseles en suspenso o de cualquier otra manera variar o modificar su contenido.
