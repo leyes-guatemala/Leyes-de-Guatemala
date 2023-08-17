@@ -48,7 +48,7 @@ Al centralizar todo en un solo lugar, se facilita el estudio y análisis de las 
 
 ## Contribuciones 🤝
 
-Si deseas contribuir a este repositorio, consulta el archivo `[Contribución.md](Contribución.md)` para obtener detalles.
+Si deseas contribuir a este repositorio, consulta el archivo [Contribución.md](Contribución.md) para obtener detalles.
 
 ## Licencia 📄
 
