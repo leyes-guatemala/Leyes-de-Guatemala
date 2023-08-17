@@ -35,7 +35,7 @@ Al centralizar todo en un solo lugar, se facilita el estudio y análisis de las 
    - `Reglamento Interno.md`
 
 3. **Organismo Judicial/**: Leyes y regulaciones referentes a la justicia y el sistema judicial.
-   - [Funciones](./Organismo_Juducial/Funciones.md)
+   - [Funciones](./Organismo_Judicial/Funciones.md)
    - `Corte Suprema de Justicia/`
      - [Funciones](./Organismo_Juducial/Corte_Suprema_de_Justicia/Funciones.md)
      - `Procedimientos.md`
