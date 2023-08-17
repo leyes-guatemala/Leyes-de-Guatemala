@@ -25,30 +25,31 @@ Al centralizar todo en un solo lugar, se facilita el estudio y análisis de las 
 ### Estructura del Repositorio
 
 1. **Organismo Ejecutivo/**: Leyes y regulaciones relacionadas con las funciones y operaciones del ejecutivo.
-   - `Funciones.md`
+   - [Funciones](./Organismo_Ejecutivo/Funciones.md)
    - `Organización.md`
    - `Regulaciones Internas.md`
 
 2. **Organismo Legislativo/**: Documentos vinculados a la creación de leyes y organización legislativa.
-   - `Funciones.md`
+   - [Funciones](./Organismo_Legislativo/Funciones.md)
    - `Procedimientos.md`
    - `Reglamento Interno.md`
 
 3. **Organismo Judicial/**: Leyes y regulaciones referentes a la justicia y el sistema judicial.
+   - [Funciones](./Organismo_Juducial/Funciones.md)
    - `Corte Suprema de Justicia/`
-     - `Funciones.md`
+     - [Funciones](./Organismo_Juducial/Corte_Suprema_de_Justicia/Funciones.md)
      - `Procedimientos.md`
    - `Corte de Apelaciones/`
-     - `Funciones.md`
+     - [Funciones](./Organismo_Juducial/Corte_de_Apelaciones/Funciones.md)
      - `Procedimientos.md`
    - `Corte de Constitucionalidad/`
-     - `Funciones.md`
+     - [Funciones](./Organismo_Juducial/Corte_de_Constitucionalidad/Funciones.md)
      - `Procedimientos.md`
      - `Casos Importantes.md`
 
 ## Contribuciones 🤝
 
-Si deseas contribuir a este repositorio, consulta el archivo [Contribución.md](Contribución.md) para obtener detalles.
+Si deseas contribuir a este repositorio, consulta el archivo [Contribución](Contribución.md) para obtener detalles.
 
 ## Licencia 📄
 
