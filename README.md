@@ -1,7 +1,14 @@
-
 # Leyes de la República de Guatemala 🇬🇹
 
-Este repositorio alberga leyes, regulaciones y otros documentos legales derivados de la "Constitución Política de la República de Guatemala 1985". Está organizado para facilitar el acceso y la comprensión de la legislación guatemalteca.
+Este repositorio alberga leyes, regulaciones y otros documentos legales derivados de la "Constitución Política de la República de Guatemala 1985". Está diseñado no solo para facilitar el acceso y la comprensión de la legislación guatemalteca, sino también para servir como un recurso educativo avanzado y controlado.
+
+## Propósito 🎯
+
+El principal objetivo de este repositorio es ofrecer un sistema educativo opensource donde, mediante el uso de Inteligencia Artificial, se expliquen y desglosen las leyes y regulaciones para facilitar su comprensión. A diferencia de plataformas tipo wiki, este recurso busca mantener un control más riguroso sobre el contenido, garantizando la precisión y fiabilidad de la información.
+
+La inspiración detrás de este proyecto surge de herramientas como Chatpdf, que, aunque no son perfectas, proveen una gran ayuda en la interpretación y búsqueda dentro de documentos extensos. Sin embargo, este repositorio va un paso más allá al ofrecer un espacio organizado y clasificado donde académicos y estudiantes pueden acceder a interpretaciones y explicaciones detalladas sin la necesidad de cargar el documento de forma externa.
+
+Al centralizar todo en un solo lugar, se facilita el estudio y análisis de las leyes guatemaltecas, permitiendo una comprensión más profunda y detallada de los textos legales.
 
 ## Contenido 📜
 
