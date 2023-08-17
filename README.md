@@ -1,6 +1,6 @@
 # Leyes de la República de Guatemala 🇬🇹
 
-Este repositorio alberga leyes, regulaciones y otros documentos legales derivados de la "Constitución Política de la República de Guatemala 1985". Está diseñado no solo para facilitar el acceso y la comprensión de la legislación guatemalteca, sino también para servir como un recurso educativo avanzado y controlado.
+Este repositorio alberga leyes, regulaciones y otros documentos legales derivados de la "[Constitución Política de la República de Guatemala 1985](Constitucion_Guatemala_1985.md)". Está diseñado no solo para facilitar el acceso y la comprensión de la legislación guatemalteca, sino también para servir como un recurso educativo avanzado y controlado.
 
 ## Propósito 🎯
 
