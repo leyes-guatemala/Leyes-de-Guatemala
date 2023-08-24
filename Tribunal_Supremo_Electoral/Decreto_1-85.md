@@ -1,64 +1,53 @@
 # LEY ELECTORAL Y DE PARTIDOS POLÍTICOS
 
-## DECRETO NÚMERO 1-85 DE
-
-## LA ASAMBLEA NACIONAL CONSTITUYENTE
-
-### DECRETO NÚMERO 1-
-
-### LA ASAMBLEA NACIONAL CONSTITUYENTE
+## DECRETO NÚMERO 1-85 DE LA ASAMBLEA NACIONAL CONSTITUYENTE
 
 ### CONSIDERANDO:
 
 Que la nueva Constitución Política de la República de Guatemala obliga la reforma de ciertas
 leyes a fin que las disposiciones de estas resulten acorde con las normas fundamentales;
 
-
-CONSIDERANDO:
+### CONSIDERANDO:
 Que la Ley Electoral y de Partidos Políticos debe contener y desarrollar los principios que, de
 acuerdo con la nueva Constitución Política de la República de Guatemala, norman todo lo
 relativo al ejercicio de los derechos del ciudadano en lo que atañe a organizaciones políticas,
 al ejercicio de los derechos políticos inherentes, a la organización y al funcionamiento de las
 autoridades electorales;
 
-
-CONSIDERANDO:
+### CONSIDERANDO:
 Que la evolución de las ideas políticas, reclama un tratamiento legal, acorde con el desarrollo
 actual, circunstancia que debe ser atendida y regulada por toda ley electoral y de partidos
 políticos.
 
-
-POR TANTO,
+### POR TANTO,
 En ejercicio de las facultades que específicamente le asigna la Ley de Régimen Interior de la
 Asamblea Nacional Constituyente y en observación al mandato del pueblo,
 
-
-DECRETA, SANCIONA Y PROMULGA
+### DECRETA, SANCIONA Y PROMULGA
 
 La siguiente:
 
+# LEY ELECTORAL Y DE PARTIDOS POLÍTICOS
 
-LEY ELECTORAL Y DE PARTIDOS POLÍTICOS
+# LIBRO UNO
+# CIUDADANÍA Y VOTO
 
+## TITULO ÚNICO
 
-LIBRO UNO
-CIUDADANÍA Y VOTO
+### CAPITULO ÚNICO
+### Principios generales
 
-
-TITULO ÚNICO
-
-
-CAPITULO ÚNICO
-Principios generales
-
-**Artículo 1. Contenido de la ley.** La presente ley regula lo relativo al ejercicio de los derechos
+##### Artículo 1. 
+**Contenido de la ley.** La presente ley regula lo relativo al ejercicio de los derechos
 políticos; los derechos y obligaciones que corresponden a las autoridades, a los órganos
 electorales, a las organizaciones políticas; y lo referente al ejercicio del sufragio y al proceso
 electoral.
 
-**Artículo 2. Ciudadanía.** Son ciudadanos todos los guatemaltecos mayores de dieciocho años.
+##### Artículo 2. 
+**Ciudadanía.** Son ciudadanos todos los guatemaltecos mayores de dieciocho años.
 
-**Artículo 3. Derechos y deberes de los ciudadanos.** Son derechos y deberes inherentes a los
+##### Artículo 3. 
+**Derechos y deberes de los ciudadanos.** Son derechos y deberes inherentes a los
 ciudadanos:
 
 a) Respetar y defender la Constitución Política de la República.
@@ -80,59 +69,57 @@ Vicepresidencia de la República.
 
 h) Desempeñar las funciones electorales para las que sean designados.
 
-**Artículo 4. Suspensión de los derechos ciudadanos.** Los derechos ciudadanos se suspenden:
-
+##### Artículo 4. 
+**Suspensión de los derechos ciudadanos.** Los derechos ciudadanos se suspenden:
 
 a) Por sentencia condenatoria firme, dictada en proceso penal;
-
-
 b) Por declaratoria judicial de interdicción.
 
-**Artículo 5. Recuperación del ejercicio de los derechos ciudadanos.** La suspensión de los
+##### Artículo 5. 
+**Recuperación del ejercicio de los derechos ciudadanos.** La suspensión de los
 derechos ciudadanos termina:
 
-
 a) Por cumplimiento de la pena impuesta en sentencia;
-
-
 b) Por amnistía o por indulto;
-
-
 c) Por rehabilitación judicial en el caso de interdicción.
 
-**Artículo 6. Pérdida y recuperación de la ciudadanía.** La pérdida de la nacionalidad
+##### Artículo 6. 
+**Pérdida y recuperación de la ciudadanía.** La pérdida de la nacionalidad
 guatemalteca, conlleva la pérdida de la ciudadanía. La ciudadanía se recobra al recuperar la
 nacionalidad guatemalteca.
 
-**Artículo 7. Constancia de ciudadanía.** La calidad de ciudadano se acredita con el documento
+##### Artículo 7. 
+**Constancia de ciudadanía.** La calidad de ciudadano se acredita con el documento
 extendido por el Registro de Ciudadanos, con la anotación en la cédula de vecindad, o con el
 documento de identidad que lo sustituya.
 
-**Artículo 8. De la Inscripción.** La inscripción en el Registro de Ciudadanos es indispensable
+##### Artículo 8. 
+**De la Inscripción.** La inscripción en el Registro de Ciudadanos es indispensable
 para el ejercicio de los derechos políticos. Ningún ciudadano podrá elegir o ser electo, sin
 haber cumplido previamente con tal requisito. Quienes no estén inscritos deben gestionar
 todo lo necesario para su inscripción, la que deberá hacerse en forma gratuita.
 
-**Artículo 9. Anticipación necesaria.** Para ejercer en determinada elección o consulta los
+##### Artículo 9. 
+**Anticipación necesaria.** Para ejercer en determinada elección o consulta los
 derechos políticos a que se refiere la presente ley, se requiere estar inscrito como ciudadano
 con anticipación no menor de tres meses al respectivo evento, y contar con el documento
 
 facultativo correspondiente, donde debe constar el lugar de vecindad del mismo.
 
-**Artículo 10. Obligación de notificar.** Las autoridades correspondientes están obligadas a
+##### Artículo 10. 
+**Obligación de notificar.** Las autoridades correspondientes están obligadas a
 notificar al Registro de Ciudadanos, dentro del término de cinco días, las resoluciones firmes
 que resuelvan los siguientes casos:
 
-
 a) Pérdida y recuperación de la ciudadanía;
-
 
 b) Suspensión y recuperación de los derechos ciudadanos.
 
 El Registro de Ciudadanos, en un término de cinco días, ordenará las anotaciones que
 procedan.
 
-**Artículo 11. Cancelación de la inscripción de la ciudadanía.** Los Registradores Civiles o quienes
+##### Artículo 11. 
+**Cancelación de la inscripción de la ciudadanía.** Los Registradores Civiles o quienes
 hagan sus veces, tienen la obligación de dar aviso al Registro de Ciudadanos; del fallecimiento
 de toda persona mayor de dieciocho años, dentro de los ocho días siguientes a la fecha
 de asiento de la partida de defunción y, con base en tales avisos, se harán las anotaciones
@@ -144,7 +131,8 @@ y formular las denuncias respectivas. En su caso, los delegados o subdelegados d
 Ciudadanos podrán obtener de oficio la información necesaria y comunicarla a dicho Registro
 para que cancele las inscripciones respectivas en el padrón electoral.
 
-**Artículo 12. Voto.** El voto es un derecho y un deber cívico inherente a la ciudadanía. Es
+##### Artículo 12. 
+**Voto.** El voto es un derecho y un deber cívico inherente a la ciudadanía. Es
 universal, secreto, único, personal y no delegable.
 
 Se instituye el derecho al voto en el extranjero a los ciudadanos guatemaltecos de conformidad
@@ -156,7 +144,8 @@ extranjero se emitirá en la misma fecha que se fije para las elecciones en Guat
 todo caso, el reglamento específico que emitirá el Tribunal Supremo Electoral regulará todo
 lo relativo a la implementación del voto de los ciudadanos guatemaltecos en el extranjero.
 
-**Artículo 13. Libertad de voto.** Los ciudadanos gozan de absoluta libertad para emitir su voto y
+##### Artículo 13. 
+**Libertad de voto.** Los ciudadanos gozan de absoluta libertad para emitir su voto y
 nadie podrá directa o indirectamente, obligarlos a votar o a hacerlo por determinado candidato,
 planilla o partido político y, en el caso del procedimiento consultivo contemplado en el artículo
 173 de la Constitución Política de la República, a pronunciarse en determinado sentido. El
@@ -166,9 +155,11 @@ de manera ficticia se sanciona de conformidad con la ley. El cambio de la reside
 deberá realizarse como mínimo, un año antes de la convocatoria a elecciones generales. El
 procedimiento se normará en el reglamento de esta Ley.
 
-**Artículo 14. Suprimido.**
+##### Artículo 14. 
+**Suprimido.**
 
-**Artículo 15. Prohibiciones.** No pueden ejercer el derecho de voto:
+##### Artículo 15. 
+**Prohibiciones.** No pueden ejercer el derecho de voto:
 
 a) Los ciudadanos que se encuentren en servicio activo en el Ejército Nacional o en los
 cuerpos policíacos y quienes tengan nombramiento para cualquier comisión o trabajo de
@@ -181,23 +172,22 @@ Para el cumplimiento de estas disposiciones, las autoridades correspondientes de
 enviar la nómina respectiva al Registro de Ciudadanos, antes del cierre de inscripción de cada
 proceso electoral, a efecto de que sean excluidos del padrón.
 
-**Artículo 15 Bis. Participación ciudadana.** El Tribunal Supremo Electoral instaurará un
+##### Artículo 15Bis. 
+**Participación ciudadana.** El Tribunal Supremo Electoral instaurará un
 mecanismo de participación ciudadana, que promoverá la participación de la ciudadanla
 empadronada, con el objetivo de incidir en la definición y desarrollo de las políticas públicas
 del Estado guatemalteco.
 
+# LIBRO DOS
+# Organizaciones Políticas
 
-LIBRO DOS
-Organizaciones Políticas
+## TITULO UNO
 
+### CAPITULO ÚNICO
+### Principios generales
 
-TITULO UNO
-
-
-CAPITULO ÚNICO
-Principios generales
-
-**Artículo 16. Organizaciones políticas.** Son organizaciones políticas:
+##### Artículo 16. 
+**Organizaciones políticas.** Son organizaciones políticas:
 
 a) Los partidos políticos y los comités para la constitución de los mismos.
 
@@ -205,7 +195,8 @@ b) Los comités cívicos electorales; y,
 
 c) Las asociaciones con fines políticos.
 
-**Artículo 17. Libertad de organización.** Es libre la constitución de organizaciones políticas cuyo
+##### Artículo 17. 
+**Libertad de organización.** Es libre la constitución de organizaciones políticas cuyo
 funcionamiento se ajuste a las disposiciones de esta ley.
 
 Es igualmente libre para los ciudadanos, afiliarse a las organizaciones políticas de acuerdo con
@@ -221,22 +212,21 @@ partido y como resultado de la misma se ocasiona la desintegración de aquel, el
 deberá ratificarla personalmente ante el Registro de Ciudadanos, la delegación departamental
 o subdelegación municipal del Tribunal Supremo Electoral, según sea el caso.
 
+## TITULO DOS
+## PARTIDOS POLÍTICOS
 
-TITULO DOS
-PARTIDOS POLÍTICOS
+### CAPITULO UNO
+### Disposiciones generales
 
-
-CAPITULO UNO
-Disposiciones generales
-
-**Artículo 18. Partidos políticos.** Los partidos políticos legalmente constituidos e inscritos en
+##### Artículo 18. 
+**Partidos políticos.** Los partidos políticos legalmente constituidos e inscritos en
 el Registro de Ciudadanos, son instituciones de derecho público, con personalidad jurídica y
 de duración indefinida, salvo los casos establecidos en la presente ley, y configuran el carácter
 democrático del régimen político del Estado.
 
-**Artículo 19. Requisitos para la existencia y funcionamiento de los partidos.** Para que un
+##### Artículo 19. 
+**Requisitos para la existencia y funcionamiento de los partidos.** Para que un
 partido político pueda existir y funcionar legalmente se requiere:
-
 
 a) Que cuente como mínimo con un número de afiliados equivalente al 0.30% del total
 de ciudadanos inscritos en el padrón electoral utilizado en las últimas elecciones
@@ -247,18 +237,16 @@ deben cumplir con el requisito anterior, dentro de un plazo que inicia el día q
 por clausurado el proceso electoral y termina noventa días antes de la convocatoria del
 siguiente proceso de elecciones generales;
 
-
 b) Estar constituido en escritura pública y llenar los demás requisitos que esta ley
 establece;
-
 
 c) Cumplir con los requisitos de inscripción de los integrantes de sus órganos permanentes
 y mantener éstos debidamente constituidos y en funciones; y,
 
-
 d) Obtener y mantener vigente su inscripción en el Registro de Ciudadanos.
 
-**Artículo 19 Bis. Fiscalización.** El Secretario General Nacional, los Secretarios Departamentales
+##### Artículo 19Bis. 
+**Fiscalización.** El Secretario General Nacional, los Secretarios Departamentales
 y Municipales de cada partido político legalmente vigente en su respectiva circunscripción,
 y los comités cívicos electorales, en lo pertinente, quedan sujetos a la fiscalización de la
 Contraloría General de Cuentas y del Tribunal Supremo Electoral, cada quien dentro de su
@@ -267,11 +255,11 @@ financiamiento público o privado establecido en la presente Ley, en la proporci
 quien se le asigne y son personalmente responsables en cuanto al cumplimiento de los fines
 establecidos en esta Ley.
 
+### CAPITULO DOS
+### Derechos Y Obligaciones
 
-CAPITULO DOS
-Derechos Y Obligaciones
-
-**Artículo 20. Derechos de los partidos.** Los partidos políticos gozan de los derechos siguientes:
+##### Artículo 20. 
+**Derechos de los partidos.** Los partidos políticos gozan de los derechos siguientes:
 
 a) Postular candidatos a cargos de elección popular.
 
@@ -289,7 +277,6 @@ anomalía de la cual tengan conocimiento y exigir que se investiguen las actuaci
 vulneren las normas y principios de la legislación electoral y de partidos políticos.
 
 e) Usar franquicia postal y telegráfica en su función fiscalizadora del proceso electoral.
-
 
 Este derecho sólo se podrá ejercer desde el día siguiente a la convocatoria de elecciones
 hasta un mes después de concluido cada evento electoral, y será normado por el
@@ -313,7 +300,8 @@ programa político, propuestas políticas, posiciones políticas, convocatorias 
 otra actividad referida al funcionamiento de las organizaciones políticas, así como su
 difusión en medios de comunicación.
 
-**Artículo 21. Del control y fiscalización del financiamiento de las organizaciones políticas.**
+##### Artículo 21. 
+**Del control y fiscalización del financiamiento de las organizaciones políticas.**
 Corresponde al Tribunal Supremo Electoral el control y fiscalización de los fondos públicos y
 privados que reciban las organizaciones políticas para el financiamiento de sus actividades
 permanentes y de campaña. El reglamento regulará los mecanismos de fiscalización.
@@ -339,8 +327,8 @@ contable pertinente, relacionada con las contribuciones realizadas.
 d) El Tribunal Supremo Electoral deberá estimar las contribuciones en especie que no
 consten en los libros respectivos.
 
-**Artículo 21 Bis. Del financiamiento público para las actividades ordinarias de las
-organizaciones políticas.** El Estado contribuirá al financiamiento de los partidos políticos
+##### Artículo 21Bis. 
+**Del financiamiento público para las actividades ordinarias de las organizaciones políticas.** El Estado contribuirá al financiamiento de los partidos políticos
 a razón del equivalente en Quetzales de dos Dólares (US$2.00) de los Estados Unidos de
 América, por voto legalmente emitido a su favor, siempre que haya obtenido no menos del
 cinco por ciento (5%) del total de sufragios válidos, depositados en las elecciones generales. El
@@ -391,7 +379,8 @@ distribuyó el financiamiento.
 En caso de coalición el financiamiento se distribuirá conforme lo determine el convenio de
 coalición.
 
-**Artículo 21 Ter. Regulaciones sobre el financiamiento.** Además de lo establecido en el artículo
+##### Artículo 21Ter. 
+**Regulaciones sobre el financiamiento.** Además de lo establecido en el artículo
 anterior, el financiamiento de las organizaciones políticas y campañas electorales se rigen en
 toda época por las disposiciones siguientes:
 
@@ -430,7 +419,6 @@ llevar los siguientes libros:
     un financista político, en beneficio de una persona que sea candidato del partido
     político o haya manifestado su intención de serlo;
 2. Libro especial de contribuciones en especie, en el cual se deberán establecer a valor
-
 
 de mercado el valor de todas las contribuciones. Cuando una persona sea inscrita
 como candidato de un partido político, toda contribución en efectivo o en especie
@@ -476,7 +464,6 @@ i) En caso una persona jurídica efectúe actos de propaganda electoral, antes o
 la convocatoria, en favor de una organización política o un candidato, el Tribunal Supremo
 Electoral como tribunal competente y respetando el debido proceso podrá ordenar al
 
-
 registro respectivo la inmediata cancelación de su personalidad jurídica, sin perjuicio de
 las demás responsabilidades en que se haya incurrido.
 
@@ -492,7 +479,8 @@ de la organización respectiva por parte del Registro de Ciudadanos o el Tribuna
 Electoral. La declaratoria de cancelación de la personalidad jurídica de la organización de
 que se trate procederá de oficio y sin haber suspendido previamente a la organización.
 
-**Artículo 21 Quáter. Definíciones.** Para efectos de la interpretación de la presente Ley se
+##### Artículo 21Quáter. 
+**Definíciones.** Para efectos de la interpretación de la presente Ley se
 entenderá:
 
 1. Personas relacionadas: Son dos o más personas individuales o jurídicas independientes
@@ -508,9 +496,8 @@ entenderá:
     relacionadas o vinculadas que otorguen financiamiento a una organización política.
 4. Unidad de vinculación: El conjunto de personas que tengan relaciones de propiedad,
     administración o controles comunes según los criterios antes establecidos.
-
-
-El Tribunal Supremo Electoral establecerá la existencia de unidades de vinculación con base
+    
+    El Tribunal Supremo Electoral establecerá la existencia de unidades de vinculación con base
 en criterios que incluyan razones de propiedad, administración, estrategias de negocios
 conjuntas y otros elementos debidamente fundamentados por la Superintendencia de
 Bancos.
@@ -518,13 +505,13 @@ Bancos.
 5. Financista de organización polltica o financista político: Es toda persona, individual
     o jurídica nacional que realice una contribución, en dinero o en especie, o por medio
     de cualquier contratación que no se realice en condiciones de mercado, a cualquier
-
-
-organización política, asociación con fines políticos o entidad de cualquier tipo, nacional
+    
+    organización política, asociación con fines políticos o entidad de cualquier tipo, nacional
 o extranjera, que realice actividades que beneficien un partido político, un candidato o
 persona con interés en postularse para un cargo de elección popular.
 
-**Artículo 21 Quinquies. Publicidad del financiamiento.** Los partidos políticos y comités cívicos
+##### Artículo 21Quinquies. 
+**Publicidad del financiamiento.** Los partidos políticos y comités cívicos
 electorales deberán publicar, por cualquier medio electrónico a su alcance, treinta días antes
 de la fecha fijada para la realización de las elecciones:
 
@@ -541,7 +528,8 @@ realización de las elecciones en las que participa.
 El informe deberá ser presentado al Tribunal Supremo Electoral y éste lo pondrá a disposición
 de la ciudadanía en su página electrónica.
 
-**Artículo 22. Obligaciones de los partidos políticos.** Los partidos políticos tienen las
+##### Artículo 22. 
+**Obligaciones de los partidos políticos.** Los partidos políticos tienen las
 obligaciones siguientes:
 
 a) Entregar al Registro de Ciudadanos copia certificada de todas las actas de sus asambleas,
@@ -594,17 +582,18 @@ Público y Auditor, colegiado activo. La autoridad electoral, cuando considere p
 podrá ordenar la realización de auditorías a los partidos políticos, para determinar el
 cumplimiento de la presente Ley.
 
-**Artículo 23. Hojas de afiliación.** Las hojas de afiliación serán individuales o colectivas. En
+##### Artículo 23. 
+**Hojas de afiliación.** Las hojas de afiliación serán individuales o colectivas. En
 este último caso no podrán incluir más de diez afiliados. Presentadas al Registro, las mismas
 deberán ser depuradas dentro de un plazo de quince días. Si por cualquier circunstancia uno
 o más de los afiliados en la hoja colectiva no pudiere ser inscrito como tal, esto no afectará
 los derechos de afiliación de los restantes. El reglamento normará lo relativo a esta materia.
 
+### CAPITULO TRES
+### Órganos de los Partidos Políticos
 
-CAPITULO TRES
-Órganos de los Partidos Políticos
-
-**Artículo 24. Estructura organizativa.** Todo partido político debe contar por lo menos con los
+##### Artículo 24. 
+**Estructura organizativa.** Todo partido político debe contar por lo menos con los
 órganos siguientes:
 
 a) Órganos nacionales:
@@ -630,7 +619,8 @@ fiscalización.
 Los órganos establecidos en el literal a), numerales 2, 3 y 4, deberán ser electos en Asamblea
 Nacional.
 
-**Artículo 24 Bis. Rendición de cuentas.** Cada secretario de los comités ejecutivos nacionales,
+##### Artículo 24Bis. 
+**Rendición de cuentas.** Cada secretario de los comités ejecutivos nacionales,
 departamentales y municipales, será responsable solidariamente con cada secretario de
 finanzas, de la declaración jurada sobre las fuentes de ingreso y del manejo del financiamiento
 público y privado que reciba la organización política, en su jurisdicción.
@@ -645,7 +635,8 @@ Toda declaración jurada y cuentas bancarias, relacionadas con el partido polít
 contar con las firmas mancomunadas, conforme lo establecido en el primer párrafo del
 presente artículo.
 
-**Artículo 25. Asamblea Nacional y su integración.** La Asamblea Nacional es el órgano de
+##### Artículo 25. 
+**Asamblea Nacional y su integración.** La Asamblea Nacional es el órgano de
 mayor jerarquía del partido y se integra por dos delegados con voz y voto de cada uno de
 los municipios del país en donde la entidad tenga organización partidaria vigente, los cuales
 serán electos por la Asamblea Municipal respectiva para cada Asamblea Nacional que se
@@ -658,7 +649,8 @@ Secretario en la Asamblea Municipal respectiva.
 Salvo lo dispuesto en el artículo 76, la Asamblea deberá reunirse obligatoriamente cada dos
 años, previa convocatoria.
 
-**Artículo 26. Atribuciones de la Asamblea Nacional.** Son atribuciones de la Asamblea Nacional:
+##### Artículo 26. 
+**Atribuciones de la Asamblea Nacional.** Son atribuciones de la Asamblea Nacional:
 
 a) Conocer del informe que le presente el Comité Ejecutivo Nacional en cada una de sus
 reuniones y aprobarlo o improbarlo.
@@ -693,12 +685,12 @@ asamblea; y,
 j) Resolver sobre cualesquiera otros asuntos y cuestiones que sean sometidos a su
 conocimiento.
 
-**Artículo 27. Regulación de las asambleas.** La constitución y funcionamiento de las
+##### Artículo 27. 
+**Regulación de las asambleas.** La constitución y funcionamiento de las
 asambleas nacionales se rigen por las nombras siguientes:
 
 a) **Convocatoria.** La convocatoria a reunión de la Asamblea Nacional la hará el Comité
 Ejecutivo Nacional, por resolución tomada por dicho órgano por propia iniciativa o a
-
 
 solicitud de por lo menos la mitad más uno de los comités ejecutivos departamentales
 en los cuales el partido tenga organización partidaria vigente. La convocatoria se hará por
@@ -739,11 +731,10 @@ del Comité Ejecutivo Nacional, o quien elija en su defecto la Asamblea Nacional
 enviar al Registro de Ciudadanos, dentro de los quince días hábiles siguientes a la fecha de
 celebración de cada asamblea nacional, una copia certificada del acta correspondiente.
 El acta de la Asamblea Nacional, a falta del libro de actas autorizado por el Registro de
-Ciudadanos **,** podrá autorizarse por Notario. En este caso, a la Asamblea deberá asistir un
+Ciudadanos, podrá autorizarse por Notario. En este caso, a la Asamblea deberá asistir un
 delegado del Registro de Ciudadanos, quien suscribirá el acta y a quien deberá entregarse
-copia de la misma**.** El acta notarial deberá transcribirse en el libro de actas, tan pronto
+copia de la misma. El acta notarial deberá transcribirse en el libro de actas, tan pronto
 sea repuesto.
-
 
 Para que tenga plena validez, la Asamblea deberá celebrarse en el mismo lugar y fecha
 consignados en la convocatoria;
@@ -763,14 +754,16 @@ partido para que haga la convocatoria correspondiente y se celebre dentro del pl
 noventa días, bajo apercibimiento de aplicar las sanciones que procedan de conformidad
 con la ley.
 
-**Artículo 28. Elección del Comité Ejecutivo Nacional.** La elección del Secretario General
+##### Artículo 28. 
+**Elección del Comité Ejecutivo Nacional.** La elección del Secretario General
 Nacional y demás integrantes del Comité Ejecutivo Nacional, se hará por planillas encabezadas
 por los candidatos a Secretario General y Secretarios Generales Adjuntos, en la que se incluirán
 no menos de tres suplentes. Se aplicará obligatoriamente el sistema de representación
 proporcional de minorías establecido en el artículo 203 de esta Ley, después de adjudicar los
 cargos de Secretario General y Secretarios Generales Adjuntos a la planilla ganadora.
 
-**Artículo 29. Atribuciones del Comité Ejecutivo Nacional.** Además de las funciones que se
+##### Artículo 29. 
+**Atribuciones del Comité Ejecutivo Nacional.** Además de las funciones que se
 detallan en esta ley, corresponde al Comité Ejecutivo Nacional:
 
 a) Supervisar el funcionamiento de los Comités Ejecutivos Departamentales y Municipales,
@@ -790,7 +783,6 @@ donde el partido no tenga organización vigente.
 
 e) Designar a los fiscales y demás representantes o delegados del partido ante el Tribunal
 
-
 Supremo Electoral.
 
 f) Designar la Comisión Calificadora de Credenciales de los delegados municipales ante la
@@ -803,13 +795,13 @@ h) Nombrar y remover a los funcionarios y demás personal administrativo del par
 
 i) Las demás atribuciones que le señalen los estatutos del partido.
 
-**Artículo 30. Sesiones del Comité Ejecutivo Nacional.** Las sesiones del Comité Ejecutivo Nacional
+##### Artículo 30. 
+**Sesiones del Comité Ejecutivo Nacional.** Las sesiones del Comité Ejecutivo Nacional
 se regirán por las normas siguientes:
 
 a) Convocatoria. Si el comité hubiere señalado mediante resolución conocida por todos sus
 integrantes, fecha, hora y lugar para celebrar sus reuniones ordinarias, no será necesaria
 convocatoria para ello.
-
 
 A falta de resolución y para la celebración de reuniones extraordinarias, será necesaria
 convocatoria escrita del Secretario General o de tres miembros del comité, que deberá
@@ -836,7 +828,8 @@ f) Suplentes. En caso de falta absoluta o temporal de alguno de los miembros del
 Nacional, a excepción del Secretario General, se llamará al suplente que corresponda en su
 orden de elección.
 
-**Artículo 31. Miembros del Comité Ejecutivo Nacional.** El Comité Ejecutivo Nacional es el órgano
+##### Artículo 31. 
+**Miembros del Comité Ejecutivo Nacional.** El Comité Ejecutivo Nacional es el órgano
 permanente de dirección del partido; tiene la responsabilidad de ejecutar las resoluciones
 tomadas por la Asamblea Nacional y la dirección en toda la República de las actividades del
 partido. Se deberá integrar con un mlnimo de quince miembros y un máximo de veintiún titulares
@@ -852,7 +845,8 @@ Los estatutos del partido podrán prever que los miembros del Comité Ejecutivo 
 otros cargos o que se distribuyan entre ellos diferentes funciones específicas de dirección de las
 actividades del partido.
 
-**Artículo 32. Secretaría General.** El Secretario General tiene la representación legal del partido
+##### Artículo 32. 
+**Secretaría General.** El Secretario General tiene la representación legal del partido
 desempeñando su cargo por tres años, salvo que en la Asamblea Nacional se le elija por un período
 menor; podrá ser reelecto por un periodo más; y podrá optar de nuevo al cargo siempre que
 transcurra un período de por medio. En todo caso, su responsabilidad se extenderá hasta la fecha
@@ -869,7 +863,8 @@ El Secretario General está obligado a acatar las disposiciones y acuerdos del C
 negare, cualquier miembro del mismo podrá hacerlos valer ante las autoridades, con certificación
 del acta de la sesión en que se tomó la disposición o acuerdo.
 
-**Artículo 33. Atribuciones y obligaciones del Secretario General.** Además de las que le señale esta
+##### Artículo 33. 
+**Atribuciones y obligaciones del Secretario General.** Además de las que le señale esta
 ley y los estatutos, el Secretario General tiene las siguientes atribuciones:
 
 a) Presidir las sesiones del Comité Ejecutivo Nacional.
@@ -890,7 +885,6 @@ miembro exoficio de ellos.
 
 f) Designar a los fiscales del partido ante las juntas electorales departamentales.
 
-
 Los estatutos podrán autorizar al Secretario General a delegar por escrito la representación
 legal del partido en otros miembros del Comité Ejecutivo Nacional para asuntos
 específicos; y,
@@ -898,14 +892,16 @@ específicos; y,
 g) Notificar al Registro de Ciudadanos, por medio del Departamento de Organizaciones
 Políticas, el cambio de dirección de sus oficinas centrales.
 
-**Artículo 34. Ausencia del Secretario General.** En caso de falta temporal o definitiva del
+##### Artículo 34. 
+**Ausencia del Secretario General.** En caso de falta temporal o definitiva del
 Secretario General, sus funciones y atribuciones serán asumidas por los Secretarios Generales
 Adjuntos en su orden, y en su defecto, por quienes designe el Comité Ejecutivo Nacional.
 
 Para ejercitar la representación legal del partido es necesario que previamente se inscriba el
 representante en el Departamento de Organizaciones Políticas del Registro de Ciudadanos.
 
-**Artículo 35. Integración de la Asamblea Departamental.** La Asamblea Departamental se
+##### Artículo 35. 
+**Integración de la Asamblea Departamental.** La Asamblea Departamental se
 integra con hasta dos delegados, con voz y voto, por cada municipio del departamento donde
 el partido tenga organización partidaria vigente, quienes serán electos por la Asamblea
 Municipal para cada Asamblea Departamental que previa convocatoria se reúna. La Asamblea
@@ -915,7 +911,8 @@ de conformidad con sus estatutos. La organización municipal que perdiera su vig
 cumplir con los requisitos que establece la ley no será tomada en consideración para el cálculo
 del quórum en la Asamblea Nacional y Departamental para la que se hubiere convocado.
 
-**Artículo 36. Atribuciones de la Asamblea Departamental.** Son atribuciones de la Asamblea
+##### Artículo 36. 
+**Atribuciones de la Asamblea Departamental.** Son atribuciones de la Asamblea
 Departamental:
 
 a) Adoptar las medidas que sean necesarias para ejecutar, en el departamento, las
@@ -933,7 +930,8 @@ e) Coordinar las actividades de los órganos partidarios que funcionen en el dep
 
 f) Las demás que le señale esta ley y los estatutos.
 
-**Artículo 37. Regulación de las Asambleas Departamentales.** La constitución y el
+##### Artículo 37. 
+**Regulación de las Asambleas Departamentales.** La constitución y el
 funcionamiento de las Asambleas Departamentales se rigen por las siguientes normas:
 
 a) Convocatoria. La convocatoria a Asamblea Departamental la hará el Comité Ejecutivo
@@ -963,7 +961,8 @@ e) Supletoriedad. En todo lo que no haya sido expresamente normado en los inciso
 anteriores, se aplicarán supletoriamente a las Asambleas Departamentales, las
 disposiciones que contiene el artículo 27 de esta ley.
 
-**Artículo 38. Comité Ejecutivo Departamental.** El Comité Ejecutivo Departamental es un
+##### Artículo 38. 
+**Comité Ejecutivo Departamental.** El Comité Ejecutivo Departamental es un
 órgano permanente de cada partido; tiene a su cargo la dirección de las actividades del mismo
 y la ejecución de las resoluciones tomadas por la Asamblea Nacional, por el Comité Ejecutivo
 Nacional o por la Asamblea Departamental. Se integra con un mínimo de nueve y un máximo
@@ -975,54 +974,51 @@ Departamental durará en sus funciones dos años.
 Para la elección de los integrantes del Comité Ejecutivo Departamental, se aplicarán las normas
 del artículo 28 de esta ley.
 
-**Artículo 39. Atribuciones del Comité Ejecutivo Departamental.** Corresponde al Comité
+##### Artículo 39. 
+**Atribuciones del Comité Ejecutivo Departamental.** Corresponde al Comité
 Ejecutivo Departamental:
-
 
 a) Supervisar el funcionamiento de los comités ejecutivos municipales y velar porque
 desarrollen sus labores de acuerdo con los lineamientos del partido;
 
-
 b) Organizar y dirigir en el departamento las actividades del partido;
-
 
 c) Convocar a asambleas departamentales y municipales, preparar el proyecto de agenda
 de las reuniones y supervisar el desarrollo de éstas;
 
-
 d) Calificar las credenciales de los delegados municipales ante la Asamblea Departamental;
-
 
 e) Organizar las comisiones que sean necesarias para el mejor funcionamiento de la
 respectiva organización partidaria y el desarrollo de los principios y fines del partido, en
 el departamento y designar a sus integrantes;
 
-
 f) Mantener informado de sus actividades al Comité Ejecutivo Nacional;
-
 
 g) Velar por el crecimiento y fortalecimiento de la organización partidaria en todos los
 municipios de su departamento;
 
-
 h) Las demás funciones que se detallan en esta ley y en los estatutos.
 
-**Artículo 40. Sesiones del Comité Ejecutivo Departamental.** Las sesiones del Comité Ejecutivo
+##### Artículo 40. 
+**Sesiones del Comité Ejecutivo Departamental.** Las sesiones del Comité Ejecutivo
 Departamental se regirán por las disposiciones de esta ley, relativas al Comité Ejecutivo
 Nacional.
 
-**Artículo 41. Elección del Comité Ejecutivo Departamental.** Para la elección del Secretario
+##### Artículo 41. 
+**Elección del Comité Ejecutivo Departamental.** Para la elección del Secretario
 General y demás integrantes del Comité Ejecutivo Departamental, se deberá proceder
 conforme a lo establecido en el artículo 28 de esta ley. En todo caso, habrá un Secretario
 General departamental, un Secretario General Departamental Adjunto y un Secretario de
 Actas Departamental.
 
-**Artículo 42. Funciones del Comité Ejecutivo Departamental.** Los miembros del Comité
+##### Artículo 42. 
+**Funciones del Comité Ejecutivo Departamental.** Los miembros del Comité
 Ejecutivo Departamental desempeñarán funciones específicas, de acuerdo con los estatutos y
 
 las resoluciones de la Asamblea Nacional.
 
-**Artículo 43. Secretario General Departamental.** El Secretario General Departamental tiene
+##### Artículo 43. 
+**Secretario General Departamental.** El Secretario General Departamental tiene
 la representación del partido en su circunscripción, para la ejecución de las resoluciones
 de los órganos partidarios nacionales o departamentales. Desempeñará su cargo por tres
 años; podrá ser reelecto por un período más; y podrá optar de nuevo al cargo siempre que
@@ -1034,17 +1030,20 @@ Comité Ejecutivo Departamental, y si se negare, cualquier miembro del mismo pod
 valer ante las autoridades con certificación del acta de la sesión en que se tomó la disposición,
 resolución o acuerdo.
 
-**Artículo 44. Atribuciones del Secretario General Departamental.** El Secretario General
+##### Artículo 44. 
+**Atribuciones del Secretario General Departamental.** El Secretario General
 Departamental tendrá las atribuciones que señalan los incisos a), c), d) y e) del artículo 33
 de ésta ley en su circunscripción y la designación de los fiscales del partido ante las juntas
 electorales municipales y juntas receptoras de votos.
 
-**Artículo 45. Regulación de Asambleas y Comités Ejecutivos Departamentales.** En lo que no
+##### Artículo 45. 
+**Regulación de Asambleas y Comités Ejecutivos Departamentales.** En lo que no
 haya sido expresamente regulado, serán aplicables a las Asambleas Departamentales y a los
 Comités Ejecutivos Departamentales, las normas que rigen a la Asamblea Nacional y al Comité
 Ejecutivo Nacional.
 
-**Artículo 46. Asamblea Municipal y su integración.** La Asamblea Municipal se integra por
+##### Artículo 46. 
+**Asamblea Municipal y su integración.** La Asamblea Municipal se integra por
 todos los afiliados del partido que consten en las hojas de afiliación depuradas por el Registro
 de Ciudadanos y sean vecinos del municipio respectivo. La Asamblea Municipal debe reunirse
 obligatoriamente cada año, y facultativamente, cuando sea convocada de conformidad con
@@ -1053,7 +1052,8 @@ los estatutos.
 Para la elección del Comité Ejecutivo Municipal, es aplicable supletoriamente lo establecido
 en el artículo 28 de esta ley.
 
-**Artículo 47. Atribuciones de la Asamblea Municipal.** Son atribuciones de la Asamblea
+##### Artículo 47. 
+**Atribuciones de la Asamblea Municipal.** Son atribuciones de la Asamblea
 Municipal:
 
 a) Adoptar las medidas que sean necesarias para ejecutar en el municipio, las resoluciones
@@ -1073,7 +1073,8 @@ Departamental para las que fuere convocada; y,
 
 f) Las demás que le señale esta ley y los estatutos.
 
-**Artículo 48. Regulación de las Asambleas Municipales.** La constitución y el funcionamiento
+##### Artículo 48. 
+**Regulación de las Asambleas Municipales.** La constitución y el funcionamiento
 de las Asambleas Municipales se rigen por las normas siguientes:
 
 a) **Convocatoria.** La convocatoria a Asamblea Municipal la hará el Comité Ejecutivo Municipal,
@@ -1103,7 +1104,8 @@ e) **Supletoriedad.** En todo lo que no haya sido expresamente normado por incis
 se aplicarán supletoriamente a las Asambleas Municipales las normas que contienen el
 artículo 37 de esta ley.
 
-**Artículo 49. Organización Partidaria.** Para que exista organización partidaria vigente se
+##### Artículo 49. 
+**Organización Partidaria.** Para que exista organización partidaria vigente se
 requiere como mínimo:
 
 a) **En el Municipio.** Que el partido cuente como mínimo con cuarenta afiliados vecinos de ese
@@ -1120,7 +1122,8 @@ en Asamblea Nacional al Comité Ejecutivo Nacional.
 Los partidos están en la obligación de comunicar al Registro de Ciudadanos, la integración de
 sus órganos permanentes.
 
-**Artículo 50. Integración y funciones del Comité Ejecutivo Municipal.** El Comité Ejecutivo
+##### Artículo 50. 
+**Integración y funciones del Comité Ejecutivo Municipal.** El Comité Ejecutivo
 Municipal es un órgano permanente de cada partido; tiene a su cargo la dirección de las
 actividades del mismo y la ejecución de las resoluciones tomadas por la Asamblea Nacional,
 por el Comité Ejecutivo Nacional, por la Asamblea Departamental, por el Comité Ejecutivo
@@ -1144,11 +1147,11 @@ período más; y podrá optar de nuevo al cargo siempre que transcurra un perío
 medio. En todo caso, su responsabilidad se extenderá hasta la fecha en que hagan formal
 entrega de su cargo a las personas que conforme la ley deben sustituirlos.
 
+### CAPITULO CUATRO
+### Comités para la Constitución de un Partido Político
 
-CAPITULO CUATRO
-Comités para la Constitución de un Partido Político
-
-**Artículo 51. Formación de comités.** Cualquier grupo que reúna a más del dos por ciento (2%)
+##### Artículo 51. 
+**Formación de comités.** Cualquier grupo que reúna a más del dos por ciento (2%)
 del número mínimo de ciudadanos que se requiere para la constitución de un partido político,
 
 que sepan leer y escribir, podrá organizarse como comité para la constitución de un partido
@@ -1162,7 +1165,8 @@ para el otorgamiento de la escritura constitutiva del comité, escritura que deb
 dentro de los tres meses siguientes a la fecha en que fue inscrita la Junta Directiva provisional;
 en caso contrario se procederá a la cancelación del trámite y archivo del expediente.
 
-**Artículo 52. Formalización de los Comités.** La constitución de un comité para la organización
+##### Artículo 52. 
+**Formalización de los Comités.** La constitución de un comité para la organización
 de un partido político, se formalizará en escritura pública, la que deberá contener los siguientes
 requisitos:
 
@@ -1175,19 +1179,15 @@ b) El nombre, emblema o símbolo que identificará al partido por constituirse.
 c) La declaración de principios que regirán al partido político por formarse y que contendrá
 como mínimo:
 
-
 1) La obligación de observar y respetar las leyes de la República.
-
 
 2) La filosofía que constituye el fundamento ideológico en el que desarrollará el
 programa económico, político, social, cultural, étnico y de género que ofrecerá a la
 ciudadanía.
 
-
 3) El juramento de desarrollar sus actividades por medios pacíficos, por la vía
 democrática y respetando los derechos de las demás organizaciones políticas dentro
 de un espíritu pluralista.
-
 
 4) El juramento de respeto a toda expresión democrática y particularmente a las que
 se produzcan internamente para la integración de sus órganos y la selección libre y
@@ -1207,23 +1207,27 @@ comité.
 
 h) El señalamiento de su sede provisional.
 
-**Artículo 53. Supletoriedad.** Serán aplicables a las juntas directivas de los comités, para la
+##### Artículo 53. 
+**Supletoriedad.** Serán aplicables a las juntas directivas de los comités, para la
 constitución de partidos políticos las disposiciones de esta ley que regulan al Secretario
 General y Comité Ejecutivo Nacional de los partidos políticos.
 
-**Artículo 54. Solicitud de inscripción.** La inscripción de un comité para la constitución de un
+##### Artículo 54. 
+**Solicitud de inscripción.** La inscripción de un comité para la constitución de un
 partido político deberá solicitarse por escrito al Registro de Ciudadanos, dentro del plazo de
 treinta días siguientes a la fecha de su escritura constitutiva, acompañando testimonio de
 ésta.
 
 En caso de no presentarse el testimonio referido, se tendrá por concluido el trámite.
 
-**Artículo 55. Resolución del Director del Registro de Ciudadanos.** Si la escritura reúne todos
+##### Artículo 55. 
+**Resolución del Director del Registro de Ciudadanos.** Si la escritura reúne todos
 los requisitos legales y la solicitud fue presentada en tiempo, el Director del Registro de
 Ciudadanos, dentro del término de ocho días, la resolverá favorablemente y ordenará la
 inscripción del comité.
 
-**Artículo 56. Denegatoria. Recursos**. Si con el dictamen del Departamento de Organizaciones
+##### Artículo 56. 
+**Denegatoria. Recursos**. Si con el dictamen del Departamento de Organizaciones
 Políticas, el Director del Registro de Ciudadanos determinara que la escritura constitutiva del
 comité no se ajusta a las normas legales, deberá emitir dentro del mismo plazo estipulado en
 el Artículo anterior, resolución razonada denegando la inscripción y señalando con precisión,
@@ -1244,11 +1248,13 @@ presentación del testimonio de la escritura de modificación, aclaración o amp
 se hubiere recibido este último, el Director del Registro de Ciudadanos mandará a archivar el
 expediente.
 
-**Artículo 57. Personalidad jurídica.** La inscripción de un comité para la constitución de un
+##### Artículo 57. 
+**Personalidad jurídica.** La inscripción de un comité para la constitución de un
 partido político, le otorga personalidad jurídica, con el exclusivo propósito de llegar a ese fin.
 El comité no podrá identificarse como partido político, ni tendrá los derechos de éste.
 
-**Artículo 58. Vigencia de la inscripción.** La inscripción de un comité para la constitución de un
+##### Artículo 58. 
+**Vigencia de la inscripción.** La inscripción de un comité para la constitución de un
 partido político tendrá vigencia por dos años improrrogables y quedará sin efecto:
 
 a) Por el transcurso de dicho plazo, salvo que ya se hubiere otorgado la escritura constitutiva
@@ -1262,7 +1268,8 @@ los egresos sino también los ingresos de nuevos miembros al grupo promotor; o,
 
 d) Al quedar inscrito en forma definitiva como partido político.
 
-**Artículo 59. Hojas de adhesión.** Todo comité para la constitución de un partido político, una
+##### Artículo 59. 
+**Hojas de adhesión.** Todo comité para la constitución de un partido político, una
 vez inscrito en el Registro de Ciudadanos, tendrá derecho a que éste le proporcione, a su
 requerimiento, suficientes hojas de adhesión debidamente numeradas y autorizadas.
 
@@ -1283,7 +1290,8 @@ misma, la cual deberá contar con su firma legalizada por Notario.
 
 Para estos casos, se exime del pago por concepto de timbres fiscales y notariales.
 
-**Artículo 60. Entrega de las hojas de adhesión. Anomalías.** El comité para la constitución de
+##### Artículo 60. 
+**Entrega de las hojas de adhesión. Anomalías.** El comité para la constitución de
 un partido político podrá entregar al Registro de Ciudadanos hojas de adhesión debidamente
 llenas y legalizadas de acuerdo con el artículo anterior conforme las obtenga, aun cuando sólo
 representen una parte del número mínimo de afiliados requeridos. Al recibir cada hoja de
@@ -1300,12 +1308,14 @@ Inspector General y del Tribunal Supremo Electoral para que se tomen las accione
 contra quienes resultaren responsables, o se ordene la ampliación, aclaración o rectificación
 de los datos anómalos.
 
-**Artículo 61. Modificación de la escritura constitutiva.** La escritura constitutiva de un comité
+##### Artículo 61. 
+**Modificación de la escritura constitutiva.** La escritura constitutiva de un comité
 proformación de un partido político, puede ser modificada en cualquier momento, antes de
 la formalización del instrumento notarial por medio del cual ha de constituirse el partido,
 llenando las formalidades señaladas por el artículo 52 de esta ley.
 
-**Artículo 62. Documentación final.** Una vez depuradas por el Registro las hojas de adhesión
+##### Artículo 62. 
+**Documentación final.** Una vez depuradas por el Registro las hojas de adhesión
 que un comité le haya presentado de acuerdo con el artículo 60 de esta ley y siempre que el
 total de adherentes que sepan leer y escribir llegue al número requerido por el inciso a) del
 artículo 19 de esta ley para la constitución de un partido político, el Registro de Ciudadanos
@@ -1314,11 +1324,11 @@ señala el artículo 58 de la presente ley, le presente la documentación necesa
 la inscripción del partido político. Dicha resolución se notificará al representante legal del
 comité.
 
+### CAPITULO CINCO
+### Inscripción de los partidos políticos
 
-CAPITULO CINCO
-Inscripción de los partidos políticos
-
-**Artículo 63. Escritura de constitución.** Después de haber cumplido los trámites y requisitos
+##### Artículo 63. 
+**Escritura de constitución.** Después de haber cumplido los trámites y requisitos
 que se señalan en el Capítulo Cuatro, del libro Dos de esta ley, se podrá proceder a la
 constitución del partido político, por medio de escritura pública que deberá contener los
 requisitos siguientes:
@@ -1351,11 +1361,13 @@ h) Designación del lugar donde tendrá su sede el partido; e,
 i) Procedimiento de liquidación así como mención expresa del destino de los bienes del
 partido en caso de disolución y liquidación.
 
-**Artículo 64. Modificación de la escritura de constitución.** La escritura de constitución de
+##### Artículo 64. 
+**Modificación de la escritura de constitución.** La escritura de constitución de
 un partido puede ser modificada, antes de que quede inscrito, con la comparecencia de la
 mayoría de los miembros del Comité Ejecutivo Nacional Provisional.
 
-**Artículo 65. Estatutos.** Los estatutos del partido deben contener, por lo menos:
+##### Artículo 65. 
+**Estatutos.** Los estatutos del partido deben contener, por lo menos:
 
 a) Nombre y descripción del emblema o símbolo distintivo del partido y principios ideológicos
 que lo rigen.
@@ -1381,7 +1393,6 @@ las Asambleas Municipales.
 i) La filosofía que constituye el fundamento ideológico contenido en el numeral 2) de la
 literal c) del artículo 52 de esta Ley;
 
-
 j) La admisión del pluralismo ideológico y político, en el sistema de partidos políticos;
 k) Regulación precisa de la democracia interna en los partidos;
 l) Aceptación de las decisiones de la mayoría y opiniones de la minoría;
@@ -1391,29 +1402,24 @@ n) La admisión de corrientes políticas al interior de los partidos; y,
 Estrictas sanciones a las conductas de los afiliados que sean contrarias a las declaraciones
 de los derechos humanos y convenios y tratados internacionales de esa materia ratificados
 por el Estado de Guatemala.
-Artículo 66. Nombres y emblemas. Prohibiciones. El nombre y el emblema o símbolo del
+
+##### Artículo 66. 
+**Nombres y emblemas.** Prohibiciones. El nombre y el emblema o símbolo del
 partido deben ser distintos de los que corresponden y usan los demás partidos políticos
 inscritos o en proceso de constitución.
-
 
 La inscripción de un comité para la constitución de un partido político, le da derecho de
 prelación al nombre, emblema o símbolo adoptados por dicho comité.
 
-
 Queda prohibido el uso del ave símbolo (el Quetzal ), la bandera y el escudo nacionales.
 
-
-Artículo 67. Solicitud de Inscripción. La inscripción del partido político debe solicitarse al
+##### Artículo 67. 
+**Solicitud de Inscripción.** La inscripción del partido político debe solicitarse al
 Registro de Ciudadanos, por escrito, antes del vencimiento del plazo señalado en el artículo
 58 de esta ley. A dicha solicitud deben acompañarse:
 
-
 a) Testimonio de la escritura constitutiva con duplicado.
-
-
 b) Nómina de los integrantes del Comité Ejecutivo Nacional provisional.
-
-
 c) Copia de las resoluciones en las que se ordene la inscripción de las primeras Asambleas
 Departamentales y Municipales, de los Comités Ejecutivos electos en las mismas, y de los
 delegados electos para la primera Asamblea Nacional. La organización partidaria mínima
@@ -1423,24 +1429,23 @@ Departamentales y Municipales electos en las Asambleas a que se refiere este inc
 al estar inscrito el partido político adquieren el carácter de permanentes para todo el
 período que fije la ley.
 
-
-Artículo 68. Examen de la solicitud. Recibida la solicitud, se emitirá resolución dentro del
+##### Artículo 68. 
+**Examen de la solicitud.** Recibida la solicitud, se emitirá resolución dentro del
 plazo de ocho días, ordenando su publicación, si llena los requisitos legales.
-
 
 En caso contrario, dentro del mismo plazo, se resolverá en forma razonada, detallando los
 defectos, tanto de la solicitud como de la documentación. Esta resolución será apelable.
 
-ñ)
-
-**Artículo 69. Publicaciones.** Para los efectos de la publicación ordenada en el artículo anterior,
+##### Artículo 69. 
+**Publicaciones.** Para los efectos de la publicación ordenada en el artículo anterior,
 el Director del Registro de Ciudadanos emitirá un edicto que contendrá un resumen de la
 escritura constitutiva del partido y la nómina de integrantes de los órganos permanentes del
 mismo, todos con el número de su documento de identificación personal.
 
 La publicación se hará en el Diario Oficial, de oficio y en forma gratuita.
 
-**Artículo 70. Oposición a la inscripción.** Un partido político inscrito o comité para la
+##### Artículo 70. 
+**Oposición a la inscripción.** Un partido político inscrito o comité para la
 constitución de un partido político, puede presentar oposición a la inscripción de un partido si
 se considera afectado directamente en los derechos que le confiere esta ley o la Constitución
 Política de la República. La oposición deberá plantearse, por escrito, dentro del plazo de ocho
@@ -1454,7 +1459,8 @@ acompañadas deben presentarse en duplicado. De las oposiciones presentadas, el 
 dará audiencia por el plazo de quince días al representante legal del partido político cuya
 inscripción se impugna.
 
-**Artículo 71. Contestación a la oposición.** Al contestar una oposición que se plantee contra su
+##### Artículo 71. 
+**Contestación a la oposición.** Al contestar una oposición que se plantee contra su
 inscripción, el partido deberá acompañar las pruebas documentales que tenga en su poder y
 exponer los fundamentos jurídicos que estime procedentes.
 
@@ -1462,7 +1468,8 @@ Además, en caso de que la oposición fuere por defectos o vicios en la document
 presentada, el partido podrá acompañar a su contestación la documentación que modifique,
 amplíe, aclare o corrija los defectos o vicios señalados.
 
-**Artículo 72. Resolución final.** Vencido el plazo de la audiencia, con su contestación o sin ella,
+##### Artículo 72. 
+**Resolución final.** Vencido el plazo de la audiencia, con su contestación o sin ella,
 el Director del Registro de Ciudadanos dictará la resolución respectiva dentro de un plazo de
 ocho días. Esta resolución es apelable.
 
@@ -1472,19 +1479,23 @@ sesenta días al partido impugnado, para que subsane o enmiende los errores señ
 Si la oposición se declara improcedente, el Director continuará el trámite, debiendo extender
 las certificaciones del caso a costa del interesado.
 
-**Artículo 73. Recurso.** Contra la resolución final que establece el artículo anterior, procede
+##### Artículo 73. 
+**Recurso.** Contra la resolución final que establece el artículo anterior, procede
 el recurso de apelación, del que conocerá el Tribunal Supremo Electoral conforme el artículo
 190 de esta ley.
 
-**Artículo 74. Inscripción.** Firme la resolución final que declare procedente la inscripción de un
+##### Artículo 74. 
+**Inscripción.** Firme la resolución final que declare procedente la inscripción de un
 partido político, el expediente será enviado al Departamento de Organizaciones Políticas para
 que le dé debido cumplimiento.
 
-**Artículo 75. Publicidad.** Hechas las inscripciones por el Departamento de Organizaciones
+##### Artículo 75. 
+**Publicidad.** Hechas las inscripciones por el Departamento de Organizaciones
 Políticas, el Registro hará publicar, de oficio en el Diario Oficial que lo hará gratuitamente, un
 aviso de que dicho partido político ha quedado inscrito.
 
-**Artículo 76. Primera Asamblea del partido.** El Comité Ejecutivo Nacional provisional convocará
+##### Artículo 76. 
+**Primera Asamblea del partido.** El Comité Ejecutivo Nacional provisional convocará
 la primera Asamblea Nacional dentro de los tres meses siguientes a la fecha de la inscripción
 del partido. Dicha Asamblea habrá de celebrarse dentro de los dos meses siguientes a la
 convocatoria. La Asamblea deberá:
@@ -1505,26 +1516,26 @@ Registro copia certificada del acta antes del vencimiento del plazo máximo menc
 en el artículo 92 y sin perjuicio de las demás sanciones a que haya lugar.
 
 ### CAPITULO SEIS
+### Fusión
 
-
-Fusión
-
-**Artículo 77. Derecho de fusionarse.** Dos o más partidos políticos pueden fusionarse, con el
+##### Artículo 77. 
+**Derecho de fusionarse.** Dos o más partidos políticos pueden fusionarse, con el
 propósito que uno de ellos absorba a los demás o para que, por la fusión, se constituya uno
 nuevo.
 
-**Artículo 78. Aprobación de la fusión.** La fusión debe ser aprobada previamente por las
+##### Artículo 78. 
+**Aprobación de la fusión.** La fusión debe ser aprobada previamente por las
 asambleas nacionales de cada uno de los partidos políticos participantes, con el voto
 favorable de más del sesenta por ciento de los delegados inscritos y acreditados en cada
 asamblea nacional. En las mismas asambleas y con la misma mayoría se deberán aprobar las
 bases de la fusión y designarse a representantes específicos, para otorgar la escritura pública
 correspondiente.
 
-**Artículo 79. Escritura pública de fusión.** La escritura pública de fusión deberá contener, además
+##### Artículo 79. 
+**Escritura pública de fusión.** La escritura pública de fusión deberá contener, además
 de los requisitos establecidos en el Código de Notariado para esta clase de instrumentos, los
 
 siguientes:
-
 
 a) Si es de absorción:
 
@@ -1535,11 +1546,11 @@ a) Si es de absorción:
     de los partidos absorbidos.
 4. Las demás estipulaciones relativas a la fusión.
 
-
 b) Si es para constituir un nuevo partido, todos los requisitos que señalan los artículos 63
 y 65 de esta ley, en relación al nuevo partido político.
 
-**Artículo 80. Trámite de la fusión.** El testimonio de la escritura pública de fusión deberá
+##### Artículo 80. 
+**Trámite de la fusión.** El testimonio de la escritura pública de fusión deberá
 presentarse al Registro de Ciudadanos dentro del término de quince días siguientes a su
 otorgamiento, junto con copias certificadas de las Actas de las Asambleas Nacionales de todos
 los partidos que pretendan fusionarse. Si la documentación presentada se ajusta a las normas
@@ -1568,31 +1579,35 @@ este artículo, se deberá presentar al Registro de Ciudadanos la nómina de int
 Director del Registro de Ciudadanos deberá calificar si la escritura constitutiva se ajusta a la
 ley, y en su caso, proceder de acuerdo con lo establecido en el artículo 68 de la misma.
 
-**Artículo 81. Oposición a la fusión.** Contra la fusión de partidos políticos solamente cabe
+##### Artículo 81. 
+**Oposición a la fusión.** Contra la fusión de partidos políticos solamente cabe
 oposición, por el incumplimiento de las formalidades que señala el artículo 78 de esta ley y;
 en caso de nulidad total o parcial de la escritura pública de fusión.
 
 Las oposiciones se tramitarán y resolverán en la misma forma que señala el capítulo cinco del
 título dos de esta ley.
 
+### CAPITULO SIETE
+### Coaliciones
 
-CAPITULO SIETE
-Coaliciones
-
-**Artículo 82. Derecho a coaligarse.** Los partidos políticos, así como los comités cívicos
+##### Artículo 82. 
+**Derecho a coaligarse.** Los partidos políticos, así como los comités cívicos
 electorales, podrán coaligarse mediante convenio celebrado entre ellos, conforme a la ley. No
 se permitirá la coalición de un partido político y un comité cívico.
 
-**Artículo 83. Clases de coalición.** Se permiten coaliciones nacionales, departamentales
+##### Artículo 83. 
+**Clases de coalición.** Se permiten coaliciones nacionales, departamentales
 o municipales. Las coaliciones requerirán la aprobación de la asamblea respectiva de
 cada partido a coaligarse, según la elección de que se trate. Sin embargo, las coaliciones
 departamentales y municipales quedarán sujetas a ser confirmadas por el Comité Ejecutivo
 Nacional de los partidos respectivos, previamente a surtir efectos.
 
-**Artículo 84. Conservación de la personalidad.** Los partidos políticos que integren una
+##### Artículo 84. 
+**Conservación de la personalidad.** Los partidos políticos que integren una
 coalición conservarán su personalidad jurídica.
 
-**Artículo 85. Convenio de coalición.** El convenio de coalición debe formalizarse por escrito y
+##### Artículo 85. 
+**Convenio de coalición.** El convenio de coalición debe formalizarse por escrito y
 presentarse al Registro de Ciudadanos o a cualquiera de sus delegaciones, para su inscripción,
 dentro del plazo de quince días siguientes a su fecha de aprobación.
 
@@ -1600,21 +1615,22 @@ Con la solicitud de inscripción se presentarán copias certificadas de las acta
 a la asamblea respectiva y del Comité Ejecutivo Nacional que confirmó la coalición, si fuere el
 caso. En la misma forma se procederá con las modificaciones que sufra el convenio.
 
-**Artículo 86. Consecuencia del convenio.** El convenio de coalición debidamente inscrito,
+##### Artículo 86. 
+**Consecuencia del convenio.** El convenio de coalición debidamente inscrito,
 obliga a los partidos políticos que lo conforman, a figurar en el mismo cuadro o sección de la
 papeleta electoral respectiva y que, en el caso de elecciones presidenciales, el total de votos
 obtenidos por la coalición, se divida entre el número de partidos coaligados, para determinar
 si cada uno de ellos obtuvo el porcentaje a que se refiere el inciso b) del artículo 93 de esta ley.
 
-**Artículo 87. Coaliciones de comités.** Los comités cívicos electorales, podrán formar parte de
+##### Artículo 87. 
+**Coaliciones de comités.** Los comités cívicos electorales, podrán formar parte de
 coaliciones, pero únicamente dentro del municipio.
 
 ### CAPITULO OCHO
+### Sanciones
 
-
-Sanciones
-
-**Artículo 88. Sanciones.** El Tribunal Supremo Electoral, impondrá sanciones a las organizaciones
+##### Artículo 88. 
+**Sanciones.** El Tribunal Supremo Electoral, impondrá sanciones a las organizaciones
 políticas y candidatos, por infracción a normas de la presente Ley y a las que rigen su constitución
 y funcionamiento. Dependiendo de la gravedad de la infracción y de la jurisdicción ya sea
 nacional, departamental o municipal según corresponda, sin que exista un orden de prelación,
@@ -1647,12 +1663,14 @@ el patrimonio cultural, los recursos naturales y el ambiente, los bienes del Est
 refiere el articulo 121 de la Constitución Política de la República, así como el artículo 223 de la
 presente Ley, antes, durante y posterior a la campaña electoral.
 
-**Artículo 89. Amonestaciones.** La amonestación privada o pública procederá en caso que un
+##### Artículo 89. 
+**Amonestaciones.** La amonestación privada o pública procederá en caso que un
 partido político incumpla o desobedezca alguna resolución o disposición escrita del Tribunal
 Supremo Electoral. La amonestación se hará por escrito y explicando las causas que la
 justifiquen.
 
-**Artículo 90. Multas.** Se sancionará con multa al partido político que:
+##### Artículo 90. 
+**Multas.** Se sancionará con multa al partido político que:
 
 a) No presente al Registro de Ciudadanos dentro del plazo de treinta días, para su inscripción,
 copia certificada del acta de toda asamblea nacional, departamental o municipal;
@@ -1698,7 +1716,6 @@ valla, por medio de comunicación escrito y por tiempo de aire y medio de comuni
 
 n) Incurra en las prohibiciones contenidas en el artículo 223 de la presente Ley;
 
-
 Realice propaganda electoral fuera de los límites temporales o en contravención con las
 disposiciones de la presente Ley.
 
@@ -1735,18 +1752,21 @@ serán multadas. La autoridad electoral determinará el monto de la multa dentro
 establecidos en este artículo y de conformidad con la gravedad del acto sancionado. El pago
 de la multa impuesta no exime el cumplimiento de la obligación infringida.
 
-**Artículo 90 Bis. Sanción por omisión de reportes.** La organización política que exceda los
+##### Artículo 90Bis. 
+**Sanción por omisión de reportes.** La organización política que exceda los
 límites de financiamiento público o privado de campaña o que no entregue cualquiera de
 los reportes requeridos de conformidad con el artículo 22 de esta Ley, será suspendida en
 su derecho de recibir financiamiento público o privado de campaña hasta la terminación del
 proceso electoral respectivo. En el segundo caso, al ser entregado el reporte respectivo en la
 forma requerida por la ley, será levantada la sanción treinta días después.
 
-**Artículo 91. Destino de las multas.** El producto de las multas que imponga el Tribunal Supremo
+##### Artículo 91. 
+**Destino de las multas.** El producto de las multas que imponga el Tribunal Supremo
 Electoral o el Registro de Ciudadanos, constituye un ingreso extraordinario del primero y se
 destinará, como privativo, a mejorar o ampliar sus servicios.
 
-**Artículo 92. Suspensión temporal.** Procede la suspensión temporal de un partido político:
+##### Artículo 92. 
+**Suspensión temporal.** Procede la suspensión temporal de un partido político:
 
 a) Cuando en cualquier tiempo el Registro de Ciudadanos, determine que el número de sus
 afiliados es menor al que señala el inciso a) del artículo 19 de esta ley;
@@ -1778,7 +1798,8 @@ la causal de suspensión.
 No podrá suspenderse un partido después de la convocatoria a una elección y hasta que ésta
 se haya celebrado.
 
-**Artículo 93. Cancelación del partido.** Procede la cancelación de un partido político:
+##### Artículo 93. 
+**Cancelación del partido.** Procede la cancelación de un partido político:
 
 a) Si por acción propia o de acuerdo con funcionarios electorales ocasiona fraude que
 cambie los resultados verdaderos de las votaciones o la adjudicación de cargos en un
@@ -1799,11 +1820,11 @@ de que las causales de suspensión mencionadas en dicho artículo han sido corre
 d) Si los partidos políticos no postulan candidatos a la presidencia y vicepresidencia de
 la República; o no postulan candidatos a diputados en más de la mitad del total de los
 
-
 distritos electorales, salvo cuando haya alcanzado representación ante el Congreso de la
 República.
 
-**Artículo 94. Declaratoria de suspensión o cancelación.** El Registro de Ciudadanos podrá
+##### Artículo 94. 
+**Declaratoria de suspensión o cancelación.** El Registro de Ciudadanos podrá
 declarar la suspensión o cancelación de un partido político.
 
 Previamente a resolver, el Registro de Ciudadanos deberá correr audiencia al partido afectado
@@ -1818,14 +1839,16 @@ Procesal Civil y Mercantil.
 Vencido el plazo de la audiencia o el período de prueba, el Registro de Ciudadanos resolverá
 lo pertinente en diez días.
 
-**Artículo 94 Bís. Propaganda ilegal de personas indivíduales.** No será inscrito como candidato
+##### Artículo 94Bís. 
+**Propaganda ilegal de personas indivíduales.** No será inscrito como candidato
 quien haga campaña a titulo individual a cargos de elección popular publicitando su
 imagen, en los diferentes medios de comunicación social, antes de la convocatoria oficial de
 elecciones sin perjuicio de las sanciones que procedan en contra de la organización política,
 las asociaciones y fundaciones que lo promuevan. Previo a la sanción deberá agotarse el
 procedimiento establecido en el reglamento.
 
-**Artículo 95. Resolución y prohibiciones.** Firme la resolución que ordene la cancelación
+##### Artículo 95. 
+**Resolución y prohibiciones.** Firme la resolución que ordene la cancelación
 de un partido político, el Registro de Ciudadanos procederá a efectuar las anotaciones
 correspondientes en todas sus inscripciones. El nombre y símbolo o emblema del partido
 cancelado no podrán ser usados ni registrados por ninguna organización política antes de diez
@@ -1834,31 +1857,32 @@ años.
 La resolución que acuerde la suspensión o la cancelación de un partido político deberá
 publicarse en el diario oficial y en otros dos diarios de circulación, en un plazo de quince días.
 
-**Artículo 96. Anotación de las sanciones.** Todas las sanciones que se impongan a partidos
+##### Artículo 96. 
+**Anotación de las sanciones.** Todas las sanciones que se impongan a partidos
 políticos se anotarán en su respectiva inscripción.
 
+## TITULO TRES
+## Comités Cívicos Electorales
 
-TITULO TRES
-Comités Cívicos Electorales
+### CAPITULO UNO
+### Disposiciones Generales
 
-
-CAPITULO UNO
-Disposiciones Generales
-
-**Artículo 97. Definición de comités.** Los comités cívicos electorales son organizaciones
+##### Artículo 97. 
+**Definición de comités.** Los comités cívicos electorales son organizaciones
 políticas de carácter temporal, que representan sectores sociales y corrientes de opinión y
 pensamiento político que postulan candidatos a cargos de elección popular, para integrar
 corporaciones municipales.
 
-**Artículo 98. Función de los comités.** Los comités cívicos electorales cumplen la función
+##### Artículo 98. 
+**Función de los comités.** Los comités cívicos electorales cumplen la función
 de representar corrientes de opinión pública, en procesos electorales correspondientes a
 gobiernos municipales.
 
-**Artículo 99**. **Requisitos para la constitución de Comités Cívicos Electorales**. Para que un
+##### Artículo 99. 
+**Requisitos para la constitución de Comités Cívicos Electorales**. Para que un
 Comité Cívico Electoral pueda constituirse y funcionar legalmente, se requiere:
 
 a) Contar, en el momento de su constitución, con el mínimo de afiliados siguientes:
-
 
 1) En municipios con hasta 5,000 empadronados, cien afiliados.
 2) En municipios que cuenten entre 5,001 y 10,000 empadronados, doscientos
@@ -1888,22 +1912,24 @@ correspondiente del Registro de Ciudadanos.
 Las funciones de cada Comité Cívico Electoral quedan limitadas al municipio en que haya
 postulado candidatos.
 
-**Artículo 100**. **Personalidad jurídica.** Todo Comité Cívico Electoral debidamente constituido
+##### Artículo 100. 
+**Personalidad jurídica.** Todo Comité Cívico Electoral debidamente constituido
 e inscrito en el Departamento de Organizaciones Políticas, en la delegación departamental
 o subdelegación municipal del Registro de Ciudadanos, tendrá personalidad jurídica para el
 objeto que señala el artículo anterior.
 
-**Artículo 101. Normas supletorias para su organización y funcionamiento.** Las normas que
+##### Artículo 101. 
+**Normas supletorias para su organización y funcionamiento.** Las normas que
 
 rigen la organización, financiamiento, fiscalización y funcionamiento de los partidos políticos,
 así como el régimen de sanciones, serán aplicables a los comités cívicos electorales en defecto
 de normas expresas relativas a éstos.
 
+### CAPITULO DOS
+### Derechos y Obligaciones
 
-CAPITULO DOS
-Derechos y Obligaciones
-
-**Artículo 102. Derechos de los comités.** Los comités cívicos electorales gozan de los derechos
+##### Artículo 102. 
+**Derechos de los comités.** Los comités cívicos electorales gozan de los derechos
 siguientes:
 
 a) Postular candidatos para integrar Corporaciones Municipales.
@@ -1917,7 +1943,8 @@ la legislación electoral y de organizaciones políticas; y,
 
 d) Las demás que la ley les confiere.
 
-**Artículo 103**. **Obligaciones de los comités.** Los comités cívicos electorales tienen las
+##### Artículo 103. 
+**Obligaciones de los comités.** Los comités cívicos electorales tienen las
 obligaciones siguientes:
 
 a) Inscribirse en el Departamento de Organizaciones Políticas o en la respectiva delegación
@@ -1929,16 +1956,17 @@ Secretario General, Presidente o su equivalente; y,
 
 c) Cumplir las demás obligaciones que le imponen las leyes.
 
+### CAPITULO TRES
+### Constitución e inscripción
 
-CAPITULO TRES
-Constitución e inscripción
-
-**Artículo 104**. **Acta de constitución.** La constitución de un Comité Cívico Electoral debe constar
+##### Artículo 104. 
+**Acta de constitución.** La constitución de un Comité Cívico Electoral debe constar
 en acta suscrita por el número de afiliados requeridos por la ley, la que deberá presentarse en
 el Departamento de Organizaciones Políticas, en la delegación o subdelegación del Registro
 de Ciudadanos que corresponda.
 
-**Artículo 105. Requisitos del acta constitutiva.** El acta de constitución de un Comité Cívico
+##### Artículo 105. 
+**Requisitos del acta constitutiva.** El acta de constitución de un Comité Cívico
 Electoral deberá contener los requisitos siguientes:
 
 a) Comparecencia personal de todos los afiliados requeridos por la ley, de los integrantes
@@ -1959,7 +1987,8 @@ e) Aceptación de la postulación, por los candidatos; y,
 
 f) Firma o impresión digital del dedo índice u otro en su defecto de los comparecientes.
 
-**Artículo 106. Trámites de la solicitud.** Si se presenta, ajustada a la ley, toda la documentación
+##### Artículo 106. 
+**Trámites de la solicitud.** Si se presenta, ajustada a la ley, toda la documentación
 requerida, el Departamento de Organizaciones Políticas, la delegación departamental o la
 subdelegación municipal del Registro de Ciudadanos, de oficio deberá:
 
@@ -1974,18 +2003,21 @@ d) Extender las certificaciones o constancias de las inscripciones; y,
 e) Archivar el expediente en el Departamento de Organizaciones Políticas, para lo cual
 deberá ser remitido por las delegaciones y subdelegaciones.
 
-**Artículo 107. Ampliación o modificación.** Si la documentación presentada no se ajusta a
+##### Artículo 107. 
+**Ampliación o modificación.** Si la documentación presentada no se ajusta a
 la ley, el jefe del Departamento de Organizaciones Políticas, el delegado departamental o
 subdelegado municipal deberá informarlo a los interesados, por escrito y en forma detallada,
 en el mismo momento o dentro del plazo de cuarenta y ocho horas. Corregido el expediente,
 deberá ser enviado por la vía más rápida al Registro de Ciudadanos, para que en un plazo de
 veinticuatro horas resuelva lo pertinente.
 
-**Artículo 108. Plazo para la constitución e inscripción de comité.** La constitución e inscripción
+##### Artículo 108. 
+**Plazo para la constitución e inscripción de comité.** La constitución e inscripción
 de un comité cívico deberá hacerse, a más tardar, sesenta días antes de la fecha señalada para
 la elección. No se podrán constituir comités cívicos antes de la convocatoria a elecciones.
 
-**Artículo 109. Junta Directiva del Comité Cívico.** La Junta Directiva del Comité Cívico funcionará
+##### Artículo 109. 
+**Junta Directiva del Comité Cívico.** La Junta Directiva del Comité Cívico funcionará
 
 como órgano colegiado y tendrá a su cargo específicamente:
 
@@ -2004,31 +2036,33 @@ e) Designar los fiscales y demás representantes o delegados del Comité Cívico
 
 f) Las demás funciones que le señalan la ley o su acta constitutiva.
 
-**Artículo 110. Representación del Comité Cívico.** La representación legal del comité le
+##### Artículo 110. 
+**Representación del Comité Cívico.** La representación legal del comité le
 corresponde al Secretario General, Presidente o su equivalente. En su ausencia la ejercerá el
 Secretario General Adjunto, el Secretario de Actas o el Tesorero, en su orden.
 
+### CAPITULO CUATRO
+### Sanciones
 
-CAPITULO CUATRO
-Sanciones
-
-**Artículo 111. Normas Supletorias.** Los comités cívicos podrán ser sancionados por el Registro
+##### Artículo 111. 
+**Normas Supletorias.** Los comités cívicos podrán ser sancionados por el Registro
 de Ciudadanos, si infringen las normas legales que rigen su constitución y funcionamiento,
 con las sanciones que señala el artículo 88 de esta ley.
 
-**Artículo 112. Sanciones.** A los comités cívicos se les podrá sancionar con multa conforme a lo
+##### Artículo 112. 
+**Sanciones.** A los comités cívicos se les podrá sancionar con multa conforme a lo
 establecido en el artículo 90, incisos b), c), e), y f) de esta ley.
 
-**Artículo 113. Cancelación de Comités.** El Registro de Ciudadanos resolverá la cancelación de
+##### Artículo 113. 
+**Cancelación de Comités.** El Registro de Ciudadanos resolverá la cancelación de
 un Comité Cívico Electoral, aplicando el procedimiento de los incidentes que establece la Ley
 del Organismo Judicial.
 
 Contra lo resuelto procede el recurso de apelación que establece esta ley, que debe
 interponerse dentro del tercer día de notificada la resolución.
 
-
-CAPITULO CINCO
-Disolución
+### CAPITULO CINCO
+### Disolución
 
 **ARTICULO 114. Disolución de los comités cívicos electorales**. Los comités cívicos electorales quedarán
 automáticamente disueltos, sin necesidad de declaración o resolución alguna, al quedar firme la
@@ -2037,56 +2071,58 @@ adjudicación de cargos en la elección en que hayan participado.
 No obstante, subsistirá la responsabilidad de los directivos de dichos comités por los fondos que hayan
 percibido y administrado.
 
-### TITULO CUATRO
+## TITULO CUATRO
+## Asociaciones con fines políticos
 
+### CAPITULO ÚNICO
+### Derecho de asociación
 
-Asociaciones con fines políticos
-
-
-CAPITULO ÚNICO
-Derecho de asociación
-
-**Artículo 115. Concepto.** Las asociaciones con fines de cultura y formación política, son organizaciones
+##### Artículo 115. 
+**Concepto.** Las asociaciones con fines de cultura y formación política, son organizaciones
 de duración indefinida, que sin ser partido político o comité cívico electoral, tienen como finalidad
 esencial el conocimiento, estudio y análisis de la problemática nacional.
 
-**Artículo 116. Estatutos e inscripciones.** Las asociaciones a que se refiere el Artículo anterior se
+##### Artículo 116. 
+**Estatutos e inscripciones.** Las asociaciones a que se refiere el Artículo anterior se
 regularán por las disposiciones del Código Civil. Su autorización, aprobación de estatutos e inscripción,
 corresponderán al Registro de Ciudadanos.
 
-**Artículo 117. De las publicaciones.** El Registro de Ciudadanos ordenará la publicación del acuerdo en
+##### Artículo 117. 
+**De las publicaciones.** El Registro de Ciudadanos ordenará la publicación del acuerdo en
 el diario oficial, dentro de los ocho días siguientes a la aprobación de los estatutos, la que en todo caso
 debe efectuarse gratuitamente. Satisfecho este requisito se procederá a la inscripción de la entidad en
 el departamento respectivo.
 
-**Artículo 118. Modificación de estatutos.** Toda modificación de estatutos de asociación o de la
+##### Artículo 118. 
+**Modificación de estatutos.** Toda modificación de estatutos de asociación o de la
 integración de sus órganos permanentes, debe inscribirse en el Registro de Ciudadanos, dentro de los
 quince días siguientes.
 
-**Artículo 119. Sanciones.** El régimen de sanciones establecido para los partidos políticos, es también
+##### Artículo 119. 
+**Sanciones.** El régimen de sanciones establecido para los partidos políticos, es también
 aplicable a las asociaciones con fines políticos, en lo que proceda.
 
-**Artículo 120. Derechos.** Las asociaciones a que se refiere este capítulo podrán hacer publicaciones de
+##### Artículo 120. 
+**Derechos.** Las asociaciones a que se refiere este capítulo podrán hacer publicaciones de
 carácter político, por cualquier medio. En todo caso, los directivos de las asociaciones son responsables
 del contenido de tales publicaciones.
 
+# LIBRO TRES
+# Autoridades y órganos electorales
 
-LIBRO TRES
-Autoridades y órganos electorales
+## TITULO UNO
+## Tribunal Supremo Electoral
 
+### CAPITULO UNO
+### Integración y Atribuciones
 
-TITULO UNO
-Tribunal Supremo Electoral
-
-
-CAPITULO UNO
-Integración y Atribuciones
-
-**Artículo 121. Concepto.** El Tribunal Supremo Electoral es la máxima autoridad en materia
+##### Artículo 121. 
+**Concepto.** El Tribunal Supremo Electoral es la máxima autoridad en materia
 electoral. Es independiente y de consiguiente, no supeditado a organismo alguno del Estado.
 Su organización, funcionamiento y atribuciones están determinados en esta ley.
 
-**Artículo 122. De su presupuesto.** Corresponde al Tribunal Supremo Electoral una asignación
+##### Artículo 122. 
+**De su presupuesto.** Corresponde al Tribunal Supremo Electoral una asignación
 no menor del medio por ciento (0.5%) del Presupuesto General de Ingresos Ordinarios del
 Estado para cubrir sus gastos de su funcionamiento y de los procesos electorales.
 
@@ -2102,13 +2138,15 @@ del sistema con garantía de futuras asignaciones presupuestales, o bien ayudas 
 exterior que no comprometan las finanzas del Estado, ni la independencia y funcionalidad del
 Tribunal.
 
-**Artículo 123. Integración**. El Tribunal Supremo Electoral se integra con cinco Magistrados
+##### Artículo 123. 
+**Integración**. El Tribunal Supremo Electoral se integra con cinco Magistrados
 Titulares y con cinco Magistrados Suplentes, electos por el Congreso de la República con
 el voto favorable de las dos terceras partes del total de sus miembros, de una nómina de
 cuarenta candidatos propuesta por la Comisión de Postulación. Durarán en sus funciones seis
 años.
 
-**Artículo 124. Calidades.** Los miembros del Tribunal Supremo Electoral deben tener las mismas
+##### Artículo 124. 
+**Calidades.** Los miembros del Tribunal Supremo Electoral deben tener las mismas
 calidades que corresponden a los Magistrados de la Corte Suprema de Justicia; gozarán de las
 mismas inmunidades y prerrogativas que aquellos y estarán sujetos a iguales responsabilidades.
 Podrán ser reelectos. Los miembros propietarios del Tribunal Supremo Electoral no podrán
@@ -2117,7 +2155,8 @@ referentes a materia electoral. Los miembros propietarios tampoco podrán ser as
 mandatarios de partidos políticos, comités proformación de los mismos y sus personeros y de
 cualquier otra organización de carácter político, ni directivos de dichas organizaciones.
 
-**Artículo 125. Atribuciones y obligaciones.** El Tribunal Supremo Electoral tiene las siguientes
+##### Artículo 125. 
+**Atribuciones y obligaciones.** El Tribunal Supremo Electoral tiene las siguientes
 atribuciones y obligaciones:
 
 a) Velar por el fiel cumplimiento de la Constitución, leyes y disposiciones que garanticen el
@@ -2125,13 +2164,10 @@ derecho de organización y participación política de los ciudadanos;
 
 b) Integrar la institución encargada de emitir el documento único de identificación personal;
 
-
 c) Convocar y organizar los procesos electorales definiendo dentro de los parámetros
 establecidos en esta Ley, la fecha de la convocatoria y de las elecciones; declarar el
 resultado y la validez de las elecciones o, en su caso, la nulidad parcial o total de las mismas;
 y adjudicar los cargos de elección popular, notificando a los ciudadanos la declaración de
-
-
 su elección;
 
 d) Resolver, en definitiva, acerca de las actuaciones del Registro de Ciudadanos elevadas a su
@@ -2141,7 +2177,6 @@ e) Cumplir y hacer que se cumplan las disposiciones legales sobre organizaciones
 y procesos electorales, así como dictar las disposiciones destinadas a hacer efectivas
 tales normas, incluyendo la facultad de acordar directamente, las medidas y sanciones
 necesarias para tutelar los principios que informan al proceso electoral;
-
 
 f) Resolver en virtud de recurso acerca de la inscripción, sanciones, suspensión y cancelación
 de organizaciones políticas;
@@ -2177,7 +2212,6 @@ p) Dictar su reglamento interno y el de los demás órganos electorales;
 
 q) Elaborar y ejecutar su presupuesto anual y cumplir con lo que para el efecto establece la
 
-
 Constitución Política de la República;
 
 r) Compilar y publicar la jurisprudencia en materia electoral;
@@ -2201,14 +2235,16 @@ jurídicas, fundaciones, asociaciones u otras entidades sin fines político part
 realicen propaganda electoral en cualquier época a favor de algún ciudadano u organización
 política.
 
-**Artículo 126. Presidencia del Tribunal Supremo Electoral.** La presidencia del Tribunal Supremo
+##### Artículo 126. 
+**Presidencia del Tribunal Supremo Electoral.** La presidencia del Tribunal Supremo
 Electoral, será desempeñada por los mismos magistrados titulares que la integran, en forma
 rotativa en cinco períodos iguales, comenzando por el magistrado de mayor edad y siguiendo
 en orden descendente de edades. En la primera sesión que el Tribunal Supremo Electoral
 celebre después de haber sido instalado, procederá a designar al Presidente y a establecer el
 orden de los magistrados vocales conforme a su derecho de asunción a la presidencia.
 
-**Artículo 127. Ausencias y vacantes.** En caso de ausencia temporal o definitiva del Presidente,
+##### Artículo 127. 
+**Ausencias y vacantes.** En caso de ausencia temporal o definitiva del Presidente,
 será sustituido, en su orden, por los respectivos Vocales.
 
 En caso de ausencia temporal de alguno de los magistrados propietarios, se escogerá a los
@@ -2230,14 +2266,17 @@ la nómina de candidatos para Magistrados Suplentes, y los electos fungirán has
 el período para el que hubieren sido electos los Magistrados del Tribunal Supremo Electoral
 originalmente.
 
-**Artículo 128. Sesiones.** El Tribunal Supremo Electoral desarrollará sus funciones en forma
+##### Artículo 128. 
+**Sesiones.** El Tribunal Supremo Electoral desarrollará sus funciones en forma
 permanente y, además, celebrará sesión cuantas veces sea necesario. En forma extraordinaria,
 se reunirá, cuando sea convocado por el Presidente, o por la mayoría de los magistrados.
 
-**Artículo 129. Quórum.** Para que el Tribunal Supremo Electoral pueda celebrar sesión, se
+##### Artículo 129. 
+**Quórum.** Para que el Tribunal Supremo Electoral pueda celebrar sesión, se
 requiere la presencia de todos sus miembros.
 
-**Artículo 130. Privacidad de las sesiones.** Las sesiones del Tribunal Supremo Electoral serán
+##### Artículo 130. 
+**Privacidad de las sesiones.** Las sesiones del Tribunal Supremo Electoral serán
 privadas, pero durante el período electoral, los fiscales nacionales de los partidos políticos
 tienen el derecho de asistir a ellas con voz pero sin voto, para lo cual deberán ser convocados
 sin excepción alguna a todas las reuniones. Los fiscales nacionales pueden estar presentes en
@@ -2253,11 +2292,13 @@ interesadas en el asunto que se trate.
 Sin perjuicio de lo anterior, las actuaciones del Tribunal Supremo Electoral y los expedientes
 que se tramiten en su dependencia son públicos.
 
-**Artículo 131. Decisiones.** Las resoluciones y acuerdos del Tribunal Supremo Electoral se
+##### Artículo 131. 
+**Decisiones.** Las resoluciones y acuerdos del Tribunal Supremo Electoral se
 tomarán por mayoría absoluta de votos, pero cuando ésta no se produjere, se llamará a los
 magistrados suplentes en su orden, hasta que dicha mayoría se logre.
 
-**Artículo 132. Resoluciones y acuerdos.** Las resoluciones y los acuerdos del Tribunal Supremo
+##### Artículo 132. 
+**Resoluciones y acuerdos.** Las resoluciones y los acuerdos del Tribunal Supremo
 Electoral serán firmados, obligatoriamente, por todos los magistrados que integren el Tribunal,
 al momento de ser tomados. Si alguno disiente de la mayoría, deberá razonar su voto, en el
 propio acto, haciéndolo constar en el libro que para el efecto se lleve.
@@ -2265,19 +2306,22 @@ propio acto, haciéndolo constar en el libro que para el efecto se lleve.
 Las resoluciones de mero trámite, así como las que se sitúen dentro de las atribuciones del
 artículo 142, serán firmadas por el Presidente y el Secretario.
 
-**Artículo 133. Recursos. Suprimido.**
+##### Artículo 133. 
+**Recursos. Suprimido.**
 
-**Artículo 134. Recurso extraordinario de amparo. Suprimido.**
+##### Artículo 134. 
+**Recurso extraordinario de amparo. Suprimido.**
 
-**Artículo 135. Solicitudes y gestiones.** Todas las solicitudes y gestiones escritas que se hagan
+##### Artículo 135. 
+**Solicitudes y gestiones.** Todas las solicitudes y gestiones escritas que se hagan
 ante el Tribunal Supremo Electoral y sus dependencias, se presentarán en papel simple y no
 requerirán de auxilio profesional ni de formalidades especiales.
 
+### CAPITULO DOS
+### Comisión de postulación
 
-CAPITULO DOS
-Comisión de postulación
-
-**Artículo 136. Integración de la Comisión de Postulación.** La Comisión de Postulación estará
+##### Artículo 136. 
+**Integración de la Comisión de Postulación.** La Comisión de Postulación estará
 integrada por cinco miembros, en la forma siguiente:
 
 a) El Rector de la Universidad de San Carlos de Guatemala, quien la preside;
@@ -2301,7 +2345,8 @@ respectivamente.
 
 El cargo de miembro de la Comisión de Postulación es obligatorio y gratuito.
 
-**Artículo 137. Calidades para ser miembro de la Comisión de Postulación.** Los miembros de la
+##### Artículo 137. 
+**Calidades para ser miembro de la Comisión de Postulación.** Los miembros de la
 Comisión de Postulación deberán reunir los siguientes requisitos:
 
 a) Ser guatemalteco de origen;
@@ -2310,7 +2355,8 @@ b) Ser profesional universitario, colegiado activo; y
 
 c) Encontrarse en el ejercicio de sus derechos políticos.
 
-**Artículo 138. Impedimentos para ser miembro de la Comisión de Postulación.** No pueden ser
+##### Artículo 138. 
+**Impedimentos para ser miembro de la Comisión de Postulación.** No pueden ser
 miembros de la Comisión de Postulación:
 
 a) Los funcionarios de los organismos del Estado y de las entidades autónomas o
@@ -2332,7 +2378,8 @@ Si alguna de las personas a quien de conformidad con esta ley le corresponde int
 Comisión de Postulación tuviere impedimento, deberá comunicarlo de inmediato a la entidad
 correspondiente para que se haga la nueva designación.
 
-**Artículo 139. Fecha para la instalación de la Comisión de Postulación.** La Comisión de
+##### Artículo 139. 
+**Fecha para la instalación de la Comisión de Postulación.** La Comisión de
 Postulación será instalada por el Congreso de la República, sesenta días antes de la fecha en
 que termine el período de los Magistrados del Tribunal Supremo Electoral. Si en la fecha fijada
 para la instalación no comparecen, por lo menos dos tercios de sus integrantes, el Congreso
@@ -2346,12 +2393,14 @@ c) Requerirá por la vía más rápida, a quien corresponda, para que acredite a
 
 d) Señalará nueva audiencia para instalar la Comisión.
 
-**Artículo 140. Instalación.** Al integrarse el quórum que establece el inciso d) del artículo 141 de
+##### Artículo 140. 
+**Instalación.** Al integrarse el quórum que establece el inciso d) del artículo 141 de
 esta ley, el Congreso de la República instalará a la Comisión de Postulación. Dentro del plazo
 de treinta días, contados desde la fecha de su instalación, la Comisión de Postulación deberá
 cumplir con las funciones que le señala el artículo citado.
 
-**Artículo 141. Normas de funcionamiento.** El funcionamiento de la Comisión de Postulación
+##### Artículo 141. 
+**Normas de funcionamiento.** El funcionamiento de la Comisión de Postulación
 se rige por las normas siguientes:
 
 a) La Comisión de Postulación tiene entre sus funciones la de elaborar la nómina escrita de
@@ -2378,10 +2427,12 @@ presentes de la comisión; y,
 g) La Comisión de Postulación se disolverá inmediatamente después de haber hecho entrega
 al Congreso de la República del acta que contiene la nómina de candidatos a miembros
 del Tribunal Supremo Electoral.
-**CAPITULO TRES
-Presidente del Tribunal Supremo Electoral**
 
-**Artículo 142. Atribuciones**. Son atribuciones del Presidente del Tribunal Supremo Electoral:
+### CAPITULO TRES
+### Presidente del Tribunal Supremo Electoral
+
+##### Artículo 142. 
+**Atribuciones**. Son atribuciones del Presidente del Tribunal Supremo Electoral:
 
 a) Fijar el orden en que deban tratarse los asuntos sujetos al conocimiento del tribunal.
 
@@ -2394,14 +2445,17 @@ d) Ejercer la representación legal del Tribunal, la cual podrá delegar con apr
 pleno, para asuntos específicos en otro de los magistrados propietarios. Asimismo,
 podrá delegar la representación legal a mandatarios judiciales para gestionar asuntos
 administrativos y judiciales.
-**CAPITULO CUATRO
-Secretario General del Tribunal Supremo Electoral**
 
-**Artículo 143. Calidades.** El Tribunal Supremo Electoral tendrá un Secretario General, quien
+### CAPITULO CUATRO
+### Secretario General del Tribunal Supremo Electoral
+
+##### Artículo 143. 
+**Calidades.** El Tribunal Supremo Electoral tendrá un Secretario General, quien
 debe reunir las mismas calidades que se requieren para ser Magistrado de la Corte de
 Apelaciones y tendrá iguales prerrogativas, inmunidades y prohibiciones.
 
-**Artículo 144. Atribuciones.** El Secretario General tendrá las atribuciones siguientes:
+##### Artículo 144. 
+**Atribuciones.** El Secretario General tendrá las atribuciones siguientes:
 
 a) Ser el encargado administrativo de las oficinas del Tribunal Supremo Electoral.
 
@@ -2425,18 +2479,19 @@ por el Tribunal Supremo Electoral.
 
 Para la realización de sus funciones utilizará supletoriamente la Ley del Organismo Judicial.
 
-**Artículo 145. Ausencia del Secretario General.** En ausencia temporal del Secretario General
+##### Artículo 145. 
+**Ausencia del Secretario General.** En ausencia temporal del Secretario General
 lo sustituirá la persona que el tribunal designe y que reúna las mismas calidades.
 
 ### CAPITULO CINCO
+### Inspector General del Tribunal Supremo Electoral
 
-
-Inspector General del Tribunal Supremo Electoral
-
-**Artículo 146. Calidades.** El Inspector General del Tribunal Supremo Electoral tendrá las
+##### Artículo 146. 
+**Calidades.** El Inspector General del Tribunal Supremo Electoral tendrá las
 mismas calidades, prerrogativas, inmunidades y prohibiciones que el Secretario General.
 
-**Artículo 147. Atribuciones.** Son atribuciones del Inspector General las siguientes:
+##### Artículo 147. 
+**Atribuciones.** Son atribuciones del Inspector General las siguientes:
 
 a) Vigilar el estricto cumplimiento de la presente ley, de sus disposiciones reglamentarias y
 cualesquiera otras que se dicten en materia político electoral.
@@ -2451,7 +2506,6 @@ d) Con conocimiento del Tribunal Supremo Electoral, investigar de oficio, o a in
 de parte, los hechos que constituyan transgresiones a la ley, a los reglamentos y a las
 disposiciones de carácter electoral. En caso de urgencia actuará de oficio, con informe al
 
-
 Tribunal Supremo Electoral.
 
 e) Elevar al conocimiento de quien corresponda, las cuestiones que le sometan los
@@ -2462,16 +2516,17 @@ electorales; y,
 
 g) Las demás atribuciones que le fije el Tribunal Supremo Electoral.
 
-**Artículo 148. De la debida colaboración.** Todos los órganos, autoridades y dependencias
+##### Artículo 148. 
+**De la debida colaboración.** Todos los órganos, autoridades y dependencias
 del Estado, incluyendo sus entidades autónomas y descentralizadas, deben prestar, dentro
 del campo de sus atribuciones, la colaboración que el Inspector General demande para el
 desempeño de sus funciones, bajo la responsabilidad de quien sea requerido.
 
+### CAPITULO SEIS
+### Auditor
 
-CAPITULO SEIS
-Auditor
-
-**Artículo 149. Calidades.** El Auditor debe reunir las calidades siguientes:
+##### Artículo 149. 
+**Calidades.** El Auditor debe reunir las calidades siguientes:
 
 a) Ser guatemalteco;
 
@@ -2479,7 +2534,8 @@ b) Ser ciudadano en el ejercicio de sus derechos; y
 
 c) Ser Contador y Auditor Público, colegiado activo.
 
-**Artículo 150. Atribuciones.** Son atribuciones del Auditor Electoral, las siguientes:
+##### Artículo 150. 
+**Atribuciones.** Son atribuciones del Auditor Electoral, las siguientes:
 
 a) Verificar las actividades, materiales, elementos y operaciones de los órganos electorales
 dentro del proceso electoral, de conformidad con el reglamento respectivo, a fin de
@@ -2508,11 +2564,10 @@ h) Rendir los informes pertinentes para los efectos de ley, a la Contraloría Ge
 y al Ministerio Público.
 
 ### CAPITULO SIETE
+### Departamento de Contabilidad
 
-
-Departamento de Contabilidad
-
-**Artículo 151. Contabilidad.** El Jefe del Departamento de Contabilidad, debe reunir las
+##### Artículo 151. 
+**Contabilidad.** El Jefe del Departamento de Contabilidad, debe reunir las
 calidades siguientes:
 
 a) Ser guatemalteco;
@@ -2523,23 +2578,22 @@ c) Ser Perito Contador registrado.
 
 Tendrá las atribuciones que le asigne esta ley y los reglamentos respectivos.
 
+### CAPITULO OCHO
+### Dependencias Administrativas
 
-CAPITULO OCHO
-Dependencias Administrativas
-
-**Artículo 152. Facultad de creación de dependencias.** El Tribunal Supremo Electoral podrá
+##### Artículo 152. 
+**Facultad de creación de dependencias.** El Tribunal Supremo Electoral podrá
 crear las dependencias pertinentes para el mejor desarrollo de sus funciones, las cuales
 deberán ser reglamentadas al momento de su creación.
 
+## TITULO DOS
+## Órganos electorales
 
-TITULO DOS
-Órganos electorales
+### CAPITULO UNO
+### Disposiciones generales
 
-
-CAPITULO UNO
-Disposiciones generales
-
-**Artículo 153. Órganos electorales.** Los órganos Electorales son:
+##### Artículo 153. 
+**Órganos electorales.** Los órganos Electorales son:
 
 a) El Registro de Ciudadanos.
 
@@ -2553,11 +2607,11 @@ Los integrantes de las juntas electorales y receptoras de votos, dentro del orde
 sus funciones, tienen carácter de funcionarios públicos, con determinación propia y sujetos a
 todas las responsabilidades que para los mismos determina la ley.
 
+### CAPITULO DOS
+### Registro de ciudadanos
 
-CAPITULO DOS
-Registro de ciudadanos
-
-**Artículo 154. Organización del Registro de Ciudadanos.** Administrativamente, el Registro de
+##### Artículo 154. 
+**Organización del Registro de Ciudadanos.** Administrativamente, el Registro de
 Ciudadanos comprende:
 
 a) La Dirección General del Registro, con sede en la ciudad capital;
@@ -2572,7 +2626,8 @@ cumplimiento de las funciones del Registro de Ciudadanos.
 La Dirección General ejercerá su jurisdicción en toda la república y las delegaciones y
 subdelegaciones, en sus respectivos territorios.
 
-**Artículo 155. Funciones del Registro de Ciudadanos.** El Registro de Ciudadanos es un
+##### Artículo 155. 
+**Funciones del Registro de Ciudadanos.** El Registro de Ciudadanos es un
 órgano técnico del Tribunal Supremo Electoral. Tiene a su cargo las siguientes funciones:
 
 a) Todo lo relacionado con las inscripciones de ciudadanos;
@@ -2595,7 +2650,8 @@ registro de afiliados de los partidos políticos; y,
 
 h) Las demás que le señalen las leyes y reglamentos o el Tribunal Supremo Electoral.
 
-**Artículo 156. Integración de la Dirección General del Registro de Ciudadanos.** La Dirección
+##### Artículo 156. 
+**Integración de la Dirección General del Registro de Ciudadanos.** La Dirección
 General del Registro de Ciudadanos se integra por el Director General, el Secretario y las
 unidades administrativas siguientes:
 
@@ -2605,7 +2661,8 @@ b) El Departamento de Organizaciones Políticas; y,
 
 c) La Unidad Coordinadora de Delegaciones y Subdelegaciones.
 
-**Artículo 157. Atribuciones del director general de Registro de Ciudadanos.** Son atribuciones
+##### Artículo 157. 
+**Atribuciones del director general de Registro de Ciudadanos.** Son atribuciones
 del Director General del Registro de Ciudadanos:
 
 a) Dirigir las actividades del Registro.
@@ -2638,14 +2695,15 @@ del Registro; y,
 
 k) Las demás atribuciones que le señalen las leyes, los reglamentos y las disposiciones
 
-
 administrativas.
 
-**Artículo 158. Calidades e Inmunidades.** El Director General del Registro de Ciudadanos deberá
+##### Artículo 158. 
+**Calidades e Inmunidades.** El Director General del Registro de Ciudadanos deberá
 reunir las calidades y tendrá las prerrogativas, inmunidades y prohibiciones que corresponden
 a los Magistrados de la Corte de Apelaciones.
 
-**Artículo 159. Prohibiciones para ser Director General del Registro de Ciudadanos.** No pueden
+##### Artículo 159. 
+**Prohibiciones para ser Director General del Registro de Ciudadanos.** No pueden
 ocupar el cargo de director general del Registro de Ciudadanos:
 
 a) Los parientes dentro de los grados de ley, de los presidentes de los organismos del Estado,
@@ -2658,25 +2716,28 @@ b) Quienes tengan antecedentes penales y estén sujetos a juicio; y,
 
 c) Los directivos de las organizaciones políticas y sus parientes dentro de los grados de ley.
 
-**Artículo 160. Del nombramiento y separación del cargo de Director General del Registro
-de Ciudadanos.** Corresponde al Tribunal Supremo Electoral, nombrar y remover al Director
+##### Artículo 160. 
+**Del nombramiento y separación del cargo de Director General del Registro de Ciudadanos.** Corresponde al Tribunal Supremo Electoral, nombrar y remover al Director
 General del Registro de Ciudadanos. Son causas de remoción las prescritas para todo
 funcionario público y las que determine esta ley.
 
 En caso de ausencia temporal del Director del Registro lo sustituirá interinamente la persona
 que designe el Tribunal Supremo Electoral.
 
-**Artículo 161. De las calidades e impedimentos del Secretario del Registro de Ciudadanos.**
+##### Artículo 161. 
+**De las calidades e impedimentos del Secretario del Registro de Ciudadanos.**
 El Secretario del Registro de Ciudadanos debe ser guatemalteco, ciudadano en el ejercicio de
 sus derechos y abogado y notario, colegiado activo. Estará sujeto a los mismos impedimentos
 que el Director General.
 
-**Artículo 162. Del nombramiento y de la remoción del Secretario del Registro de Ciudadanos**.
+##### Artículo 162. 
+**Del nombramiento y de la remoción del Secretario del Registro de Ciudadanos**.
 El Secretario del Registro de Ciudadanos será nombrado y removido por el Tribunal Supremo
 Electoral, por las mismas causas señaladas para la remoción del Director General del Registro
 de Ciudadanos.
 
-**Artículo 163. De las atribuciones del Secretario del Registro de Ciudadanos.** Son atribuciones
+##### Artículo 163. 
+**De las atribuciones del Secretario del Registro de Ciudadanos.** Son atribuciones
 del Secretario General del Registro de Ciudadanos:
 
 a) Formular, contestar y atender todo lo relacionado con las actas y la correspondencia del
@@ -2695,11 +2756,13 @@ Registro de Ciudadanos; y,
 e) Las demás atribuciones que le señalen las leyes, los reglamentos y las disposiciones
 administrativas.
 
-**Artículo 164. Del departamento de inscripción de ciudadanos y elaboración de padrones.** El
+##### Artículo 164. 
+**Del departamento de inscripción de ciudadanos y elaboración de padrones.** El
 Departamento de Inscripción de ciudadanos y Elaboración de Padrones estará integrado por
 un jefe, un sub-jefe y el personal que sea necesario.
 
-**Artículo 165. Atribuciones.** El Departamento de Inscripción de Ciudadanos y Elaboración
+##### Artículo 165. 
+**Atribuciones.** El Departamento de Inscripción de Ciudadanos y Elaboración
 de Padrones supervisará las funciones del Centro de Procesamiento de Datos, en lo que se
 refieren a la formación del registro de electores y a la elaboración de los padrones electorales
 y tendrá, además, las siguientes funciones:
@@ -2717,13 +2780,15 @@ elecciones, conforme al reglamento y acuerdos que dicte el Tribunal Supremo Elec
 d) En coordinación con el Centro de Procesamiento de Datos proveer de sus respectivos
 padrones a las juntas receptoras de votos y a las juntas electorales.
 
-**Artículo 166. De la integración del Departamento de Organizaciones Políticas.** El
+##### Artículo 166. 
+**De la integración del Departamento de Organizaciones Políticas.** El
 Departamento de Organizaciones Políticas se integra con un jefe y el personal subalterno
 necesario. El jefe de dicho departamento debe reunir las mismas calidades y tendrá las
 inmunidades, prerrogativas y prohibiciones establecidas en la ley para el Director General del
 Registro de Ciudadanos.
 
-**Artículo 167. Atribuciones.** Son atribuciones del Departamento de Organizaciones Políticas,
+##### Artículo 167. 
+**Atribuciones.** Son atribuciones del Departamento de Organizaciones Políticas,
 las siguientes:
 
 a) Supervisar y coordinar las funciones, en asuntos de su competencia, de las delegaciones
@@ -2742,12 +2807,13 @@ elección popular, de los afiliados de los partidos políticos, de los integrant
 
 e) Las demás funciones que le señalen ésta y otras leyes, reglamentos o disposiciones.
 
-**Artículo 168. De las delegaciones y sub-delegaciones del Registro de Ciudadanos.** El Registro
+##### Artículo 168. 
+**De las delegaciones y sub-delegaciones del Registro de Ciudadanos.** El Registro
 de Ciudadanos tendrá una delegación en cada cabecera departamental y una sub-delegación
 en cada cabecera municipal.
 
-**Artículo 169. De las atribuciones de las delegaciones departamentales y subdelegaciones
-municipales.** Las delegaciones del Registro de Ciudadanos, en las cabeceras departamentales,
+##### Artículo 169. 
+**De las atribuciones de las delegaciones departamentales y subdelegaciones municipales.** Las delegaciones del Registro de Ciudadanos, en las cabeceras departamentales,
 tienen las siguientes atribuciones:
 
 a) Conocer lo relativo a la inscripción de candidatos y comités cívicos electorales dentro de
@@ -2771,7 +2837,8 @@ ejecutar lo relacionado con la capacitación y divulgación electoral; y,
 
 g) Las demás que les asigne el Tribunal Supremo Electoral.
 
-**Artículo 170. De las atribuciones de las subdelegaciones municipales.** Las subdelegaciones
+##### Artículo 170. 
+**De las atribuciones de las subdelegaciones municipales.** Las subdelegaciones
 del Registro de Ciudadanos tienen las siguientes atribuciones:
 
 a) Conocer lo relativo a la inscripción de comités cívicos electorales y de los candidatos
@@ -2790,16 +2857,17 @@ actividades del mismo dentro de su jurisdicción municipal; y,
 
 f) Las demás que les asigne el Tribunal Supremo Electoral.
 
+### CAPITULO TRES
+### Juntas Electorales Departamentales y Municipales
 
-CAPITULO TRES
-Juntas Electorales Departamentales y Municipales
-
-**Artículo 171. Juntas Electorales Departamentales y Municipales.** Las Juntas Electorales
+##### Artículo 171. 
+**Juntas Electorales Departamentales y Municipales.** Las Juntas Electorales
 Departamentales y las Juntas Electorales Municipales, son órganos de carácter temporal,
 encargados de un proceso electoral en su respectiva jurisdicción. Tendrá su sede en la
 cabecera departamental o municipal respectiva.
 
-**Artículo 172. Integración de las juntas electorales.** Las juntas electorales a que se refiere el
+##### Artículo 172. 
+**Integración de las juntas electorales.** Las juntas electorales a que se refiere el
 artículo anterior, se integran con tres miembros propietarios y dos suplentes nombrados por
 el Tribunal Supremo Electoral, para desempeñar los cargos de Presidente, Secretario y Vocal.
 El suplente será llamado en caso de falta o ausencia de algún propietario.
@@ -2807,11 +2875,13 @@ El suplente será llamado en caso de falta o ausencia de algún propietario.
 Para la integración de las juntas electorales y juntas receptoras de votos se deberá tomar en
 cuenta la diversidad sociocultural de la nación y el género.
 
-**Artículo 173. De la disolución de las Juntas Electorales.** Las juntas electorales quedarán
+##### Artículo 173. 
+**De la disolución de las Juntas Electorales.** Las juntas electorales quedarán
 disueltas al declarar el Tribunal Supremo Electoral, concluido el proceso electoral para el cual
 fueron integradas.
 
-**Artículo 174. De las calidades.** Para ser miembro de las juntas electorales departamentales y
+##### Artículo 174. 
+**De las calidades.** Para ser miembro de las juntas electorales departamentales y
 de las juntas electorales municipales, se requiere:
 
 a) Hallarse en el ejercicio de sus derechos de ciudadano.
@@ -2822,7 +2892,8 @@ c) Ser alfabeto; y,
 
 d) No desempeñar cargo directivo alguno en organizaciones políticas.
 
-**Artículo 175. Del desempeño del cargo.** Los cargos de las Juntas Electorales Departamentales
+##### Artículo 175. 
+**Del desempeño del cargo.** Los cargos de las Juntas Electorales Departamentales
 y Municipales son obligatorios y ad-honorem, sin embargo, el Tribunal Supremo Electoral,
 podrá disponer el otorgamiento de viáticos y gastos de representación para los miembros de
 aquellos.
@@ -2834,7 +2905,8 @@ Los empleadores deben conceder a sus trabajadores los permisos necesarios para q
 desempeñar sus funciones como miembros de las juntas, debiendo pagarles los salarios
 respectivos por el tiempo que ocupen en el ejercicio de sus cargos.
 
-**Artículo 176. De las sesiones.** Cada junta electoral celebrará cuantas sesiones sean necesarias.
+##### Artículo 176. 
+**De las sesiones.** Cada junta electoral celebrará cuantas sesiones sean necesarias.
 Sus resoluciones se tomarán con el voto de la mayoría de sus integrantes y se harán constar en
 el acta correspondiente, la cual deberá refrendar el secretario.
 
@@ -2844,7 +2916,8 @@ Tanto para las sesiones de carácter ordinario, como para aquellas de carácter 
 el Presidente de la Junta Electoral respectiva, citará con la debida anticipación a los fiscales de
 los partidos políticos y de los comités cívicos electorales.
 
-**Artículo 177. De las atribuciones de las Juntas Electorales Departamentales.** Son atribuciones
+##### Artículo 177. 
+**De las atribuciones de las Juntas Electorales Departamentales.** Son atribuciones
 de las Juntas Electorales Departamentales:
 
 a) Instalar las Juntas Electorales Municipales y dar posesión a sus miembros;
@@ -2859,7 +2932,6 @@ vez se encuentre firme la respectiva resolución; y enviar al Tribunal Supremo E
 la documentación relativa a las elecciones presidenciales, diputados al Parlamento
 Centroamericano, diputados al Congreso de la República, así como lo relativo a las
 consultas populares; una vez efectuadas las revisiones que ordenan los artículos 238 y
-
 
 239 de esta Ley. Los resultados de la respectiva resolución no podrán ser modificados
 o alterados por autoridad electoral alguna sin que se llevare a cabo el debido proceso
@@ -2889,7 +2961,8 @@ electoral; e
 i) Las demás funciones que le encomiende la ley, sus reglamentos o el Tribunal Supremo
 Electoral.
 
-**Artículo 178. De las atribuciones de las Juntas Electorales Municipales.** Son atribuciones de
+##### Artículo 178. 
+**De las atribuciones de las Juntas Electorales Municipales.** Son atribuciones de
 las Juntas Electorales Municipales:
 
 a) Actuar de conformidad con la ley en la preparación desarrollo y vigilancia del proceso
@@ -2931,21 +3004,22 @@ electoral; y,
 m) Las demás funciones que les confiere la ley, sus reglamentos o el Tribunal Supremo
 Electoral.
 
-**Artículo 179. Plazo para integrar las juntas Electorales Departamentales y las juntas
-Electorales Municipales.** El Tribunal Supremo Electoral deberá integrar las Juntas Electorales
+##### Artículo 179. 
+**Plazo para integrar las juntas Electorales Departamentales y las juntas Electorales Municipales.** El Tribunal Supremo Electoral deberá integrar las Juntas Electorales
 Departamentales con por lo menos tres meses de anticipación y las Juntas Electorales
 Municipales con por lo menos dos meses de antelación, a la fecha en que ha de realizarse la
 elección de que se trate.
 
+### CAPITULO CUATRO
+### Juntas Receptoras de Votos
 
-CAPITULO CUATRO
-Juntas Receptoras de Votos
-
-**Artículo 180. Juntas Receptoras de Votos.** Las Juntas Receptoras de Votos son órganos de
+##### Artículo 180. 
+**Juntas Receptoras de Votos.** Las Juntas Receptoras de Votos son órganos de
 carácter temporal. Tendrán a su cargo y serán responsables de la recepción, escrutinio y
 cómputo de los votos que les corresponda recibir en el proceso electoral.
 
-**Artículo 181. Integración de las Juntas Receptoras de Votos.** Cada junta Receptora de Votos
+##### Artículo 181. 
+**Integración de las Juntas Receptoras de Votos.** Cada junta Receptora de Votos
 estará integrada por tres miembros titulares, que serán nombrados por la junta electoral
 municipal correspondiente y quienes desempeñarán los cargos de Presidente, Secretario y
 Vocal respectivamente, debiéndose integrar a más tardar, quince días antes de la fecha de la
@@ -2955,16 +3029,19 @@ En la misma forma se designará para cada municipio el número de suplentes para
 receptoras de votos que acuerde la respectiva Junta Electoral Municipal, quienes sustituirán a
 los ausentes el día de la elección, en la forma como disponga dicha junta.
 
-**Artículo 182. De las calidades.** Para ser miembro de las Juntas Receptoras de Votos, se requieren
+##### Artículo 182. 
+**De las calidades.** Para ser miembro de las Juntas Receptoras de Votos, se requieren
 las mismas calidades que para ser miembro de las Juntas Electorales Departamentales y
 Municipales.
 
-**Artículo 183. Disolución de las Juntas Receptoras de Votos.** Las Juntas Receptoras de Votos
+##### Artículo 183. 
+**Disolución de las Juntas Receptoras de Votos.** Las Juntas Receptoras de Votos
 quedarán disueltas, al firmarse por sus integrantes el acta de votación y entregarse a la Junta
 Electoral Municipal, la documentación y materiales que recibieron para el ejercicio de sus
 funciones en el proceso electoral.
 
-**Artículo 184. Del desempeño del cargo.** Los cargos en las juntas receptoras de votos son
+##### Artículo 184. 
+**Del desempeño del cargo.** Los cargos en las juntas receptoras de votos son
 obligatorios y ad-honorem, pero sus miembros podrán disfrutar de los viáticos que acuerde el
 Tribunal Supremo Electoral para el día de las elecciones, los cuales no requerirán comprobación.
 
@@ -2976,12 +3053,14 @@ puedan desempeñar sus funciones como miembros de una junta receptora de votos e
 las elecciones, debiendo pagársele los salarios y prestaciones correspondientes por todo el
 tiempo que ocupen en el ejercicio de sus cargos.
 
-**Artículo 185. Participación de Fiscales.** Los fiscales de los partidos políticos y comités cívicos
+##### Artículo 185. 
+**Participación de Fiscales.** Los fiscales de los partidos políticos y comités cívicos
 electorales designados para cada mesa electoral, podrán comparecer ante las mismas
 en cualquier momento para presenciar la elección, cerciorarse de su correcto desarrollo y
 formular las observaciones y protestas que estimen pertinentes.
 
-**Artículo 186. Atribuciones y obligaciones de las juntas receptoras de votos.** Las juntas
+##### Artículo 186. 
+**Atribuciones y obligaciones de las juntas receptoras de votos.** Las juntas
 receptoras de votos tienen las siguientes atribuciones y obligaciones:
 
 a) Abrir y cerrar la votación de acuerdo con la ley y demás disposiciones aplicables.
@@ -3030,14 +3109,13 @@ y comités cívicos electorales que se encuentren presentes; y,
 El Tribunal Supremo Electoral deberá dictar todas las disposiciones necesarias para la correcta
 observancia de las atribuciones y obligaciones a las que se refiere este artículo.
 
+## TITULO TRES
 
-TITULO TRES
+### CAPITULO UNICO
+### Medios de Impugnación
 
-
-CAPITULO UNICO
-Medios de Impugnación
-
-**Artículo 187. Aclaración y ampliación.** Cuando los términos de una resolución sean obscuros,
+##### Artículo 187. 
+**Aclaración y ampliación.** Cuando los términos de una resolución sean obscuros,
 ambiguos o contradictorios, podrá pedirse que se aclaren.
 
 Si se hubiere omitido resolver alguno de los puntos sobre los que versare el asunto, podrá
@@ -3047,12 +3125,14 @@ solicitarse la ampliación.
 La solicitud deberá presentarse dentro de las cuarenta y ocho horas de notificada la resolución,
 y deberá ser resuelta dentro de los tres días siguientes a su presentación.
 
-**Artículo 188. De la revocatoria.** Contra las resoluciones definitivas dictadas por las
+##### Artículo 188. 
+**De la revocatoria.** Contra las resoluciones definitivas dictadas por las
 dependencias del Registro de Ciudadanos o las delegaciones del mismo, podrá interponerse
 recurso de revocatoria, por escrito, ante el propio funcionario que dictó la resolución
 impugnada y dentro de los tres días siguientes al de la última notificación.
 
-**Artículo 189. Del trámite del recurso de revocatoria.** Si el recurso de revocatoria se interpuso
+##### Artículo 189. 
+**Del trámite del recurso de revocatoria.** Si el recurso de revocatoria se interpuso
 ante el funcionario que dictó la resolución, éste deberá elevarlo al Director del Registro de
 Ciudadanos en un plazo de cuarenta y ocho horas.
 
@@ -3063,14 +3143,16 @@ respectivo, en un plazo de cuarenta y ocho horas.
 El recurso deberá resolverse en un plazo no mayor de cinco días y ser notificado a más tardar
 dos días después de la fecha de la resolución.
 
-**Artículo 190. De la apelación.** En contra de las resoluciones definitivas que emita el
+##### Artículo 190. 
+**De la apelación.** En contra de las resoluciones definitivas que emita el
 Director General del Registro de Ciudadanos procede el recurso de apelación, el cual deberá
 interponerse ante dicha autoridad en el término de tres días contados desde la última
 notificación. Se entiende por resolución definitiva aquella que pone fin a un asunto, la que
 resuelve un recurso de revocatoria y aquellas otras señaladas específicamente en esta ley. En
 igual forma debe procederse en todas las demás apelaciones que la misma establece.
 
-**Artículo 191. Del trámite del recurso de apelación.** Interpuesto el recurso, con notificación a
+##### Artículo 191. 
+**Del trámite del recurso de apelación.** Interpuesto el recurso, con notificación a
 los interesados, el expediente y un informe circunstanciado se elevarán al Tribunal Supremo
 Electoral en un plazo de tres días. El Tribunal Supremo Electoral dará audiencia a los interesados
 por el plazo de tres días y con su contestación o sin ella, en el plazo de ocho días será dictada
@@ -3082,37 +3164,37 @@ que estime pertinentes.
 Se abrirá a prueba el expediente únicamente a solicitud de parte o si el Tribunal Supremo
 Electoral lo estima pertinente, por el plazo de cinco días.
 
-**Artículo 192. Objeto del amparo.** Las resoluciones, acuerdos y actos que el Tribunal Supremo
+##### Artículo 192. 
+**Objeto del amparo.** Las resoluciones, acuerdos y actos que el Tribunal Supremo
 Electoral dicte o ejecute, podrán ser objeto de amparo en los casos previstos en la ley
 constitucional de la materia.
 
-### LIBRO CUATRO
+# LIBRO CUATRO
+# Proceso electoral
 
+## TITULO ÚNICO
+## Desarrollo del proceso electoral
 
-Proceso electoral
+### CAPITULO UNO
+### Disposiciones generales
 
-
-TITULO ÚNICO
-Desarrollo del proceso electoral
-
-
-CAPITULO UNO
-Disposiciones generales
-
-**Artículo 193. Del proceso electoral.** El proceso electoral se inicia con la convocatoria a
+##### Artículo 193. 
+**Del proceso electoral.** El proceso electoral se inicia con la convocatoria a
 elecciones y termina al ser declarado su conclusión por el Tribunal Supremo Electoral.
 
 Durante el proceso electoral, en lo relativo a esta materia, todos los días y horas se reputan
 hábiles.
 
-**Artículo 194. De la vigencia plena de los derechos constitucionales.** El proceso electoral
+##### Artículo 194. 
+**De la vigencia plena de los derechos constitucionales.** El proceso electoral
 deberá realizarse en un ambiente de libertad y plena vigencia de los derechos constitucionales.
 La declaratoria de un estado de excepción no suspenderá el proceso electoral. La Ley de Orden
 Público deberá garantizar la vigencia de los derechos y libertades constitucionales necesarios
 para que la actividad electoral y de campañas políticas pueda llevarse a cabo de manera que
 no afecte el proceso electoral ni incida en sus resultados.
 
-**Artículo 195. De la colaboración de las autoridades.** Todas las fuerzas de seguridad del Estado
+##### Artículo 195. 
+**De la colaboración de las autoridades.** Todas las fuerzas de seguridad del Estado
 deberán prestar el auxilio que las autoridades y funcionarios de los órganos electorales, así
 como las organizaciones políticas requieran, para asegurar el orden, garantizar la libertad y la
 legalidad del proceso electoral.
@@ -3122,11 +3204,11 @@ e integrantes de los órganos electorales, para asegurar la eficiencia del proce
 
 El auxilio y colaboración que se preste se hará bajo responsabilidad de quien fuere requerido.
 
+### CAPITULO DOS
+### Convocatoria y elecciones
 
-CAPITULO DOS
-Convocatoria y elecciones
-
-**Artículo 196. De la convocatoria**. El proceso electoral para elecciones generales y diputados
+##### Artículo 196. 
+**De la convocatoria**. El proceso electoral para elecciones generales y diputados
 al Parlamento Centroamericano, dará inicio con la convocatoria, la cual será dictada por el
 Tribunal Supremo Electoral la segunda o tercera semana del mes de enero del año en el que
 se celebren dichas elecciones. El proceso electoral se dividirá en tres fases:
@@ -3134,7 +3216,6 @@ se celebren dichas elecciones. El proceso electoral se dividirá en tres fases:
 a) La primera, concerniente al proceso de postulación e inscripción de candidaturas a cargos
 de elección popular, que dará inicio un día después de la convocatoria y terminará un día
 antes del inicio de la segunda fase definida en la literal b) de este artículo; en este período
-
 
 es prohibida la realización de propaganda electoral.
 
@@ -3162,7 +3243,8 @@ El decreto de convocatoria para la elección de diputados a la Asamblea Nacional
 y de consulta popular se dictará con una anticipación no menor de noventa días a la fecha de
 celebración.
 
-**Artículo 197. De los requisitos de la convocatoria.** Todo decreto de convocatoria deberá
+##### Artículo 197. 
+**De los requisitos de la convocatoria.** Todo decreto de convocatoria deberá
 contener como mínimo lo siguientes requisitos:
 
 a) Objeto de la elección;
@@ -3173,14 +3255,15 @@ c) Distrito electoral o circunscripciones electorales en que debe realizarse; y
 
 d) Cargos a elegir.
 
-**Artículo 198. Del sufragio.** Es el derecho que le asiste a un ciudadano debidamente
+##### Artículo 198. 
+**Del sufragio.** Es el derecho que le asiste a un ciudadano debidamente
 empadronado de acudir a las urnas a manifestar su voluntad mediante el voto, sea una
 elección a cargos públicos o una consulta popular.
 
-**Artículo 199. Clases de comicios:**
+##### Artículo 199. 
+**Clases de comicios:**
 
 a) Elecciones generales que comprenden: La elección de Presidente y Vicepresidente de
-
 
 la República, así como de los diputados al Congreso de la República y Corporaciones
 Municipales.
@@ -3191,7 +3274,8 @@ c) Elección de diputados al Parlamento Centroamericano.
 
 d) Consulta popular.
 
-**Artículo 200. De la calificación del sufragio.** En la calificación del sufragio se aplicarán los
+##### Artículo 200. 
+**De la calificación del sufragio.** En la calificación del sufragio se aplicarán los
 siguientes sistemas:
 
 a) Mayoría absoluta;
@@ -3200,7 +3284,8 @@ b) Mayoría relativa;
 
 c) Representación proporcional de minorías.
 
-**Artículo 201. De la mayoría absoluta.** Este sistema, aplicable tan solo a las elecciones de
+##### Artículo 201. 
+**De la mayoría absoluta.** Este sistema, aplicable tan solo a las elecciones de
 Presidente y Vicepresidente de la República, consiste en que la planilla triunfadora deberá
 obtener, por lo menos, la mitad más uno de los votos válidos emitidos. Si en la primera
 elección ninguna de las planillas obtuviere tal mayoría, deberá llevarse a cabo la segunda
@@ -3210,11 +3295,13 @@ que sólo figurarán postuladas las planillas que hayan alcanzado mayor cantidad
 los primeros comicios, y ganará la elección la planilla que obtenga a su favor, por lo menos, la
 mitad más uno de los votos válidos.
 
-**Artículo 202. Mayoría relativa.** Con el sistema de mayoría relativa, aplicable a las elecciones
+##### Artículo 202. 
+**Mayoría relativa.** Con el sistema de mayoría relativa, aplicable a las elecciones
 municipales de alcaldes y síndicos, obtendrá la elección en su totalidad la planilla que haya
 alcanzado el mayor número de votos válidos.
 
-**Artículo 203. De la representación proporcional de minorías.** Las elecciones de diputados,
+##### Artículo 203. 
+**De la representación proporcional de minorías.** Las elecciones de diputados,
 por lista nacional, por planilla distrital, a diputados al Parlamento Centroamericano, así como
 las de concejales para las corporaciones municipales, se llevarán a cabo por el método de
 representación proporcional de minorías.
@@ -3236,7 +3323,8 @@ Todas las adjudicaciones se harán estrictamente en el orden correlativo estable
 listas o planillas, iniciándose con quien encabece y continuándose con quienes le sigan en
 riguroso orden, conforme el número de electos alcanzado.
 
-**Artículo 203 Bis. Efectos de la mayoría absoluta de votos nulos.** Si en los sistemas de votación,
+##### Artículo 203Bis. 
+**Efectos de la mayoría absoluta de votos nulos.** Si en los sistemas de votación,
 los votos nulos sumados en alguno de dicho sistema, fueren más de la mitad de los votos
 válidamente emitidos, el Tribunal Supremo Electoral acordará y declarará en única instancia la
 nulidad de las elecciones en donde corresponda y se repetirán éstas, por única vez, debiendo
@@ -3244,7 +3332,8 @@ los partidos políticos y en su caso los comités cívicos electorales, postular
 cargos públicos correspondientes. Para el efecto se procederá en lo aplicable de acuerdo con
 el artículo 210 de esta Ley.
 
-**Artículo 204. De las suplencias.** En caso de fallecimiento, renuncia, pérdida o suspensión de
+##### Artículo 204. 
+**De las suplencias.** En caso de fallecimiento, renuncia, pérdida o suspensión de
 la ciudadanía de un candidato a cualquier cargo de elección popular después de cerrada la
 inscripción, se entenderá que la candidatura y, en su caso, la elección, corresponde a quien
 deba sustituirlo conforme a las normas legales vigentes.
@@ -3263,7 +3352,8 @@ escaño no hubiere postulado más candidatos, el cargo se le adjudicará al cand
 político que sí postuló candidato y que según el sistema de representación proporcional le
 corresponda.
 
-**Artículo 205. De la Integración del Congreso de la República.** El Congreso de la República se
+##### Artículo 205. 
+**De la Integración del Congreso de la República.** El Congreso de la República se
 integra con diputados electos en los distritos electorales y por el sistema de lista nacional, cada
 departamento de la República constituye un distrito electoral, con excepción del departamento
 de Guatemala, en el cual el municipio del mismo nombre comprenderá el Distrito Central y los
@@ -3321,7 +3411,8 @@ w) Jutiapa: 4 diputados
 Los 32 diputados electos por el sistema de lista nacional constituyen el veinticinco por ciento
 del número total de diputados distritales que integran el Congreso de la República.
 
-**Artículo 205 Ter. Del transfuguismo.** Se entenderá por transfuguismo el acto por el cual un
+##### Artículo 205Ter. 
+**Del transfuguismo.** Se entenderá por transfuguismo el acto por el cual un
 diputado, renuncia a un partido político, habiendo sido electo o cuando ya está ejerciendo
 el cargo, mediante sufragio universal, para un período, y estuviere designado en uno de
 los órganos establecidos, automáticamente cesa en el cargo del órgano del Congreso que
@@ -3333,7 +3424,8 @@ Queda prohibido a las organizaciones políticas y a los bloques legislativos del
 la República, recibir o incorporar a diputados que hayan sido electos por otra organización
 política.
 
-**Artículo 206. De la integración de las Corporaciones Municipales.** Cada Corporación Municipal
+##### Artículo 206. 
+**De la integración de las Corporaciones Municipales.** Cada Corporación Municipal
 se integrará con el Alcalde, Síndicos y Concejales, titulares y suplentes, de conformidad con el
 número de habitantes, así:
 
@@ -3381,7 +3473,8 @@ Queda prohibido a las organizaciones políticas recibir o incorporar integrantes
 corporaciones municipales que hayan sido electos por otra organización política, prohibición
 que será aplicable por tres años a partir de realizada la elección general
 
-**Artículo 207. Del período municipal.** Todas las Corporaciones Municipales durarán en sus
+##### Artículo 207. 
+**Del período municipal.** Todas las Corporaciones Municipales durarán en sus
 funciones cuatro años. En caso de no haberse practicado elección de alcalde y Corporación
 Municipal, o si habiéndose practicado, la misma se declara nula, el alcalde y la corporación
 municipal en funciones continuarán desempeñándolas hasta la toma de posesión de quienes
@@ -3389,13 +3482,15 @@ sean electos.
 
 El alcalde y la Corporación Municipal electos completarán el período respectivo.
 
-**Artículo 208. De las operaciones de adjudicación.** Las operaciones matemáticas realizadas
+##### Artículo 208. 
+**De las operaciones de adjudicación.** Las operaciones matemáticas realizadas
 para determinar la adjudicación de cargos por los diferentes sistemas de comicios regulados en
 esta ley, quedarán consignadas en acta especial de la respectiva Junta Electoral Departamental
 o del Tribunal Supremo Electoral, según el caso con intervención optativa de los fiscales de las
 organizaciones políticas acreditadas para el efecto.
 
-**Artículo 209. Resoluciones finales y su contenido.** El Tribunal Supremo Electoral resolverá
+##### Artículo 209. 
+**Resoluciones finales y su contenido.** El Tribunal Supremo Electoral resolverá
 en única instancia la elección presidencial, las de diputados al Congreso de la República o
 a la Asamblea Nacional Constituyente, Parlamento Centroamericano y consultas populares,
 dictando una sola resolución para la primera, según se defina en primera o segunda ronda,
@@ -3418,7 +3513,8 @@ Las resoluciones que se dicten podrán impugnarse conforme los artículos 246 y 
 ley, por cualquiera de los partidos políticos o comités cívicos que hayan participado en la
 elección.
 
-**Artículo 210. De la repetición de un proceso electoral.** Declarada la nulidad de una elección
+##### Artículo 210. 
+**De la repetición de un proceso electoral.** Declarada la nulidad de una elección
 por el Tribunal Supremo Electoral se repetirá ésta, y para tal efecto se hará la convocatoria
 correspondiente dentro del plazo de quince días a contar de la declaratoria de nulidad, y la
 nueva elección se llevará a cabo dentro de los sesenta días siguientes.
@@ -3430,7 +3526,8 @@ sesenta días antes de la fecha en que se celebren las elecciones; los treinta d
 para inscripción de candidatos; y, las elecciones se efectuarán un domingo del mes de octubre
 del mismo año.
 
-**Artículo 211. De la toma de posesión.** El Presidente y Vicepresidente de la República y los
+##### Artículo 211. 
+**De la toma de posesión.** El Presidente y Vicepresidente de la República y los
 diputados al Congreso de la República electos, tomarán posesión de sus cargos el día catorce
 de enero siguiente a su elección.
 
@@ -3442,21 +3539,23 @@ debida oportunidad, la toma de posesión no puede realizarse en las fechas antes
 los funcionarios electos tomarán posesión dentro del plazo de ocho días siguientes a la fecha
 de adjudicación de sus cargos.
 
+### CAPITULO TRES
+### POSTULACIÓN E INSCRIPCIÓN DE CANDIDATOS
 
-CAPITULO TRES
-POSTULACIÓN E INSCRIPCIÓN DE CANDIDATOS
-
-**Artículo 212. De la postulación e inscripción de candidatos.** Los partidos políticos legalmente
+##### Artículo 212. 
+**De la postulación e inscripción de candidatos.** Los partidos políticos legalmente
 reconocidos podrán postular e inscribir candidatos para todos los cargos de elección popular.
 Los comités cívicos electorales sólo podrán hacerlo para los cargos de alcalde y Corporaciones
 Municipales. Un mismo ciudadano solamente podrá ser postulado e inscrito para un cargo de
 elección popular y en una sola circunscripción.
 
-**Artículo 213. De la solicitud de inscripción de candidatos.** La solicitud de inscripción de
+##### Artículo 213. 
+**De la solicitud de inscripción de candidatos.** La solicitud de inscripción de
 candidatos, debe ser presentada ante el Registro de Ciudadanos, por los representantes
 legales de las organizaciones políticas que los postulen.
 
-**Artículo 214. De los requisitos de inscripción.** La inscripción se solicitará por escrito en los
+##### Artículo 214. 
+**De los requisitos de inscripción.** La inscripción se solicitará por escrito en los
 formularios que proporcionará el Registro de Ciudadanos para este efecto, en los cuales
 deberán consignarse los datos y aportar los siguientes documentos:
 
@@ -3478,11 +3577,13 @@ deberá ser superior a seis meses.
 
 g) Otros requisitos que establezca la Constitución Politica de la República y la presente Ley.
 
-**Artículo 215. Del plazo para la inscripción.** El período de inscripción de candidatos a cargos
+##### Artículo 215. 
+**Del plazo para la inscripción.** El período de inscripción de candidatos a cargos
 de elección popular, se realizará en la primera fase del proceso electoral, de conformidad con
 lo establecido en el artículo 196 de esta Ley.
 
-**Artículo 216. Del trámite de inscripción.** El Departamento de Organizaciones Políticas del
+##### Artículo 216. 
+**Del trámite de inscripción.** El Departamento de Organizaciones Políticas del
 Registro de Ciudadanos o su respectiva Delegación Departamental, al recibir la solicitud de
 inscripción, la revisará cuidadosamente y la elevará, con su informe, dentro del plazo de dos
 días al Director de dicho Registro, quien deberá resolverla dentro del término de tres días.
@@ -3513,7 +3614,8 @@ inscrito a la que se refiere el párrafo anterior.
 
 El reglamento normará lo relacionado a este articulo.
 
-**Artículo 217. Derecho de antejuicio.** Desde el momento de su inscripción, los candidatos
+##### Artículo 217. 
+**Derecho de antejuicio.** Desde el momento de su inscripción, los candidatos
 presidenciales y vicepresidenciales no podrán ser detenidos o procesados, salvo que la Corte
 
 Suprema de Justicia declare que ha lugar a formación de causa en su contra. Tampoco podrán
@@ -3522,7 +3624,8 @@ de Apelaciones haga igual declaratoria. Se exceptúa el caso de flagrante delito
 podrán ser detenidos los candidatos, pero puestos inmediatamente a disposición del tribunal
 que corresponda, para los efectos consiguientes.
 
-**Artículo 218. De las papeletas electorales.** Las papeletas electorales que se utilizarán en cada
+##### Artículo 218. 
+**De las papeletas electorales.** Las papeletas electorales que se utilizarán en cada
 mesa de votación se prepararán conforme al reglamento, debiéndose imprimir la cantidad
 necesaria.
 
@@ -3531,11 +3634,11 @@ y comités cívicos electorales, aprobarán por mayoría absoluta de votos de lo
 el modelo de papeletas a utilizarse para la emisión del voto. Asimismo, podrán vigilar el
 procedimiento de elaboración de las mismas.
 
+### CAPITULO CUATRO
+### PROPAGANDA ELECTORAL
 
-CAPITULO CUATRO
-PROPAGANDA ELECTORAL
-
-**Artículo 219. Requisitos de la propaganda electoral y garantía de su ejercicio.** La propaganda
+##### Artículo 219. 
+**Requisitos de la propaganda electoral y garantía de su ejercicio.** La propaganda
 electoral es toda actividad, ejercida únicamente durante el proceso electoral, realizada por las
 organizaciones pollticas, coaliciones, candidatos, afiliados, simpatizantes, personas jurídicas
 individuales y colectivas, con el objeto de difundir programas de gobierno; captar, estimular
@@ -3579,8 +3682,8 @@ público, el candidato al que promoviera la propaganda correspondiente, será el
 de pagar los costos antes mencionados, y en el caso de propaganda política que promueve
 genéricamente a un partido político, el responsable será la organización política promovida.
 
-**Artículo 220. Distribución ígualitaria de recursos públicos para espacíos y tiempos en los
-medios de comunícación social.** El Tribunal Supremo Electoral, en época de elecciones
+##### Artículo 220. 
+**Distribución ígualitaria de recursos públicos para espacíos y tiempos en los medios de comunícación social.** El Tribunal Supremo Electoral, en época de elecciones
 generales y de diputaciones al Parlamento Centroamericano, para una distribución igualitaria
 de recursos públicos, espacios y tiempos en los medios de comunicación social, entre los
 partidos políticos:
@@ -3643,7 +3746,8 @@ Para el caso de los comités cívicos electorales podrán pautar, a través del 
 Electoral, en los medios de comunicación social hasta el diez por ciento (10%) de su
 financiamiento privado.
 
-**Artículo 221. Prohibiciones.** Los partidos políticos y candidatos a cargos de elección popular,
+##### Artículo 221. 
+**Prohibiciones.** Los partidos políticos y candidatos a cargos de elección popular,
 en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos y
 espacios en cualquier modalidad en los medios de comunicación a lo que se refiere el artículo
 220 de la presente Ley. Tampoco podrán contratar los dirigentes y afiliados de un partido
@@ -3654,7 +3758,8 @@ Ninguna persona individual o jurídica, sea a título propio o por cuenta de ter
 propaganda electoral en los diferentes medios de comunicación. Las infracciones a lo establecido
 en el presente párrafo serán sancionadas conforme a la ley.
 
-**Artículo 222. De los medios de comunicación social.** A requerimiento del Tribunal Supremo
+##### Artículo 222. 
+**De los medios de comunicación social.** A requerimiento del Tribunal Supremo
 Electoral, los medios de comunicación social, durante las dos últimas semanas del mes de
 diciembre del año anterior al que se realice el proceso electoral, remitirán su pliego tarifarío, así
 como la disponibilidad dentro de sus difererites franjas; las tarifas para las organizaciones políticas
@@ -3677,7 +3782,8 @@ comunicación social, sus representantes legales y directores, quienes podrán s
 sanciones pecuniarias y penales, al incumplir las limitaciones establecidas en materia de campaña
 electoral.
 
-**Artículo 223. De las prohibiciones.** Durante cualquier proceso electoral es terminantemente
+##### Artículo 223. 
+**De las prohibiciones.** Durante cualquier proceso electoral es terminantemente
 prohibido:
 
 a) Hacer propaganda electoral pegando o pintando rótulos en efigies, paredes, señales, rótulos,
@@ -3729,7 +3835,6 @@ con fines electorales.
 
 n) Realizar actividades de propaganda anticipada.
 
-
 La utilización de los colores y tipografía que identifiquen a una organización política en las
 actividades, documentos, publicidad, medios electrónicos o cualquier publicación en las que
 se identifique o dé a conocer la ejecución de programas o actividades oficiales.
@@ -3738,15 +3843,13 @@ o) Rotular instalaciones o vehículos oficiales con el nombre de cualquier funci
 
 p) Denominar obras, proyectos o cualquier actividad pública con el nombre de un funcionario
 
-ñ)
-
-
-mientras no haya transcurrido dos periodos de haber dejado el ejercicio del cargo.
+ñ) mientras no haya transcurrido dos periodos de haber dejado el ejercicio del cargo.
 
 La infracción a cualquiera de estas prohibiciones se sancionará de conformidad con lo dispuesto
 en esta Ley.
 
-**Artículo 223 Bis. De las prohíbiciones permanentes.** Les queda prohibido a los funcionarios
+##### Artículo 223Bis. 
+**De las prohíbiciones permanentes.** Les queda prohibido a los funcionarios
 públicos, en cualquier tiempo, lo siguiente:
 
 a) La utilización de los colores que identifican a un partido político en las actividades, papelería,
@@ -3759,16 +3862,16 @@ entidad o administración.
 c) Nombrar obras, proyectos o cualquier actividad pública con el nombre de un funcionario
 mientras no haya transcurrido dos períodos de haber dejado el ejercicio del cargo.
 
-**Artículo 223 Ter.** En ningún caso podrán publicarse estudios de opinión, dentro de los quince días
+##### Artículo 223Ter. 
+**DELETE** En ningún caso podrán publicarse estudios de opinión, dentro de los quince días
 previos al día de la elección.
 
 Las personas individuales o jurídicas, propietarios de medios de comunicación que publiquen los
 resultados de estudios de opinión en infracción de lo dispuesto en el presente artículo, serán
 solidariamente responsables.
 
-
-CAPITULO CINCO
-PADRÓN ELECTORAL
+### CAPITULO CINCO
+### PADRÓN ELECTORAL
 
 **ARTICULO 224. Del padrón electoral.** Con los ciudadanos residentes en cada municipio que se
 hayan inscrito en el Registro de Ciudadanos, se elaborará un padrón electoral municipal. Cada
@@ -3790,7 +3893,8 @@ El Registro de Ciudadanos preparará el padrón electoral con base en los datos 
 de ciudadanos y deberá mantenerlo actualizado. El padrón electoral se cierra ciento veinte días
 previos a la realización de las elecciones generales.
 
-**Artículo 225. De la impresión, publicidad y gratuidad del padrón electoral.** El padrón electoral
+##### Artículo 225. 
+**De la impresión, publicidad y gratuidad del padrón electoral.** El padrón electoral
 debe ser depurado entre la primera y la segunda semana del mes de abril del año en que se realiza
 la elección.
 
@@ -3812,15 +3916,16 @@ Todas las operaciones relativas a la inscripción, supresión y traslado de ciud
 electoral y la extensión de las constancias de inscripciones, serán efectuadas por el Registro de
 Ciudadanos sin costo alguno para los interesados.
 
-**Artículo 226. De las peticiones y objeciones.** El Director General del Registro de Ciudadanos, conocerá
+##### Artículo 226. 
+**De las peticiones y objeciones.** El Director General del Registro de Ciudadanos, conocerá
 y resolverá petición o impugnación que se plantee en relación a la inscripción de ciudadanos o al padrón
 electoral.
 
+### CAPITULO SEIS
+### DOCUMENTOS Y MATERIALES ELECTORALES
 
-CAPITULO SEIS
-DOCUMENTOS Y MATERIALES ELECTORALES
-
-**Artículo 227. De los documentos.** Para cada sufragio, las Juntas Receptoras de Votos deberán
+##### Artículo 227. 
+**De los documentos.** Para cada sufragio, las Juntas Receptoras de Votos deberán
 contar, como mínimo, con los siguientes documentos:
 
 a) El padrón electoral respectivo;
@@ -3838,7 +3943,8 @@ f) Papeletas electorales;
 
 g) Los demás documentos que indique el reglamento respectivo.
 
-**Artículo 228. De los materiales electorales.** En cada sufragio, toda Junta Receptora de Votos
+##### Artículo 228. 
+**De los materiales electorales.** En cada sufragio, toda Junta Receptora de Votos
 deberá contar, como mínimo, con los siguientes enseres:
 
 a) Una mesa, que contendrá las respectivas urnas electorales;
@@ -3858,17 +3964,18 @@ f) Un saco electoral;
 
 g) Los demás materiales que indique el reglamento respectivo.
 
+### CAPITULO SIETE
+### VOTACIÓN
 
-CAPITULO SIETE
-VOTACIÓN
-
-**Artículo 229. Número de juntas receptoras de votos.** A más tardar sesenta días antes de la fecha
+##### Artículo 229. 
+**Número de juntas receptoras de votos.** A más tardar sesenta días antes de la fecha
 fijada para la celebración del sufragio, el Tribunal Supremo Electoral determinará la cantidad
 necesaria de juntas receptoras de votos para cada municipio y se la comunicará inmediatamente
 a los fiscales nacionales de los partidos políticos y a las juntas electorales departamentales y
 municipales, para que éstas procedan a la instalación de las mismas.
 
-**Artículo 230. Normas para determinar el número de Juntas Receptoras de Votos.** Para determinar
+##### Artículo 230. 
+**Normas para determinar el número de Juntas Receptoras de Votos.** Para determinar
 el número de Juntas Receptoras de Votos que deben integrarse en cada municipio, el Tribunal
 Supremo Electoral aplicará las siguientes normas:
 
@@ -3877,7 +3984,8 @@ a) A cada Junta Receptora de Votos se asignará un máximo de seiscientos electo
 b) Los electores se distribuirán, de acuerdo al orden numérico de su inscripción en el Registro de
 Ciudadanos.
 
-**Artículo 231. Instalación de las juntas receptoras de votos.** Es obligación de las juntas electorales
+##### Artículo 231. 
+**Instalación de las juntas receptoras de votos.** Es obligación de las juntas electorales
 municipales instalar las juntas receptoras de votos en las cabeceras municipales, aldeas, caseríos,
 cantones u otros lugares donde existan más de quinientos empadronados; en caso de existir
 núcleos poblacionales con menos de quinientos empadronados, el Tribunal Supremo Electoral
@@ -3886,16 +3994,19 @@ conjuntar el número establecido, cumpliéndose, en ambos casos, previamente lo 
 
 párrafo segundo del artículo 224 de esta ley.
 
-**Artículo 232. De la secretividad del voto.** El Tribunal Supremo Electoral y las juntas electorales
+##### Artículo 232. 
+**De la secretividad del voto.** El Tribunal Supremo Electoral y las juntas electorales
 municipales están obligadas a dictar las disposiciones y tomar las medidas que garanticen la
 secretividad del voto, la comodidad del votante y que las juntas receptoras de votos no sean
 perturbadas en el ejercicio de sus funciones.
 
-**Artículo 233. De la fiscalización del proceso.** El desarrollo de cada proceso electoral será fiscalizado
+##### Artículo 233. 
+**De la fiscalización del proceso.** El desarrollo de cada proceso electoral será fiscalizado
 por los órganos electorales y por las organizaciones políticas que participen, en la forma que regula
 esta ley y el reglamento.
 
-**Artículo 234. Nulidad de votaciones.** Es nula la votación en la Junta Receptora cuando:
+##### Artículo 234. 
+**Nulidad de votaciones.** Es nula la votación en la Junta Receptora cuando:
 
 a) La bolsa que contiene los votos hubiere sido violada.
 
@@ -3906,7 +4017,8 @@ proceso electoral;
 c) Se haya cometido cualquier otro acto que razonablemente pueda haber alterado el resultado
 de la votación.
 
-**Artículo 235. Nulidad especial.** El Tribunal Supremo Electoral declarará la nulidad de las
+##### Artículo 235. 
+**Nulidad especial.** El Tribunal Supremo Electoral declarará la nulidad de las
 elecciones efectuadas en cualquier municipio, a solicitud de cualquier organización política que
 esté participando en el evento, o de oficio, si en más de un tercio de las juntas receptoras de
 votos se hubiere declarado nulidad. Podrá, asimismo, declarar nulidad si hubieren sufrido actos de
@@ -3914,12 +4026,14 @@ destrucción o sabotaje, antes, durante o después de la elección.
 
 En caso de empate se repetirá la elección en la fecha que establezca el Tribunal Supremo Electoral.
 
-**Artículo 236. Del inicio y cierre de la votación.** La votación se deberá iniciar en todas las juntas
+##### Artículo 236. 
+**Del inicio y cierre de la votación.** La votación se deberá iniciar en todas las juntas
 receptoras de votos a las siete horas del día señalado. El cierre del centro de votaciones será a las
 dieciocho horas, pero tendrán derecho a ejercer el sufragio las personas que en ese momento
 estén en la fila de cada mesa receptora.
 
-**Artículo 237. Del escrutinio.** Cerrada la votación, los miembros de la Junta Receptora de Votos
+##### Artículo 237. 
+**Del escrutinio.** Cerrada la votación, los miembros de la Junta Receptora de Votos
 procederán a la apertura de las urnas y al escrutinio de votos, comprobando que coinciden con el
 número de votantes, y en su caso, consignando en el acta cualquier diferencia; luego, se procederá
 a contar los votos emitidos a favor de cada planilla, los votos que se encuentren en blanco y los
@@ -3937,7 +4051,8 @@ legítimas, aquellos que pertenezcan a distrito electoral diferente o que no cor
 Receptora de Votos de que se trate, así como aquellos votos que en cualquier forma revelen la
 identidad del votante.
 
-**Artículo 238. De la revisión de escrutinios.** Una vez recibidas las actas y demás documentación por
+##### Artículo 238. 
+**De la revisión de escrutinios.** Una vez recibidas las actas y demás documentación por
 la respectiva Junta Electoral Departamental, ésta señalará una audiencia que tendrá verificativo, a
 más tardar, dentro de los cinco días hábiles siguientes a la votación, para proceder a la revisión de
 los escrutinios practicados por las juntas receptoras de votos que funcionen en el departamento,
@@ -3950,26 +4065,29 @@ cada Junta Electoral Departamental deberá tener organizado un cuerpo de revisor
 se determinará en consideración a la cantidad de mesas electorales y volumen de trabajo que se
 anticipe. El reglamento regulará lo relativo a la revisión.
 
-**Artículo 239. Del procedimiento para la revisión.** Las diligencias de revisión de escrutinios se
+##### Artículo 239. 
+**Del procedimiento para la revisión.** Las diligencias de revisión de escrutinios se
 efectuarán de acuerdo con la presente ley y las normas procesales que establezca el reglamento.
 
-**Artículo 240. De la comunicación de los resultados.** El Presidente de cada Junta Receptora de
+##### Artículo 240. 
+**De la comunicación de los resultados.** El Presidente de cada Junta Receptora de
 Votos, tan pronto haya entregado el saco electoral a la Junta Electoral Municipal, está obligado a
 informar esta circunstancia al Tribunal Supremo Electoral. En el informe deberá consignar además,
 en letras y números, los resultados electorales obtenidos en la Junta Receptora de Votos; esta
 comunicación se hará por la vía más rápida.
 
 ### CAPITULO OCHO
-
 ### VERIFICACIÓN Y CALIFICACIÓN DE LOS DOCUMENTOS ELECTORALES
 
-**Artículo 241. De la custodia.** Para la protección de los sacos que contienen la documentación
+##### Artículo 241. 
+**De la custodia.** Para la protección de los sacos que contienen la documentación
 electoral, las autoridades de policía deberán proporcionar a las Juntas Electorales Municipales
 el número de custodios necesarios. Las Juntas Electorales Municipales, deberán nombrar
 acompañantes, en calidad de supervisores oficiales, y las organizaciones políticas podrán designar
 fiscales para el traslado.
 
-**Artículo 242. De los sacos.** Al recibir las Juntas Electorales Departamentales los sacos que
+##### Artículo 242. 
+**De los sacos.** Al recibir las Juntas Electorales Departamentales los sacos que
 contengan la documentación electoral, procederán a clasificarlos por municipio, y a examinarlos
 
 para constatar la condición física en que se reciben pudiendo estar presentes los fiscales
@@ -3977,30 +4095,34 @@ acreditados por las organizaciones políticas. Aquellos que presenten indicio de
 no se abrirán, se levantará el acta respectiva y se enviarán al Tribunal Supremo Electoral para que
 resuelva lo procedente.
 
-**Artículo 243. Verificación y calificación de la documentación electoral.** El Tribunal Supremo
+##### Artículo 243. 
+**Verificación y calificación de la documentación electoral.** El Tribunal Supremo
 Electoral y las Juntas Electorales Departamentales, conforme a las atribuciones que les confiere esta
 ley, son los únicos órganos competentes para verificar y calificar la documentación electoral. Los
 fiscales debidamente acreditados por las organizaciones políticas participantes en los respectivos
 procesos, tienen derecho a estar presentes en las diligencias.
 
-**Artículo 244. Certificaciones.** Al quedar firme la calificación de una elección o consulta popular, el
+##### Artículo 244. 
+**Certificaciones.** Al quedar firme la calificación de una elección o consulta popular, el
 Secretario del Tribunal Supremo Electoral o el de la Junta Departamental Electoral que corresponda,
 extenderán inmediatamente las certificaciones que soliciten los fiscales debidamente acreditados.
 
-**Artículo 245. Divulgación de resultados.** El Tribunal Supremo Electoral está obligado a divulgar por
+##### Artículo 245. 
+**Divulgación de resultados.** El Tribunal Supremo Electoral está obligado a divulgar por
 todos los medios de comunicación, los resultados electorales, parciales y definitivos, dentro del
 plazo de ocho días siguientes a la terminación del proceso electoral.
 
+### CAPITULO NUEVE
+### RECURSOS DURANTE EL PROCESO ELECTORAL
 
-CAPITULO NUEVE
-RECURSOS DURANTE EL PROCESO ELECTORAL
-
-**Artículo 246. Del recurso de nulidad.** Contra todo acto y resolución del proceso electoral procede
+##### Artículo 246. 
+**Del recurso de nulidad.** Contra todo acto y resolución del proceso electoral procede
 el recurso de nulidad, el cual debe ser interpuesto dentro de los tres días hábiles siguientes a la
 última notificación ante la autoridad que la haya motivado y será resuelto por el Tribunal Supremo
 Electoral, dentro del plazo de tres días luego de ser recibido.
 
-**Artículo 247. Plazos.** La resolución del recurso de nulidad debe ser dictada dentro del plazo
+##### Artículo 247. 
+**Plazos.** La resolución del recurso de nulidad debe ser dictada dentro del plazo
 establecido en el artículo anterior, bajo apercibimiento que en caso de incumplimiento se inicie
 proceso penal a quien resulte responsable.
 
@@ -4008,14 +4130,17 @@ Las notificaciones de las resoluciones que se dicten deberán realizarse en un p
 bajo apercibimiento de que en caso de incumplimiento se inicie proceso de destitución de quien
 resulte responsable.
 
-**Artículo 248. Del amparo.** El amparo procede contra las resoluciones definitivas del Tribunal
+##### Artículo 248. 
+**Del amparo.** El amparo procede contra las resoluciones definitivas del Tribunal
 Supremo Electoral, siempre que se haya agotado el recurso de nulidad.
 
-**Artículo 249. De la competencia.** El Tribunal Supremo Electoral es el órgano competente para
+##### Artículo 249. 
+**De la competencia.** El Tribunal Supremo Electoral es el órgano competente para
 conocer y resolver los recursos de nulidad. La Corte Suprema de Justicia es el órgano competente
 para conocer y resolver el amparo.
 
-**Artículo 250. De la legitimación.** Dentro del proceso electoral, sólo las partes debidamente
+##### Artículo 250. 
+**De la legitimación.** Dentro del proceso electoral, sólo las partes debidamente
 
 acreditadas en cada caso, o sus legítimos representantes, pueden interponer los recursos
 establecidos en este capítulo.
@@ -4024,7 +4149,8 @@ Los fiscales nacionales y los secretarios y fiscales departamentales de los part
 comités cívicos electorales, podrán interponer los recursos de revisión y nulidad, dentro del ámbito
 de su competencia.
 
-**Artículo 250 bis. Convocatoria y procedimiento.** De acuerdo con la Constitución Política de la
+##### Artículo 250bis. 
+**Convocatoria y procedimiento.** De acuerdo con la Constitución Política de la
 República, la consulta popular será convocada en todos los casos por el Tribunal Supremo Electoral.
 
 El proceso consultivo se regirá, en lo aplicable, por las normas que para elecciones establece la
@@ -4032,29 +4158,34 @@ presente ley y su reglamento, así como por las específicas que emita el Tribun
 
 La mayoría relativa será el sistema aplicable a las consultas populares.
 
+### CAPITULO DIEZ
+### DELITOS Y FALTAS ELECTORALES
 
-CAPITULO DIEZ
-DELITOS Y FALTAS ELECTORALES
-
-**Artículo 251. De los delitos y faltas electorales.** Todo lo concerniente a los delitos y faltas
+##### Artículo 251. 
+**De los delitos y faltas electorales.** Todo lo concerniente a los delitos y faltas
 electorales, se regirá por el Código Penal guatemalteco.
 
-**Artículo 252. Suprimido.**
+##### Artículo 252. 
+**Suprimido.**
 
-**Artículo 253. Suprimido.**
+##### Artículo 253. 
+**Suprimido.**
 
-**Artículo 254. Suprimido.**
+##### Artículo 254. 
+**Suprimido.**
 
-**Artículo 255. Suprimido.**
-
+##### Artículo 255. 
+**Suprimido.**
 
 Disposiciones Transitorias y Finales
 
-**Artículo 256. De las reformas de esta ley.** Cualquier reforma que se haga a la presente ley, después
+##### Artículo 256. 
+**De las reformas de esta ley.** Cualquier reforma que se haga a la presente ley, después
 de haberse convocado a un proceso electoral y antes de que se conozca su resultado o que los
 electos tomen posesión de sus cargos, no será aplicable a dicho proceso.
 
-**Artículo 256 Bis. Comisión de Actualización y Modernización Electoral.** Al concluir el proceso
+##### Artículo 256Bis. 
+**Comisión de Actualización y Modernización Electoral.** Al concluir el proceso
 electoral se establecerá la Comisión de Actualización y Modernización Electoral, cuyo objetivo es
 evaluar el proceso electoral finalizado y de ser necesario, presentar propuestas de reformas que
 fueren procedentes a la presente Ley.
@@ -4065,30 +4196,35 @@ El Tribunal Supremo Electoral, de ser procedente presentará la correspondiente 
 ante el Congreso de la República, quien tendrá que conocer de las mismas previo a finalizar el
 primer período ordinario de la nueva legislatura.
 
-**Artículo 257. De los fiscales nacionales.** Los fiscales nacionales que las organizaciones políticas
+##### Artículo 257. 
+**De los fiscales nacionales.** Los fiscales nacionales que las organizaciones políticas
 acrediten ante el Tribunal Supremo Electoral, en el cumplimiento de sus funciones, devengarán
 dietas, las que serán fijadas por el Tribunal Supremo Electoral dentro del presupuesto que le fuera
-
 asignado en esta ley.
 
-**Artículo 258. Del reglamento.** El Tribunal Supremo Electoral deberá reformar el reglamento de esta
+##### Artículo 258. 
+**Del reglamento.** El Tribunal Supremo Electoral deberá reformar el reglamento de esta
 ley para adecuarlo a las modificaciones que se introducen por el presente decreto de reformas.
 
-**Artículo 259. De las franquicias.** El Tribunal Supremo Electoral, sus dependencias y demás órganos
+##### Artículo 259. 
+**De las franquicias.** El Tribunal Supremo Electoral, sus dependencias y demás órganos
 electorales establecidos por esta ley, gozarán de franquicia en los medios de comunicación estatal.
 
 A partir de que se dicte el decreto de convocatoria a elecciones, el Tribunal Supremo Electoral
 tendrá prioridad en el uso del tiempo que le corresponde al Estado en los medios de comunicación
 social privados.
 
-**Artículo 260. De los epígrafes.** Los epígrafes que preceden a los artículos de esta ley, no tienen
+##### Artículo 260. 
+**De los epígrafes.** Los epígrafes que preceden a los artículos de esta ley, no tienen
 validez interpretativa.
 
-**Artículo 261. De la permanencia del Tribunal Supremo Electoral.** El Tribunal Supremo Electoral
+##### Artículo 261. 
+**De la permanencia del Tribunal Supremo Electoral.** El Tribunal Supremo Electoral
 mantendrá su actual integración, hasta que se elijan los nuevos miembros del mismo, de
 conformidad con esta ley, dentro de un término no menor de treinta meses.
 
-**Artículo 262. Institucionalidad de los partidos políticos.** Los partidos políticos que participaron en
+##### Artículo 262. 
+**Institucionalidad de los partidos políticos.** Los partidos políticos que participaron en
 las elecciones generales del 3 de noviembre de 1985 y que obtuvieron más del cuatro por ciento
 de los votos válidos, o aquellos que alcanzaron representación ante el Congreso de la República,
 quedan definitivamente inscritos debiendo adecuarse en lo relativo a organización y número de
@@ -4096,7 +4232,8 @@ afiliados a lo dispuesto en esta ley. Además, de conformidad con el artículo 1
 transitorias y finales de la Constitución Política de la República de Guatemala, se les reconocen los
 derechos establecidos en el inciso f) del artículo 20 de esta ley.
 
-**Artículo 263. Exoneración.** Quedan exonerados de todo tipo de responsabilidad las personas que
+##### Artículo 263. 
+**Exoneración.** Quedan exonerados de todo tipo de responsabilidad las personas que
 intervinieron en la tramitación y legalización notarial de documentos para la inscripción de los
 comités para la formación de partidos políticos y la de los partidos políticos con anterioridad a las
 elecciones del 3 de noviembre de 1985, con excepción del acto de celebración de las respectivas
@@ -4104,20 +4241,20 @@ asambleas nacionales que llevaron a cabo cada uno de los partidos políticos que
 dichas elecciones; por lo que los expedientes o procesos que hubieren sido instruidos al respecto
 deberán archivarse o sobreseerse, según el caso.
 
-**Artículo 264. De la derogación.** Se derogan los decretos leyes números 30-83, 31-83, 32-83, y
+##### Artículo 264. 
+**De la derogación.** Se derogan los decretos leyes números 30-83, 31-83, 32-83, y
 cualquier otra disposición legal que se oponga a la presente ley.
 
-**Artículo 265. De la vigencia.** La presente ley entrará en rigor el día catorce de enero de mil
+##### Artículo 265. 
+**De la vigencia.** La presente ley entrará en rigor el día catorce de enero de mil
 novecientos ochenta y seis, y deberá ser publicada en el Diario Oficial.
 
 Dado en el Palacio del Organismo Legislativo, en la ciudad de Guatemala, a los tres días del mes de
 diciembre de mil novecientos ochenta y cinco.
 
-
 **DECRETO 1-85 DE LA ASAMBLEA NACIONAL CONSTITUYENTE**
 
 ### HECTOR ARAGON QUIÑONEZ,
-
 
 Presidente Alterno
 Diputado por Dist. Metropolitano.
@@ -4128,34 +4265,27 @@ ROBERTO CARPIO NICOLLE,
 Presidente Alterno
 Diputado por Lista Nacional.
 
-
 GERMAN SCHEEL MONTES,
 Primer Secretario
 Diputado por Quetzaltenango.
-
 
 JUAN ALBERTO SALGUERO CAMBARA,
 Segundo Secretario
 Diputado por Jutiapa.
 
-
 TOMAS AYUSO PANTOJA,
 Tercer Secretario
 Diputado por Retalhuleu.
-
 
 ANTONIO ARENALES FORNO,
 Cuarto Secretario
 Diputado por Dist. Metropolitano.
 
-
 JULIO LOWENTHAL FONCEA,
 Quinto Secretario
 Diputado por Lista Nacional.
 
-
 AIDA CECILIA MEJIA RODRIGUEZ,
 Sexto Secretario
 Diputado por Lista Nacional.
-
 

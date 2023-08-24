@@ -1,44 +1,45 @@
 # DECRETO NÚMERO 40-94
 
-# EL CONGRESO DE LA REPUBLICA DE GUATEMALA,
+## EL CONGRESO DE LA REPUBLICA DE GUATEMALA,
 
 ### CONSIDERANDO:
-
 Que la ley vigente que en la actualidad organiza y establece las actividades y funciones del Ministerio Público, Decreto 512 del
 Congreso de la República, debe ser sustituida para que se adecúe a las reformas de la Constitución Política de la República y que
 cumpla eficientemente con las funciones que le atribuye el Artículo 251 de dicho cuerpo legal.
 
-CONSIDERANDO:
+## CONSIDERANDO:
 Que por mandato constitucional el Fiscal General de la República es el Jefe del Ministerio Público y que dicha institución debe
 organizarse conforme los principios de autonomía y jerarquía para que los órganos de la institución pueda cumplir con las
 funciones que las leyes le imputan.
 
-CONSIDERANDO:
+## CONSIDERANDO:
 Que el nuevo Código Procesal Penal le asigna al Ministerio Público la función de investigar y ejercer la acción Penal lo que hace
 necesario emitir una nueva Ley Orgánica del Ministerio Público, que refleje la nueva realidad procesal de manera que la institución
 pueda cumplir con las funciones que dicho cuerpo legal le confiere.
 
-POR TANTO:
+## POR TANTO:
 En ejercicio de las atribuciones que le confiere el Artículo 171, incisos a) y b) de la Constitución Política de la República de
 Guatemala.
 
-DECRETA:
-La siguiente
+## DECRETA:
+La siguiente:
 
-LEY ORGANICA DEL MINISTERIO PUBLICO
+# LEY ORGANICA DEL MINISTERIO PUBLICO
 
-TITULO I
-CAPITULO UNICO
+## TITULO I
 
-PRINCIPIOS BASICOS
+### CAPITULO UNICO
+### PRINCIPIOS BASICOS
 
-ARTICULO 1. Definición. El Ministerio Público es una institución con funciones autónomas, promueve la persecución penal y dirige
+##### ARTICULO 1.
+**Definición.** El Ministerio Público es una institución con funciones autónomas, promueve la persecución penal y dirige
 la investigación de los delitos de acción pública; además velar por el estricto cumplimiento de las leyes del país.
 
 En el ejercicio de esa función, el Ministerio Público perseguirá la realización de la justicia, y actuará con objetividad, imparcialidad y
 con apego al principio de legalidad, en los términos que la ley establece.
 
-ARTICULO 2. Funciones. Son funciones del Ministerio Público, sin perjuicio de las que le atribuyen otras leyes, las siguientes:
+##### ARTICULO 2.
+**Funciones.** Son funciones del Ministerio Público, sin perjuicio de las que le atribuyen otras leyes, las siguientes:
 
 1) Investigar los delitos de acción pública y promover la persecución penal ante los tribunales, según las facultades que le
 confieren la Constitución, las leyes de la República, y los Tratados y Convenios Internacionales.
@@ -51,7 +52,8 @@ de conformidad con lo que establece el Código Procesal Penal.
 4) Preservar el Estado de derecho y el respeto a los derechos humanos, efectuando las diligencias necesarias ante los
 tribunales de justicia.
 
-ARTICULO 3. Autonomía. El Ministerio Público actuará independientemente, por propio impulso y en cumplimiento de las funciones
+##### ARTICULO 3.
+**Autonomía.** El Ministerio Público actuará independientemente, por propio impulso y en cumplimiento de las funciones
 que le atribuyen las leyes sin subordinación a ninguno de los Organismos del Estado ni autoridad alguna, salvo lo establecido en
 esta ley.
 
@@ -59,18 +61,17 @@ Anualmente tendrá una partida en el Presupuesto General de la Nación y sus rec
 función a sus propios requerimientos.
 
 
-ARTICULO 4. Coordinación.
+##### ARTICULO 4.
+**Coordinación.** El presidente de la República podrá invitar al Fiscal General para que participe en cualquier Junta del Gabinete o de los Ministros de Estado. En este supuesto el Fiscal General estará obligando a concurrir a la Junta, con voz pero sin voto.
 
-El presidente de la República podrá invitar al Fiscal General para que participe en cualquier Junta del Gabinete o de los Ministros de
-Estado. En este supuesto el Fiscal General estará obligando a concurrir a la Junta, con voz pero sin voto.
-
-ARTICULO 5. Unidad y Jerarquía. El Ministerio Público es único e indivisible para todo el Estado. Se organiza jerárquicamente. En
+##### ARTICULO 5.
+**Unidad y Jerarquía.** El Ministerio Público es único e indivisible para todo el Estado. Se organiza jerárquicamente. En
 la actuación de cada uno de sus funcionarios estará representado íntegramente. Para acreditar la personería de un fiscal del
 Ministerio Público solo será necesaria la constancia de su cargo o, en su caso, por el mandato otorgado. Los funcionarios que
 asistan a un superior jerárquico obedecerán instrucciones conforme lo dispuesto por esta ley.
 
-ARTICULO 6. Vinculación. (Reformado por Artículo 1 del Decreto 18-2016 del Congreso de la República). El Ministerio
-
+##### ARTICULO 6.
+**Vinculación.** (Reformado por Artículo 1 del Decreto 18-2016 del Congreso de la República). El Ministerio
 Público podrá pedir la colaboración de cualquier funcionario y autoridad administrativa de los Organismos del Estado y de sus
 entidades descentralizadas, autónomas, para el cumplimiento de sus funciones, entendiéndose como tales, los que así estén
 definidos en su ley específica, estando éstos obligados a prestarla sin demora y proporcionar los documentos e informes que les
@@ -82,28 +83,30 @@ la ley, deberán atender, inexcusablemente el requerimiento, sin excepción algu
 establecido en el requerimiento. Igual obligación tiene el Jefe de la Contraloría General de Cuentas, los contralores y la
 Superintendencia de Bancos.
 
-ARTICULO 7. Tratamiento como Inocente. El Ministerio Público únicamente podrá informar sobre el resultado de las
+##### ARTICULO 7.
+**Tratamiento como Inocente.** El Ministerio Público únicamente podrá informar sobre el resultado de las
 investigaciones siempre que no vulnere el principio de inocencia, el derecho a la intimidad y la dignidad de las personas; además
 cuidará de no poner en peligro las investigaciones que se realicen.
 
 El Ministerio Público y las autoridades bajo su dirección no podrán presentar a los medios de comunicación a detenido alguno sin
 autorización del juez competente.
 
-ARTICULO 8. Respeto a la víctima. El Ministerio Público, deberá dirigir sus acciones tomando en cuenta los intereses de la víctima,
+##### ARTICULO 8.
+**Respeto a la víctima.** El Ministerio Público, deberá dirigir sus acciones tomando en cuenta los intereses de la víctima,
 a quien deberá brindar amplia asistencia y respeto. Le informará acerca del resultado de las investigaciones y notificará la
 resolución que pone fin al caso, aún cuando no se haya constituído como querellante.
 
-TITULO II
-ORGANIZACION DEL MINISTERIO PUBLICO
+## TITULO II
+## ORGANIZACION DEL MINISTERIO PUBLICO
 
-CAPITULO I
-ORGANIZACION
+### CAPITULO I
+### ORGANIZACION
 
-SECCION I
-INTEGRACION
+#### SECCION I
+#### INTEGRACION
 
-ARTICULO 9. Integración. (Reformado por Artículo 2 del Decreto 18-2016 del Congreso de la República). El Ministerio
-
+##### ARTICULO 9.
+**Integración.** (Reformado por Artículo 2 del Decreto 18-2016 del Congreso de la República). El Ministerio
 Público está integrado por los órganos siguientes:
 
 1) El Fiscal General de la República y Jefe del Ministerio Público.
@@ -116,22 +119,19 @@ Público está integrado por los órganos siguientes:
 
 5) Los Agentes Fiscales.
 
-## 6) Los Auxiliares Fiscales.
+6) Los Auxiliares Fiscales.
 
-### SECCION II
+#### SECCION II
+#### FISCAL GENERAL DE LA REPUBLICA
 
-### FISCAL GENERAL DE LA REPUBLICA
-
-ARTICULO 10. Fiscal General. (Reformado por Artículo 3 del Decreto 18-2016 del Congreso de la República). El Fiscal
-
+##### ARTICULO 10.
+**Fiscal General.** (Reformado por Artículo 3 del Decreto 18-2016 del Congreso de la República). El Fiscal
 General de la República es el Jefe del Ministerio Público y el responsable de su buen funcionamiento, su autoridad se extiende a
-todo el territorio nacional. Ejercerá la acción penal pública y las atribuciones que la ley le otorga al Ministerio Público, por sí mismo o
-
-## por medio de los órganos de la institución.
+todo el territorio nacional. Ejercerá la acción penal pública y las atribuciones que la ley le otorga al Ministerio Público, por sí mismo o por medio de los órganos de la institución.
 
 
-ARTICULO 11. Funciones. (Reformado por Artículo 4 del Decreto 18-2016 del Congreso de la República). Son funciones
-
+##### ARTICULO 11.
+**Funciones.** (Reformado por Artículo 4 del Decreto 18-2016 del Congreso de la República). Son funciones
 del Jefe del Ministerio Público:
 
 1) Determinar la política general de la institución y los criterios para el ejercicio de la persecución penal;
@@ -160,10 +160,10 @@ funcionamiento, en los términos que establece esta Ley;
 9) Establecer la división del territorio nacional por regiones, para la determinación de las sedes de las fiscalías de distrito y el
 ámbito territorial que se les asigne, así como la creación o supresión de las fiscalías de sección;
 
-## 10) Las demás estipuladas en la ley.
+10) Las demás estipuladas en la ley.
 
-ARTICULO 12. Nombramiento. (Reformado por Artículo 5 del Decreto 18-2016 del Congreso de la República). El Fiscal
-
+##### ARTICULO 12.
+**Nombramiento.** (Reformado por Artículo 5 del Decreto 18-2016 del Congreso de la República). El Fiscal
 General de la República será nombrado por el Presidente de la República de una nómina de seis candidatos propuesta por una
 Comisión de Postulación, integrada de la siguiente forma:
 
@@ -182,15 +182,15 @@ Los integrantes de la Comisión de Postulación serán responsables de elaborar 
 menos quince (15) días antes del vencimiento del período para el cual fue nombrado el Fiscal General que deba entregar el cargo.
 Si coinciden en una misma persona dos calidades para integrar la comisión de postulación o si se ausenta uno de sus miembros, lo
 reemplazará quien deba sustituirlo en el cargo.
+El Fiscal General de la República podrá postularse nuevamente al cargo.
 
-## El Fiscal General de la República podrá postularse nuevamente al cargo.
-
-ARTICULO 13. Calidades. El Fiscal General de la República deberá ser abogado colegiado y tener las mismas calidades que se
+##### ARTICULO 13.
+**Calidades.** El Fiscal General de la República deberá ser abogado colegiado y tener las mismas calidades que se
 requieren para ser magistrado de la Corte Suprema de Justicia; asimismo gozará de las mismas preeminencias e inmunidades que
 corresponden a dichos Magistrados.
 
-ARTICULO 14. Remoción. (Reformado por Artículo 6 del Decreto 18-2016 del Congreso de la República). El Presidente
-
+##### ARTICULO 14.
+**Remoción.** (Reformado por Artículo 6 del Decreto 18-2016 del Congreso de la República). El Presidente
 de la República podrá remover al Fiscal General de la República, por causa justificada debidamente establecida.
 
 Se entenderá por causa justificada, la comisión de un delito doloso durante el ejercicio de su función, siempre y cuando haya
@@ -203,8 +203,8 @@ sustitutiva o falta de mérito con medida sustitutiva.
 El Fiscal General será restituido inmediatamente en sus funciones cuando el proceso sea sobreseído, desestimado, archivado o se
 decrete la falta de mérito.
 
-ARTICULO 15. Sustitución. (Reformado por Artículo 7 del Decreto 18-2016 del Congreso de la República). En caso de
-
+##### ARTICULO 15.
+**Sustitución.** (Reformado por Artículo 7 del Decreto 18-2016 del Congreso de la República). En caso de
 remoción, renuncia o ausencia definitiva, el Presidente de la República nombrará a quien deba sustituirlo de la nómina que le fue
 enviada por la Comisión de Postulación. Si no existieren por cualquier causa, candidatos en la nómina original, el Congreso de la
 República deberá convocar a una nueva Comisión de Postulación para desarrollar el proceso constitucional correspondiente.
@@ -226,35 +226,28 @@ El segundo funcionario asumirá el cargo en caso de imposibilidad del primero.
 El designado desempeñará y asumirá las funciones de manera inmediata, al presentarse alguno de los supuestos de ausencia
 temporal contemplados en la ley.
 
-En caso de remoción, renuncia o ausencia definitiva, la sustitución será hasta que se realice el nombramiento del nuevo Fiscal
+En caso de remoción, renuncia o ausencia definitiva, la sustitución será hasta que se realice el nombramiento del nuevo Fiscal General.
 
-## General.
-
-ARTICULO 16. Informe Anual. (Reformado por Artículo 8 del Decreto 18-2016 del Congreso de la República). El Fiscal
-
+##### ARTICULO 16.
+**Informe Anual.** (Reformado por Artículo 8 del Decreto 18-2016 del Congreso de la República). El Fiscal
 General deberá informar anualmente a los ciudadanos sobre el resultado de su gestión. Para ello, deberá publicar una memoria y
 además, remitir un ejemplar al Presidente de la República y al Organismo Legislativo.
 
 La memoria deberá contener:
 
 1) El resumen del trabajo realizado en el ejercicio.
-
 2) El análisis del servicio prestado, con detalle de los obstáculos y las medidas adoptadas para superarlos.
 3) La recopilación de las instrucciones generales dictadas por el Fiscal General.
 4) El detalle de la ejecución del presupuesto correspondiente.
-5) Las propuestas concretas, sobre las modificaciones o mejoras que requiere el servicio. Una síntesis de la memoria deberá
+5) Las propuestas concretas, sobre las modificaciones o mejoras que requiere el servicio. Una síntesis de la memoria deberá ser difundida a través de los medíos de comunicación masiva.
 
-## ser difundida a través de los medíos de comunicación masiva.
+#### SECCION III
+#### CONSEJO DEL MINISTERIO PUBLICO
 
-### * SECCION III
+**(DEROGADO nombre y número de la Sección III del Título II por Artículo 9 del Decreto 18-2016 del Congreso de la República).**
 
-### *CONSEJO DEL MINISTERIO PUBLICO
-
-## * (DEROGADO nombre y número de la Sección III del Título II por Artículo 9 del Decreto 18-2016 del Congreso de
-
-## la República).
-
-ARTICULO 17. (DEROGADO por Artículo 10 del Decreto 18-2016 del Congreso de la República). Integración. El consejo
+##### ARTICULO 17.
+**(DEROGADO por Artículo 10 del Decreto 18-2016 del Congreso de la República).** Integración. El consejo
 
 del Ministerio Público estará integrado por:
 
@@ -267,22 +260,17 @@ del Ministerio Público estará integrado por:
 El Consejo podrá acordar que durante el tiempo en que se reúnan, los fiscales miembros no ejercerán sus funciones, excepto
 respecto del Fiscal General.
 
-ARTICULO 18. (DEROGADO por Artículo 60 del Decreto 18-2016 del Congreso de la República). Atribuciones.
-
+##### ARTICULO 18.
+**(DEROGADO por Artículo 60 del Decreto 18-2016 del Congreso de la República).** Atribuciones.
 Corresponde al Consejo del Ministerio Público las siguientes funciones:
 
 1) Proponer al Fiscal General el nombramiento de los fiscales de distrito, fiscales de sección, agentes fiscales y auxiliares
 fiscales de acuerdo a la carrera del ministerio público,
 
+2) (Declarado inconstitucional por Sentencia de la Corte de Constitucionalidad del 1 de febrero de 2011, Expediente 2523-2010). Ratificar, modificar o dejar sin efecto las instrucciones generales especiales dictadas por el Fiscal
 
-## 2) (Declarado inconstitucional por Sentencia de la Corte de Constitucionalidad del 1 de febrero de 2011,
-
-## Expediente 2523-2010). Ratificar, modificar o dejar sin efecto las instrucciones generales especiales dictadas por el Fiscal
-
-```
 General, cuando ellas fueren objetadas conforme el procedimiento previsto en esta ley, así como las demás establecidas
 conforme al régimen disciplinario, los traslados y sustituciones.
-```
 3) Acordar a propuesta del Fiscal General la división del territorio nacional, para la determinación de la sede de las fiscalías de
 distrito y el ámbito territorial que se les asigne; así como la creación o supresión de las secciones del Ministerio Público.
 
@@ -290,8 +278,8 @@ distrito y el ámbito territorial que se les asigne; así como la creación o su
 
 5) Las demás establecidas por la ley.
 
-ARTICULO 19. (DEROGADO por Artículo 11 del Decreto 18-2016 del Congreso de la República). Elección. El Congreso
-
+##### ARTICULO 19.
+**(DEROGADO por Artículo 11 del Decreto 18-2016 del Congreso de la República).** Elección. El Congreso
 de la República, una vez nombrado el Fiscal General, elegirá a tres miembros, de entre los postulados a dicho cargo, para el
 período que corresponda al Fiscal General de la República. La elección deberá efectuarse dentro de los cinco días siguientes de
 haberse nombrado el Fiscal General.
@@ -305,8 +293,8 @@ Cada uno de ellos tendrá un voto.
 
 Cada uno de los miembros del Consejo, será electo por mayoría absoluta y la votación será para cada candidato en particular.
 
-ARTICULO 20. (DEROGADO por Artículo 12 del Decreto 18-2016 del Congreso de la República). Sesiones. El Consejo
-
+##### ARTICULO 20.
+**(DEROGADO por Artículo 12 del Decreto 18-2016 del Congreso de la República).** Sesiones. El Consejo
 del Ministerio Público deberá reunirse, por lo menos, dos veces al mes. Las sesiones serán convocadas por el Fiscal General de la
 República o quien lo sustituya. El Secretario del Consejo será el Secretario General del Ministerio Público.
 
@@ -316,8 +304,8 @@ tres miembros.
 
 Las resoluciones serán adoptadas por mayoría absoluta de los miembros.
 
-ARTICULO 21. (DEROGADO por Artículo 13 del Decreto 18-2016 del Congreso de la República). Informes y opiniones.
-
+##### ARTICULO 21.
+**(DEROGADO por Artículo 13 del Decreto 18-2016 del Congreso de la República).** Informes y opiniones.
 El Consejo podrá citar al Director de la Policía Nacional y a los funcionarios de los demás órganos de seguridad del Estado para
 que rindan informes y opiniones.
 
@@ -327,24 +315,24 @@ en el delito de desobediencia y serán sancionados de conformidad con la ley.
 También podrá invitar a los directores de los centros penitenciarios o a cualquier otra persona calificada para que participe en sus
 deliberaciones, con voz pero sin voto.
 
-ARTICULO 22. (DEROGADO por Artículo 14 del Decreto 18-2016 del Congreso de la República). Imperatividad. Todos
-
+##### ARTICULO 22.
+**(DEROGADO por Artículo 14 del Decreto 18-2016 del Congreso de la República).** Imperatividad. Todos
 los miembros del Consejo del Ministerio Público están obligados a concurrir a las sesiones del Consejo, salvo causa justificada
 presentada a los miembros del Consejo.
 
 Cada uno de los miembros del Consejo desempeñará el cargo con independencia absoluta. Serán responsables de las
 resoluciones adoptadas por el Consejo, salvo que hubieren razonado en contra su voto.
 
-ARTICULO 23. (DEROGADO por Artículo 15 del Decreto 18-2016 del Congreso de la República). Remuneraciones. La
-
+##### ARTICULO 23.
+**(DEROGADO por Artículo 15 del Decreto 18-2016 del Congreso de la República).** Remuneraciones. La
 presencia de los miembros en las sesiones del Consejo dará derecho a dietas, que serán determinadas en el reglamento
 respectivo.
 
-```
-SECCION IV
-FISCALES DE DISTRITO Y DE SECCION
-```
-ARTICULO 24. Fiscales de Distrito. Los fiscales de distrito serán los Jefes del Ministerio Público en los departamentos o regiones
+#### SECCION IV
+#### FISCALES DE DISTRITO Y DE SECCION
+
+##### ARTICULO 24.
+**Fiscales de Distrito.** Los fiscales de distrito serán los Jefes del Ministerio Público en los departamentos o regiones
 que les fueren encomendados y los responsables del buen funcionamiento de la institución en el área respectiva.
 
 Ejercerán la acción penal pública y las atribuciones que la ley le otorga al Ministerio Público, por sí mismos o por intermedio de los
@@ -352,9 +340,8 @@ agentes fiscales y auxiliares fiscales que esta ley establece, salvo cuando el F
 esa función o la encomiende a otro funcionario conjunta o separadamente.
 
 
-## ARTÍCULO 24 bis. Coordinación Nacional y Fiscales Regionales. (Adicionado por Artículo 16 del Decreto 18-2016 del
-
-## Congreso de la República). Se crea la Coordinación Nacional, que tendrá a su cargo la articulación con los fiscales regionales.
+##### ARTÍCULO 24bis. 
+**Coordinación Nacional y Fiscales Regionales.** (Adicionado por Artículo 16 del Decreto 18-2016 del Congreso de la República). Se crea la Coordinación Nacional, que tendrá a su cargo la articulación con los fiscales regionales.
 
 Los fiscales regionales serán los Jefes del Ministerio Público en las regiones que les fueren encomendadas y los responsables del
 buen funcionamiento de la institución en el área respectiva.
@@ -364,27 +351,31 @@ fiscales de sección, fiscales de sección adjunto, fiscales de distrito, fiscal
 que esta Ley establece, salvo cuando el Fiscal General de la República asuma directamente esta función o la encomiende a otro
 funcionario, conjunta o separadamente.
 
-ARTICULO 25. Atención permanente. Los Fiscales de Distrito organizarán las oficinas de atención permanente, a cargo de un
+##### ARTICULO 25.
+**Atención permanente.** Los Fiscales de Distrito organizarán las oficinas de atención permanente, a cargo de un
 agente fiscal, para la recepción de las denuncias o prevenciones policiales. Esta oficina también deberá recibir, registrar y distribuir
 los expedientes y documentos que ingresen y egresen de la institución.
 
-ARTICULO 26. Oficina de atención a la victima. Los fiscales de distrito organizarán las oficinas de atención a la víctima para que se
+##### ARTICULO 26.
+**Oficina de atención a la victima.** Los fiscales de distrito organizarán las oficinas de atención a la víctima para que se
 encargue de darle toda la información y asistencia urgente y necesaria.
 
-ARTICULO 27. Fiscales de Sección. Los fiscales de sección serán los Jefes del Ministerio Público en las diferentes secciones que
+##### ARTICULO 27.
+**Fiscales de Sección.** Los fiscales de sección serán los Jefes del Ministerio Público en las diferentes secciones que
 les fueren encomendadas y los responsables del buen funcionamiento de la institución en los asuntos de su competencia.
 
 Tendrán a su cargo el ejercicio de las atribuciones que la ley le asigna a la sección a su cargo, actuarán por sí mismos o por
 intermedio de los agentes fiscales o auxiliares fiscales, salvo cuando el Fiscal General de la República asuma directamente esa
 función o la encomienden a otro fiscal, conjunta o separadamente.
 
-ARTICULO 28. Calidades. (Reformado por Artículo 17 del Decreto 18-2016 del Congreso de la República). Para ser fiscal
-
+##### ARTICULO 28.
+**Calidades.** (Reformado por Artículo 17 del Decreto 18-2016 del Congreso de la República). Para ser fiscal
 regional, fiscal de distrito, fiscal de distrito adjunto, fiscal de sección y fiscal de sección adjunto, se requiere: poseer título de
 abogado y notario, ser guatemalteco de origen, y haber ejercido la profesión de abogado y notario por cinco (5) años o en su caso,
 la de juez de primera instancia en el ramo penal o agente fiscal por cinco (5) años.
 
-ARTICULO 29. Asesores Específicos. El Fiscal General de la República, los fiscales de distrito y fiscales de sección podrán solicitar
+##### ARTICULO 29.
+**Asesores Específicos.** El Fiscal General de la República, los fiscales de distrito y fiscales de sección podrán solicitar
 la asesoría de expertos de entidades públicas o privadas para formar equipos interdisciplinarios de investigación para casos
 específicos.
 
@@ -394,8 +385,8 @@ investigación y persecución penal que se les asignó; concluida la misma, cesa
 deberes preeminencias e inmunidades que los agentes fiscales, pero siempre actuarán bajo la supervisión de la autoridad que los
 hubiere nombrado.
 
-ARTICULO 30. Organización. (Reformado por Artículo 18 del Decreto 18-2016 del Congreso de la República). Estarán a
-
+##### ARTICULO 30.
+**Organización.** (Reformado por Artículo 18 del Decreto 18-2016 del Congreso de la República). Estarán a
 cargo de un Fiscal de Sección, las siguientes:
 
 1) Fiscalía de delitos administrativos: Tendrá a su cargo la investigación de la conducta administrativa de los funcionarios y
@@ -435,10 +426,8 @@ de corrupción en los que se encuentren implicados funcionarios y empleados púb
 10) Fiscalía contra el crimen organizado: Esta fiscalía tendrá competencia para investigar y perseguir los delitos que causan
 mayor perturbación social, la que se integrará con las unidades siguientes:
 
-```
 a. Unidad contra robo de vehículos.
 b. Unidad de delitos relacionados con los bancos, aseguradoras y demás instituciones financieras.
-```
 11) Fiscalía de delitos contra el patrimonio cultural de la Nación: Tendrá competencia para investigar y perseguir penalmente los
 delitos contra el patrimonio cultural que se cometan en todo el territorio nacional.
 
@@ -482,65 +471,61 @@ y deberá ejercer las acciones que correspondan para su efectivo fenecimiento de
 Las fiscalías de sección serán competentes para atender, en todo el territorio nacional, los casos que les corresponden de acuerdo a
 lo establecido en esta Ley. Los demás asuntos serán atendidos por los demás órganos del Ministerio Público.
 
-El Fiscal General podrá eliminar, fusionar o crear las fiscalías de sección que se consideren necesarias para el buen funcionamiento
+El Fiscal General podrá eliminar, fusionar o crear las fiscalías de sección que se consideren necesarias para el buen funcionamiento del Ministerio Público.
 
-## del Ministerio Público.
-
-ARTICULO 31. (DEROGADO por Artículo 19 del Decreto 18-2016 del Congreso de la República). Fiscalía de Delitos
-
+##### ARTICULO 31.
+**(DEROGADO por Artículo 19 del Decreto 18-2016 del Congreso de la República).** Fiscalía de Delitos
 Administrativos. Esta Fiscalía tendrá a su cargo la investigación de la conducta administrativa de los funcionarios y empleados de
 los órganos y entidades estatales, descentralizadas y autónomas, inclusive de los Presidentes de los Organismos del Estado.
 Ejercerá la persecución penal de los hechos punibles atribuidos a esas personas, interviniendo regularmente en todos los asuntos
 penales que tengan relación con la administración pública o en los que se lesionen intereses estatales.
 
 
-ARTICULO 32. (DEROGADO por Artículo 20 del Decreto 18-2016 del Congreso de la República). Fiscalía de Delitos
-
+##### ARTICULO 32.
+**(DEROGADO por Artículo 20 del Decreto 18-2016 del Congreso de la República).** Fiscalía de Delitos
 Económicos. Esta Fiscalía tendrá a su cargo la investigación y el ejercicio de la acción penal en todos aquellos delitos que atenten
 contra la economía del país.
 
-ARTICULO 33. (DEROGADO por Artículo 21 del Decreto 18-2016 del Congreso de la República). Fiscalía de Delitos de
-
+##### ARTICULO 33.
+**(DEROGADO por Artículo 21 del Decreto 18-2016 del Congreso de la República).** Fiscalía de Delitos de
 Narcoactividad. Esta Fiscalía tendrá a su cargo la investigación y el ejercicio de la acción penal en todos los delitos vinculados con
 la producción, fabricación, uso, tenencia, tráfico y comercialización ilegal de estupefacientes.
 
-ARTICULO 34. (DEROGADO por Artículo 22 del Decreto 18-2016 del Congreso de la República). Fiscalía de Delitos
-
+##### ARTICULO 34.
+**(DEROGADO por Artículo 22 del Decreto 18-2016 del Congreso de la República).** Fiscalía de Delitos
 contra el Ambiente. Esta Fiscalía tendrá a su cargo la investigación y el ejercicio de la acción penal en todos aquellos delitos cuyo
 bien jurídico tutelado sea el medio ambiente.
 
-ARTICULO 35. (DEROGADO por Artículo 23 del Decreto 18-2016 del Congreso de la República). Fiscalía Asuntos
-
+##### ARTICULO 35.
+**(DEROGADO por Artículo 23 del Decreto 18-2016 del Congreso de la República).** Fiscalía Asuntos
 Constitucionales, Amparos y Exhibición Personal. Esta Fiscalía intervendrá en los procesos de inconstitucionalidad, amparo y
 exhibición personal. Promoverá todas aquellas acciones que tengan por objeto velar por el estricto cumplimiento de la Constitución
 Política de la República y demás leyes en esta materia.
 
-ARTICULO 36. (DEROGADO por Artículo 24 del Decreto 18-2016 del Congreso de la República). Fiscalía de Menores o
+##### ARTICULO 36.
+**(DEROGADO por Artículo 24 del Decreto 18-2016 del Congreso de la República).** Fiscalía de Menores o
 
 de la niñez. Esta fiscalía tendrá a su cargo la intervención que se le confiere al Ministerio Público en el procedimiento para
 menores.
 
 Contará con el asesoramiento de un gabinete interdisciplinario de especialistas en problemas menores.
 
-ARTICULO 37. (DEROGADO por Artículo 25 del Decreto 18-2016 del Congreso de la República). Fiscalía de la Mujer.
-
+##### ARTICULO 37.
+**(DEROGADO por Artículo 25 del Decreto 18-2016 del Congreso de la República).** Fiscalía de la Mujer.
 Esta fiscalía tendrá a su cargo la intervención del Ministerio Público en los procesos que involucren a una o varias mujeres y que
 tengan relación con su condición de mujeres. Contará con la asesoría de especialistas en la materia respectiva.
 
-ARTICULO 38. (DEROGADO por Artículo 26 del Decreto 18-2016 del Congreso de la República). Fiscalía de Ejecución.
-
+##### ARTICULO 38.
+**(DEROGADO por Artículo 26 del Decreto 18-2016 del Congreso de la República).** Fiscalía de Ejecución.
 Esta fiscalía tendrá a su cargo la intervención ante los jueces de ejecución y deberá promover todas las acciones referidas a la
 ejecución de la pena y la suspensión condicional de la persecución penal.
 
-ARTICULO 39. Reuniones Periódicas. El Fiscal General convocará a reuniones periódicas con los fiscales de distrito y fiscales de
+##### ARTICULO 39.
+**Reuniones Periódicas.** El Fiscal General convocará a reuniones periódicas con los fiscales de distrito y fiscales de
 sección a fin de evaluar la marcha del servicio, dictar instrucciones, solicitar consultas o discutir asuntos.
 
-ARTICULO 40. Dirección de Investigaciones Criminalísticas. (Reformado por Artículo 27 del Decreto 18-2016 del Congreso
-
-## de la República). La Dirección de Investigaciones Criminalísticas, coadyuvará en la investigación, recolección, procesamiento y
-
-análisis criminalístico de cualquier evidencia, indicio material, digital o de cualquier otra índole, que se relacione con la comisión de
-un acto delictivo que investiguen las distintas fiscalías o dependencias del Ministerio Público.
+##### ARTICULO 40.
+**Dirección de Investigaciones Criminalísticas.** (Reformado por Artículo 27 del Decreto 18-2016 del Congreso de la República). La Dirección de Investigaciones Criminalísticas, coadyuvará en la investigación, recolección, procesamiento y análisis criminalístico de cualquier evidencia, indicio material, digital o de cualquier otra índole, que se relacione con la comisión de un acto delictivo que investiguen las distintas fiscalías o dependencias del Ministerio Público.
 
 Deberá indagar por medio de sus investigadores, todas las circunstancias, características o particularidades bajo las que ocurrieron
 los hechos criminares puestos a su averiguación. Para la realización de sus funciones podrán actuar bajo su propia responsabilidad,
@@ -554,40 +539,27 @@ dirigir las mismas.
 Su estructura orgánica y lo relativo a la carrera de investigación, se regirán por reglamento o instrucción general emitido por el Fiscal
 General de la República.
 
-Lo dispuesto en el presente artículo, podrá realizarlo la Dirección de Investigaciones Criminalísticas, sin perjuicio de lo dispuesto en
+Lo dispuesto en el presente artículo, podrá realizarlo la Dirección de Investigaciones Criminalísticas, sin perjuicio de lo dispuesto en las leyes que regulan los procedimientos de investigación.
 
-## las leyes que regulan los procedimientos de investigación.
+##### ARTICULO 41.
+**Oficina de Protección de Sujetos Procesales en Materia Penal.** (Derogado por Artículo 22 del Decreto 70- del Congreso de la República, Ley para la Protección de Sujetos Procesales y Personas Vinculadas a la Administración de Justicia; Reformado por Artículo 28 del Decreto 18-2016 del Congreso de la República). La Oficina de Protección de Sujetos Procesales la presidirá la persona que nombre el Fiscal General y tendrá a su cargo la protección de sujetos procesales, de conformidad con el reglamento que deberá emitir el Fiscal General.
 
-ARTICULO 41. Oficina de Protección de Sujetos Procesales en Materia Penal. (Derogado por Artículo 22 del Decreto 70-
-
-## del Congreso de la República, Ley para la Protección de Sujetos Procesales y Personas Vinculadas a la
-
-## Administración de Justicia; Reformado por Artículo 28 del Decreto 18-2016 del Congreso de la República). La Oficina
-
-de Protección de Sujetos Procesales la presidirá la persona que nombre el Fiscal General y tendrá a su cargo la protección de
-sujetos procesales, de conformidad con el reglamento que deberá emitir el Fiscal General.
-
-```
-SECCION V
-AGENTES FISCALES, AUXILIARES FISCALES Y SECRETARIOS
-```
-ARTICULO 42. Agentes Fiscales. Los agentes fiscales asistirán a los fiscales de Distrito o fiscales de Sección; tendrán a su cargo el
+#### SECCION V
+#### AGENTES FISCALES, AUXILIARES FISCALES Y SECRETARIOS
+##### ARTICULO 42.
+**Agentes Fiscales.** Los agentes fiscales asistirán a los fiscales de Distrito o fiscales de Sección; tendrán a su cargo el
 ejercicio de la acción penal pública y en su caso la privada conforme a la ley y las funciones que la ley le asigna al Ministerio
-Público. Ejercerán la dirección de la investigación de las causas criminales; formularán acusación o el requerimiento de
-
-
-sobreseimiento, clausura provisional y archivo ante el órgano jurisdiccional competente. Asimismo actuarán en el debate ante los
+Público. Ejercerán la dirección de la investigación de las causas criminales; formularán acusación o el requerimiento de sobreseimiento, clausura provisional y archivo ante el órgano jurisdiccional competente. Asimismo actuarán en el debate ante los
 tribunales de sentencia, podrán promover los recursos que deban tramitarse en las Salas Penales de la Corte de Apelaciones y la
 Corte Suprema de Justicia.
 
-ARTICULO 43. Calidades. (Reformado por Artículo 29 del Decreto 18-2016 del Congreso de la República). Para ser
-
+##### ARTICULO 43.
+**Calidades.** (Reformado por Artículo 29 del Decreto 18-2016 del Congreso de la República). Para ser
 nombrado agente fiscal se requiere poseer título de abogado y notario, ser guatemalteco de origen y haber ejercido la profesión de
-abogado por tres (3) años, o en su caso la de juez de primera instancia en el ramo penal, juez de paz en el ramo penal o auxiliar
+abogado por tres (3) años, o en su caso la de juez de primera instancia en el ramo penal, juez de paz en el ramo penal o auxiliar fiscal por tres años.
 
-## fiscal por tres años.
-
-ARTICULO 44. Fiscales Especiales. Los fiscales especiales serán contratados para casos específicos cuando sea necesario
+##### ARTICULO 44.
+**Fiscales Especiales.** Los fiscales especiales serán contratados para casos específicos cuando sea necesario
 garantizar la independencia de los fiscales en la investigación y promoción de la persecución penal. Tendrán las mismas
 facultades, deberes y preeminencias que los fiscales de distrito o sección y actuarán con absoluta independencia en el caso que se
 les asignó. En el ejercicio de su función estarán sujetos únicamente a lo que establecen la Constitución Política de la República, los
@@ -600,7 +572,8 @@ personas.
 
 El Fiscal General deberá proveer los fondos necesarios para este rubro.
 
-ARTICULO 45. Auxiliares Fiscales. Los auxiliares fiscales asistirán a los fiscales de distrito, fiscales de sección y agentes fiscales,
+##### ARTICULO 45.
+**Auxiliares Fiscales.** Los auxiliares fiscales asistirán a los fiscales de distrito, fiscales de sección y agentes fiscales,
 actuando bajo su supervisión y responsabilidad. Serán los encargados de efectuar la investigación en el procedimiento preparatorio
 del proceso penal en todos los delitos de acción pública y en los delitos que requieran instancia de parte, al llenarse este requisito.
 Podrán intervenir directamente y por sí mismos en todas las diligencias de investigación y declaraciones de imputados que se
@@ -608,38 +581,39 @@ produzcan durante el procedimiento preparatorio. Podrán firmar todas las demand
 ante los tribunales durante el procedimiento preparatorio. Asimismo, cuando posean el título de Abogado y Notario, podrán asistir e
 intervenir en el debate, acompañando al agente fiscal.
 
-ARTICULO 46. Calidades. Para ser auxiliar fiscal se requiere ser guatemalteco y al menos haber cerrado pensum en la carrera de
+##### ARTICULO 46.
+**Calidades.** Para ser auxiliar fiscal se requiere ser guatemalteco y al menos haber cerrado pensum en la carrera de
 Abogacía y Notariado.
 
-```
-TITULO III
-EJERCICIO DE LA ACCION PENAL
-```
-```
-CAPITULO I
-ACTUACION PROCESAL
-```
-ARTICULO 47. Ejercicio de la Función. En el ejercicio de sus funciones los fiscales estarán sujetos únicamente a la Constitución
+## TITULO III
+## EJERCICIO DE LA ACCION PENAL
+
+### CAPITULO I
+### ACTUACION PROCESAL
+##### ARTICULO 47.
+**Ejercicio de la Función.** En el ejercicio de sus funciones los fiscales estarán sujetos únicamente a la Constitución
 Política de la República de Guatemala, los Tratados y Convenios Internacionales, la ley y las instrucciones dictadas por su superior
 jerárquico, en los términos establecidos por esta ley.
 
-ARTICULO 48. Investigación. El fiscal a cargo de la investigación de un delito debe reunir los elementos de convicción de los
+##### ARTICULO 48.
+**Investigación.** El fiscal a cargo de la investigación de un delito debe reunir los elementos de convicción de los
 hechos punibles en forma ordenada, que permita el control del superior jerárquico, de la defensa, la víctima y las partes civiles.
 
-ARTICULO 49. Proposición de Diligencias. Todas las partes pueden proponer diligencias en cualquier momento del procedimiento
+##### ARTICULO 49.
+**Proposición de Diligencias.** Todas las partes pueden proponer diligencias en cualquier momento del procedimiento
 preparatorio. El Ministerio Público, a través del fiscal a cargo, debe realizarlas si son pertinentes y útiles. Caso contrario debe dejar
 constancia de las razones de su negativa, la que puede ser revocada por el juez de primera instancia en los términos establecidos
 en la ley.
 
-ARTICULO 50. Inmediación. El fiscal tiene la obligación de proponer la prueba pertinente y necesaria, y producirla en el debate.
+##### ARTICULO 50.
+**Inmediación.** El fiscal tiene la obligación de proponer la prueba pertinente y necesaria, y producirla en el debate.
 Cuidará de preservar las condiciones de inmediación de todos los sujetos procesales con los medios de convicción y hará una
 interpretación restrictiva de las normas de incorporación de la prueba por lectura al juicio oral.
 
-```
-CAPITULO II
-RELACIONES CON LAS FUERZAS DE SEGURIDAD
-```
-ARTICULO 51. Dependencia y Supervisión. El Director de la Policía Nacional, las autoridades policíacas departamentales y
+### CAPITULO II
+### RELACIONES CON LAS FUERZAS DE SEGURIDAD
+##### ARTICULO 51.
+**Dependencia y Supervisión.** El Director de la Policía Nacional, las autoridades policíacas departamentales y
 municipales que operan en el país y cualquier otra fuerza de seguridad pública o privada, están obligadas a cumplir las órdenes que
 emanen de los fiscales del Ministerio Público y deberán dar cuenta de las investigaciones que efectúen.
 
@@ -648,7 +622,6 @@ supervisión incluirá el correcto cumplimiento de la función auxiliar de la Po
 cumplan tareas de investigación. Los fiscales encargados de la investigación podrán impartirles instrucciones al respecto, cuidando
 de respetar su organización administrativa.
 
-
 La policía y las demás fuerzas de seguridad no podrán realizar investigaciones por sí, salvo los casos urgentes y de prevención
 policial. En este caso deberán informar al Ministerio Público de las diligencias practicadas, en un plazo no mayor de veinticuatro
 horas, el que correrá a partir del inicio de la investigación.
@@ -656,48 +629,47 @@ horas, el que correrá a partir del inicio de la investigación.
 El Fiscal General, los fiscales de distrito y los fiscales de sección podrán nominar, por sí o por solicitud del fiscal encargado del
 caso, a los funcionarios o agentes policiales que auxiliarán en la investigación de un asunto.
 
-ARTICULO 52. Facultad disciplinaria. Los funcionarios y agentes policiales que infrinjan disposiciones legales o reglamentarias, que
+##### ARTICULO 52.
+**Facultad disciplinaria.** Los funcionarios y agentes policiales que infrinjan disposiciones legales o reglamentarias, que
 omitan o retarden la ejecución de un acto propio de sus funciones o lo cumplan negligentemente, serán sancionados por el Fiscal
 General o por los fiscales de distrito y fiscales de sección, a pedido del fiscal responsable del caso o por iniciativa propia, previo
 informe del afectado, con apercibimiento y suspensión hasta de quince días, sin perjuicio de iniciar su persecución penal. Se podrá
 recomendar su cesantía o sanción a la autoridad administrativa correspondiente, y en todo caso, se dará viso a ella de las
 sanciones impuestas con copia de las actuaciones.
 
-ARTICULO 53. Procedimiento. (Reformado por Artículo 30 del Decreto 18-2016 del Congreso de la República). Las
-
+##### ARTICULO 53.
+**Procedimiento.** (Reformado por Artículo 30 del Decreto 18-2016 del Congreso de la República). Las
 sanciones serán impuestas con audiencia al afectado por dos días, evacuada la audiencia, el funcionario deberá imponer la sanción
-correspondiente dentro de los diez días siguientes. El sancionado podrá recurrir la resolución, dentro de los dos días siguientes,
+correspondiente dentro de los diez días siguientes. El sancionado podrá recurrir la resolución, dentro de los dos días siguientes, ante el Fiscal General.
 
-## ante el Fiscal General.
-
-### TITULO IV
-
-### REGIMEN FINANCIERO Y ADMINISTRATIVO
+## TITULO IV
+## REGIMEN FINANCIERO Y ADMINISTRATIVO
 
 ### CAPITULO I
-
 ### REGIMEN FINANCIERO
 
-ARTICULO 54. Presupuesto. El proyecto de presupuesto del Ministerio Público, se enviará anualmente al Ejecutivo para su
+##### ARTICULO 54.
+**Presupuesto.** El proyecto de presupuesto del Ministerio Público, se enviará anualmente al Ejecutivo para su
 conocimiento y al Congreso de la República para su aprobación e integración al Presupuesto General de la Nación. La ejecución
 del presupuesto estará sujeta a los controles y fiscalización de los órganos correspondientes del Estado, conforme lo establece el
 artículo 237 de la Constitución Política de la República.
 
 Sus acuerdos globales de erogación serán firmados por el Fiscal General de la República y el Tesorero del Ministerio Público.
 
-ARTICULO 55. Franquicias. El Ministerio Público tendrá franquicia en los correos y telégrafos nacionales y utilizará papel común en
+##### ARTICULO 55.
+**Franquicias.** El Ministerio Público tendrá franquicia en los correos y telégrafos nacionales y utilizará papel común en
 sus escritos, informes y dictámenes. Las copias certificadas y testimonios de escrituras públicas que solicite se expedirán
 igualmente en papel simple.
 
-ARTICULO 56. Fondos propios. El Ministerio Público cuenta con fondos privativos. La parte que sea condenada en costas dentro
+##### ARTICULO 56.
+**Fondos propios.** El Ministerio Público cuenta con fondos privativos. La parte que sea condenada en costas dentro
 del proceso penal deberá hacerlas efectivas conforme arancel y su producto ingresará al Ministerio Público para ser aprovechado
 en gastos generales de la institución; Con estos fondos se formará una partida especial.
 
-```
-CAPITULO II
-REGIMEN ADMINISTRATIVO
-```
-ARTICULO 57. Organización. El Ministerio Público será administrado por un jefe administrativo, nombrado por el Fiscal General de
+### CAPITULO II
+### REGIMEN ADMINISTRATIVO
+##### ARTICULO 57.
+**Organización.** El Ministerio Público será administrado por un jefe administrativo, nombrado por el Fiscal General de
 la República, de quien dependerá en forma directa. Deberá tener conocimientos especiales en administración e idoneidad
 manifiesta para el cargo.
 
@@ -707,26 +679,25 @@ apoyo que sea necesario.
 
 El jefe administrativo tendrá a su cargo el archivo general de la institución.
 
-ARTICULO 58. Oficina de información. El jefe administrativo organizará una oficina que informe a la población y a los medios de
+##### ARTICULO 58.
+**Oficina de información.** El jefe administrativo organizará una oficina que informe a la población y a los medios de
 comunicación sobre todos los aspectos que se relacionen con la institución y que tengan relevancia pública, debiendo respetar lo
 normado en el artículo 7 de esta ley.
 
-ARTICULO 59. Reglamentación. El Fiscal General de la República, determinará las secciones especiales de la Jefatura
+##### ARTICULO 59.
+**Reglamentación.** El Fiscal General de la República, determinará las secciones especiales de la Jefatura
 Administrativa y reglamentará sus funciones.
 
 También reglamentará la carrera del personal administrativo.
 
-```
 TITULO V
 DISPOSICIONES GENERALES
-```
-```
+
 CAPITULO I
 DISCIPLINA DEL SERVICIO
-```
 
-ARTICULO 60. (Reformado por Artículo 31 del Decreto 18-2016 del Congreso de la República). Principios. El sistema
-
+##### ARTICULO 60.
+**(Reformado por Artículo 31 del Decreto 18-2016 del Congreso de la República).** Principios. El sistema
 disciplinario de la carrera profesional del Ministerio Público se rige conforme los siguientes principios:
 
 1) Principio de legalidad. Los funcionarios y empleados del Ministerio Público están sujetos a responsabilidad disciplinaria. Solo
@@ -746,16 +717,14 @@ sistema disciplinario de la carrera profesional.
 5) Proporcionalidad. En todo el procedimiento disciplinario y al momento de imponer las sanciones administrativas, se atenderá
 el principio de proporcionalidad, tomando en cuenta:
 
-```
 a. La naturaleza del servicio afectado.
 b. Grado de responsabilidad.
 c. El grado de perturbación efectiva del servicio.
 d. La naturaleza de los bienes jurídicos afectados.
 e. Las circunstancias en las que sucedió el hecho.
 f. Los antecedentes laborales del trabajador en la institución.
-```
-ARTICULO 61. (Reformado por Artículo 32 del Decreto 18-2016 del Congreso de la República). Prescripción y extinción de
-
+##### ARTICULO 61.
+**(Reformado por Artículo 32 del Decreto 18-2016 del Congreso de la República).** Prescripción y extinción de
 la responsabilidad administrativa. Las faltas establecidas en la presente Ley y las acciones que se pueden iniciar a raíz de las
 mismas, prescriben conforme a las siguientes reglas:
 
@@ -773,13 +742,12 @@ independientemente para cada una de ellas.
 Constarán en los registros de los órganos disciplinarios del Ministerio Público, las faltas que sean declaradas con lugar y sin lugar,
 sin perjuicio de los derechos laborales existentes.
 
-ARTICULO 62. (Reformado por Artículo 33 del Decreto 18-2016 del Congreso de la República). Faltas. Sin perjuicio de las
-
+##### ARTICULO 62.
+**(Reformado por Artículo 33 del Decreto 18-2016 del Congreso de la República).** Faltas. Sin perjuicio de las
 responsabilidades penales y civiles, se consideran faltas las siguientes:
 
 a. Faltas leves:
 
-```
 a. La inobservancia del horario de trabajo sin causa justificada, siempre que no implique una falta de mayor gravedad
 conforme a esta Ley.
 b. La falta de respeto debido hacia el público, compañeros y subalternos en el desempeño del cargo, la víctima, el
@@ -788,17 +756,13 @@ Ministerio Público, del Instituto de la Defensa Pública Penal y los abogados l
 c. La negligencia en el cumplimiento de las funciones propias de su cargo, siempre que la misma no constituya falta
 grave o gravísima.
 d. El uso inapropiado de las instalaciones, bienes muebles e inmuebles de la institución.
-```
 b. Faltas graves:
 
-```
 a. Ausencia o abandono injustificado a sus labores, o inobservancia reiterada del horario de trabajo, o ausencia
 injustificada de las oficinas donde se labora.
 b. Faltar a la debida celeridad en el trámite de los procesos e incurrir en retrasos y descuidos injustificados en la
 tramitación de los procesos.
-```
 
-```
 c. No guardar la discreción debida en aquellos asuntos que por su naturaleza o en virtud de leyes o reglamentos
 requieran reserva, ocasionando consecuencias graves para el desarrollo del proceso.
 d. La falta en el acatamiento de las normas o instrucciones generales o específicas de la autoridad fiscal en las
@@ -818,10 +782,8 @@ la investigación u omitir notificar la resolución del juez que ponga fin al pr
 l. Hacer acusaciones, pedimentos, formular conclusiones o rendir informes o dictámenes carentes de fundamento legal.
 m. No ingresar ni actualizar, la información del avance de las investigaciones en el sistema informático oficial del
 Ministerio Público, en los casos en que no constituya falta gravísima.
-```
 c. Faltas muy graves:
 
-```
 a. Desempeñar simultáneamente a la función, empleos o cargos remunerados, con excepción de la docencia, o prestar
 cualquier clase de servicio profesional.
 b. Interferir en el ejercicio de funciones de los otros Organismos del Estado, sus agentes o representantes, o permitir la
@@ -859,28 +821,22 @@ s. La conducta y trato discriminatorio, incluyendo el insultar o proferir frases
 etnia, prácticas culturales, religión, género, sexo, edad, idioma o de otra índole en el ejercicio del cargo en contra del
 personal de la institución, partes procesales, sus abogados o público en general.
 t. Ejercer la profesión de abogado litigando asuntos particulares por sí o por interpósita persona.
-u. Extraer fuera de los casos en que la ley lo autoriza, los expedientes y documentos fuera de la oficina en que deban
-```
-## estar, o de las del Ministerio Público.
+u. Extraer fuera de los casos en que la ley lo autoriza, los expedientes y documentos fuera de la oficina en que deban estar, o de las del Ministerio Público.
 
-ARTICULO 63. (Reformado por Artículo 34 del Decreto 18-2016 del Congreso de la República). Sanciones. Las sanciones
-
-que se impongan serán conforme al tipo de falta cometida.
+##### ARTICULO 63.
+**(Reformado por Artículo 34 del Decreto 18-2016 del Congreso de la República).** Sanciones. Las sanciones que se impongan serán conforme al tipo de falta cometida.
 
 a. Sanciones para faltas leves: Amonestación verbal y escrita.
-
 
 b. Sanciones para faltas graves: Suspensión de empleo o cargo sin goce de salario hasta por veinte (20) días.
 
 c. Sanciones para faltas muy graves: Suspensión desde veintiuno (21) hasta noventa (90) días sin goce de salario o destitución.
 
 La imposición de una sanción por falta grave o por tres faltas leves, impide el ascenso en la carrera e impone la limitación temporal
-de optar a becas dentro o fuera del país y optar a otros cargos dentro de la institución, mientras no se haya cancelado la anotación
+de optar a becas dentro o fuera del país y optar a otros cargos dentro de la institución, mientras no se haya cancelado la anotación en el expediente del sancionado. La sanción del cargo o empleo impide el reingreso de la persona en el Ministerio Público.
 
-## en el expediente del sancionado. La sanción del cargo o empleo impide el reingreso de la persona en el Ministerio Público.
-
-ARTICULO 64. (Reformado por Artículo 35 del Decreto 18-2016 del Congreso de la República). Juntas disciplinarias. Se
-
+##### ARTICULO 64.
+**(Reformado por Artículo 35 del Decreto 18-2016 del Congreso de la República).** Juntas disciplinarias. Se
 crean las juntas disciplinarias, las que tendrán a su cargo conocer y en su caso, imponer las sanciones por faltas leves, graves y
 muy graves, de conformidad con la presente Ley a fiscales regionales, fiscales de distrito, fiscales de distrito adjunto, fiscales de
 sección, fiscales de sección adjunto, agentes fiscales, fiscales para asuntos especiales, auxiliares fiscales, oficiales de fiscalía y
@@ -903,13 +859,10 @@ Para ser integrante de la junta disciplinaria se requiere:
 3) No tener sanciones vigentes impuestas por el Tribunal de Honor del Colegio de Abogados y Notarios o de otro órgano
 disciplinario de la institución en donde se haya desempeñado.
 
-Cuando se inicie procedimiento disciplinario contra un miembro de una junta disciplinaria, este deberá ser sustituido por el suplente
+Cuando se inicie procedimiento disciplinario contra un miembro de una junta disciplinaria, este deberá ser sustituido por el suplente respectivo.
 
-## respectivo.
-
-## ARTÍCULO 64 bis. Atribuciones de la junta disciplinaria. (Adicionado por Artículo 36 del Decreto 18-2016 del Congreso de la
-
-## República). Son atribuciones de la junta disciplinaria:
+##### ARTÍCULO 64bis. 
+**Atribuciones de la junta disciplinaria.** (Adicionado por Artículo 36 del Decreto 18-2016 del Congreso de la República). Son atribuciones de la junta disciplinaria:
 
 1) Conocer, tramitar y resolver los procedimientos disciplinarios, imponiendo las sanciones correspondientes de acuerdo a la
 presente Ley.
@@ -917,8 +870,8 @@ presente Ley.
 2) Remitir a la unidad de evaluación de desempeño la información relativa a sanciones firmes, a efecto de ser consideradas
 como parte de la evaluación de desempeño.
 
-ARTICULO 65. (Reformado por Artículo 37 del Decreto 18-2016 del Congreso de la República). Supervisión General. Se
-
+##### ARTICULO 65.
+**(Reformado por Artículo 37 del Decreto 18-2016 del Congreso de la República).** Supervisión General. Se
 crea la Supervisión General, a la que corresponde la función de investigar la comisión de hechos constitutivos de faltas
 administrativas, y en su caso formular la imputación que corresponda.
 
@@ -936,13 +889,10 @@ La Supervisión General deberá recolectar los elementos de prueba de cargo y de
 conclusivo de la investigación, pudiendo para el efecto solicitar informes, peritajes, documentos y recibir declaraciones de
 particulares y otros elementos de prueba que sean idóneos, de cualquier funcionario o empleado de la institución o de cualquier otra.
 
-Cuando se inicie procedimiento disciplinario contra el personal de la Supervisión General, el Fiscal General designará a la persona
+Cuando se inicie procedimiento disciplinario contra el personal de la Supervisión General, el Fiscal General designará a la persona que deba desarrollar la investigación respectiva en los términos establecidos en la presente Ley.
 
-## que deba desarrollar la investigación respectiva en los términos establecidos en la presente Ley.
-
-## ARTÍCULO 65 bis. Inicio del procedimiento disciplinario para la carrera fiscal. (Adicionado por Artículo 38 del Decreto 18-
-
-## del Congreso de la República). El procedimiento disciplinario puede iniciarse por:
+##### ARTÍCULO 65bis. 
+**Inicio del procedimiento disciplinario para la carrera fiscal.** (Adicionado por Artículo 38 del Decreto 18- del Congreso de la República). El procedimiento disciplinario puede iniciarse por:
 
 
 a) Denuncia escrita o verbal presentada por particulares, funcionarios o empleados públicos;
@@ -957,8 +907,8 @@ en el plazo máximo de dos (2) días, debiéndose expedir constancia gratuita de
 En caso que el superior jerárquico tome conocimiento de una posible falta administrativa, levantará un acta y la remitirá a
 Supervisión General del Ministerio Público dentro del plazo de dos (2) días.
 
-## ARTÍCULO 65 ter. Primera decisión. (Adicionado por Artículo 39 del Decreto 18-2016 del Congreso de la República). La
-
+##### ARTÍCULO 65ter. 
+**Primera decisión.** (Adicionado por Artículo 39 del Decreto 18-2016 del Congreso de la República). La
 Supervisión General, dentro de los dos (2) días siguientes de haber recibido la denuncia deberá:
 
 a) Desestimar mediante resolución motivada el caso, si la denuncia se refiere a actos que no son constitutivos de faltas.
@@ -980,8 +930,8 @@ La resolución en que el Fiscal General se pronuncie sobre la suspensión provis
 De igual manera se procederá en el caso que se dicte auto de procesamiento contra un funcionario de la institución por la comisión
 de un delito, en este caso la medida durará hasta que se dicte la resolución que ponga fin al proceso.
 
-## ARTÍCULO 65 quater. Investigación. (Adicionado por Artículo 40 del Decreto 18-2016 del Congreso de la República). La
-
+##### ARTÍCULO 65quater. 
+**Investigación.** (Adicionado por Artículo 40 del Decreto 18-2016 del Congreso de la República). La
 investigación de las faltas graves y muy graves tendrá una duración máxima de un (1) mes contado a partir de la resolución de
 Supervisión General.
 
@@ -996,9 +946,8 @@ disciplinaria deberá resolver en un plazo máximo de dos (2) días.
 En cualquier momento de la investigación, se remitirá la denuncia a la Oficina de Atención Permanente correspondiente, si se
 determina que el hecho investigado es además constitutivo de delito.
 
-## ARTÍCULO 65 quinquies. Actos conclusivos. (Adicionado por Artículo 41 del Decreto 18-2016 del Congreso de la
-
-## República). Finalizada la investigación, la Supervisión General deberá, con base a los medios de prueba obtenidos, formular
+##### ARTÍCULO 65quinquies. 
+**Actos conclusivos.** (Adicionado por Artículo 41 del Decreto 18-2016 del Congreso de la República). Finalizada la investigación, la Supervisión General deberá, con base a los medios de prueba obtenidos, formular
 
 fundadamente cualquiera de los siguientes actos conclusivos ante la junta disciplinaria:
 
@@ -1012,11 +961,11 @@ b) La imputación de cargos solicitando la sanción correspondiente. La imputaci
 2. La indicación de la falta cometida, de conformidad con lo establecido en la presente Ley;
 3. Las pruebas con indicación precisa de los hechos que cada una pretende demostrar.
 
-
 El acto conclusivo deberá ser notificado por la Supervisión General al denunciado y denunciante. Junto con la solicitud, se elevará el
 expediente respectivo a la junta disciplinaria.
 
-## ARTÍCULO 65 sexies. Audiencia oral. (Adicionado por Artículo 42 del Decreto 18-2016 del Congreso de la República).
+##### ARTÍCULO 65sexies. 
+**Audiencia oral.** (Adicionado por Artículo 42 del Decreto 18-2016 del Congreso de la República).
 
 Dentro de los diez (10) días siguientes a la recepción de la solicitud, la junta disciplinaria convocará a una audiencia oral, en la que
 se oirá a la Supervisión General y al funcionario o empleado investigado.
@@ -1045,9 +994,8 @@ El Fiscal General resolverá fundadamente ratificando, revocando o modificando l
 interpuesto exclusivamente por el sancionado no podrán imponerse sanciones más graves a las impuestas por el órgano
 sancionador.
 
-## ARTÍCULO 65 septies. Procedimiento disciplinario para el área administrativa, técnica y de apoyo. (Adicionado por Artículo 43
-
-## del Decreto 18-2016 del Congreso de la República). El procedimiento para sancionar las faltas cometidas por los empleados
+##### ARTÍCULO 65septies. 
+**Procedimiento disciplinario para el área administrativa, técnica y de apoyo.** (Adicionado por Artículo 43 del Decreto 18-2016 del Congreso de la República). El procedimiento para sancionar las faltas cometidas por los empleados
 
 del área administrativa, técnica y de apoyo, podrá iniciarlo el superior jerárquico del trabajador (a) que será sujeto a procedimiento
 disciplinario, deberá faccionar un acta en la cual se harán constar las acciones u omisiones en que incurrió la persona a quien se
@@ -1076,22 +1024,15 @@ En todos los casos se valorará toda la prueba aportada por el trabajador (a).
 
 Asimismo, los plazos establecidos se computarán como días hábiles, y de todo lo actuado se dejará constancia escrita.
 
-## ARTÍCULO 65 octies. Ejecución de sanciones. (Adicionado por Artículo 44 del Decreto 18-2016 del Congreso de la
-
-## República). Las sanciones disciplinarias se ejecutarán cuando se encuentre firme la resolución respectiva. La autoridad que dicte
-
-la última resolución deberá oficiar la misma a la Dirección de Recursos Humanos para que la haga efectiva.
-
+##### ARTÍCULO 65octies. 
+**Ejecución de sanciones.** (Adicionado por Artículo 44 del Decreto 18-2016 del Congreso de la República). Las sanciones disciplinarias se ejecutarán cuando se encuentre firme la resolución respectiva. La autoridad que dicte la última resolución deberá oficiar la misma a la Dirección de Recursos Humanos para que la haga efectiva.
 
 Las sanciones impuestas se anotarán en el expediente personal del trabajador, que obra en la Dirección de Recursos Humanos. La
 habilitación de la sanción se acordará de oficio transcurrido el plazo de tres (3) meses si es amonestación verbal, doce (12) meses
 en caso de amonestación escrita y dieciocho (18) meses en caso de suspensión de labores sin goce de salario.
 
-ARTÍCULO 65 nonies. Procedimiento disciplinarlo para los Secretarios, Sub Secretarios, Supervisor General, Jefes del área
-
-## administrativa, técnica y de apoyo. (Adicionado por Artículo 45 del Decreto 18-2016 del Congreso de la República). El
-
-procedimiento para sancionar las faltas cometidas por los empleados de más alta jerarquía en el Ministerio Público, tales como
+##### ARTÍCULO 65nonies. 
+**Procedimiento disciplinarlo para los Secretarios, Sub Secretarios, Supervisor General, Jefes del área administrativa, técnica y de apoyo. (Adicionado por Artículo 45 del Decreto 18-2016 del Congreso de la República).** El procedimiento para sancionar las faltas cometidas por los empleados de más alta jerarquía en el Ministerio Público, tales como
 secretarios y sub secretarios de las distintas secretarías, supervisor general, jefes del área administrativa, jefe de la Dirección de
 Investigaciones Criminalísticas, jefes del área técnica y de apoyo deberá iniciarlo el Fiscal General de la República, previo informe
 detallado de la Supervisión General y la junta disciplinaria, el cual contendrá los antecedentes del caso a que esta se refiera, con
@@ -1105,22 +1046,24 @@ deberá realizarse en un plazo no mayor de cinco (5) días hábiles, la remitir�
 Público decida si procede imponer o no una sanción al personal denunciado, el que podrá impugnar la resolución mediante recurso
 de reposición.
 
-```
 CAPITULO II
 INSTRUCCIONES
-```
-ARTICULO 66. Facultad de impartir instrucciones. Según el orden jerárquico, los miembros del Ministerio Público podrán impartir a
+
+##### ARTICULO 66.
+**Facultad de impartir instrucciones.** Según el orden jerárquico, los miembros del Ministerio Público podrán impartir a
 sus subordinados las instrucciones convenientes al servicio y al ejercicio de las funciones, tanto de carácter general como las
 referidas a asuntos específicos.
 
-ARTICULO 67. Deber de obediencia. El fiscal que reciba una instrucción concerniente al servicio y al ejercicio de sus funciones
+##### ARTICULO 67.
+**Deber de obediencia.** El fiscal que reciba una instrucción concerniente al servicio y al ejercicio de sus funciones
 deberá cumplirla si se encuentra enmarcada dentro de la ley y atenerse a ella en sus actuaciones, sin perjuicio de manifestar su
 posición personal.
 
 En los debates orales, el funcionario que asista a ellos actuará y concluirá según su criterio. Si algún superior jerárquico desea
 conducir el debate según su propio criterio, éste deberá asistir a la audiencia.
 
-ARTICULO 68. Objeción. (Reformado por Artículo 46 del Decreto 18-2016 del Congreso de la República). El fiscal que
+##### ARTICULO 68.
+**Objeción.** (Reformado por Artículo 46 del Decreto 18-2016 del Congreso de la República). El fiscal que
 
 recibiere la instrucción por escrito del jefe inmediato que considere contraria a la ley, sin efectos suspensivos, lo hará saber a quién
 emitió la instrucción por informe fundado dentro de dos (2) días.
@@ -1130,23 +1073,25 @@ decidirá.
 
 No podrá darse instrucciones verbales, sin embargo en aquellos casos en los que las circunstancias lo ameriten y no permitan a la
 brevedad emitir la instrucción por escrito, esta podrá emitirse en forma verbal, dejando constancia razonada de ello dentro del
+expediente correspondiente.
 
-## expediente correspondiente.
-
-ARTICULO 69. Actos procesales sujetos a plazo o urgentes. Cuando una instrucción objetada, general o particular, concierna a un
+##### ARTICULO 69.
+**Actos procesales sujetos a plazo o urgentes.** Cuando una instrucción objetada, general o particular, concierna a un
 acto procesal sujeto a un plazo o que no admite dilación, el funcionario que recibe la orden la cumplirá en nombre del superior que
 la emitió, sin perjuicio del procedimiento previsto en el artículo anterior.
 
 Si la instrucción objetada consiste en omitir un acto sujeto a plazo o que no admite dilación, el funcionario que la objete actuará bajo
 su exclusiva responsabilidad, sin perjuicio del reemplazo que se pudiere ordenar o del desistimiento de la actividad cumplida.
 
-ARTICULO 70. Forma. Las instrucciones serán impartidas en forma escrita y trasmitidas por cualquier vía de comunicación. En
+##### ARTICULO 70.
+**Forma.** Las instrucciones serán impartidas en forma escrita y trasmitidas por cualquier vía de comunicación. En
 caso de peligro por la demora, las instrucciones podrán ser impartidas oralmente, por cualquier vía de comunicación y confirmadas
 por escrito inmediatamente.
 
 Las instrucciones, sencillas, que sólo consistan en simples órdenes de servicio podrán ser impartidas oralmente.
 
-ARTICULO 71. Reemplazos y traslados. (Reformado por Artículo 47 del Decreto 18-2016 del Congreso de la República).
+##### ARTICULO 71.
+**Reemplazos y traslados.** (Reformado por Artículo 47 del Decreto 18-2016 del Congreso de la República).
 
 El Jefe del Ministerio Público, los fiscales regionales, los fiscales de distrito y los fiscales de sección respecto del personal a su
 cargo, podrán designar a uno o más integrantes del Ministerio Público para que actúen en un asunto determinado o en varios de
@@ -1156,19 +1101,18 @@ trasladarlo por necesidades de servicio.
 El traslado por necesidades de servicio se hará por resoluciones motivadas por el Jefe del Ministerio Público donde explicará las
 razones del traslado para responder frente a la criminalidad o razones de necesidad de la administración.
 
-
 El Jefe del Ministerio Público podrá autorizar el traslado por petición del interesado, siempre que las condiciones del servicio lo
+permitan y considerando los méritos del interesado, siempre y cuando haya aprobado la evaluación de desempeño.
 
-## permitan y considerando los méritos del interesado, siempre y cuando haya aprobado la evaluación de desempeño.
-
-ARTICULO 72. Impugnación. (Reformado por Artículo 48 del Decreto 18-2016 del Congreso de la República). El fiscal
+##### ARTICULO 72.
+**Impugnación.** (Reformado por Artículo 48 del Decreto 18-2016 del Congreso de la República). El fiscal
 
 que hubiere sido trasladado podrá solicitar reconsideración ante el Fiscal General, en el plazo de tres (3) días de haber sido
 notificado el traslado. La reconsideración deberá ser resuelta en un plazo no mayor de quince (15) días. La solicitud de
+reconsideración no suspenderá el traslado.
 
-## reconsideración no suspenderá el traslado.
-
-ARTICULO 73. Apartamiento. Son causas de inhibitoria de los fiscales para conocer en asuntos determinados, las mismas que para
+##### ARTICULO 73.
+**Apartamiento.** Son causas de inhibitoria de los fiscales para conocer en asuntos determinados, las mismas que para
 los jueces determina la Ley del Organismo Judicial como causales de impedimento, excusa o recusación, así como tener
 parentesco con el juez o magistrado ante quien deban ejercer su función. El impedimento o excusa se prueba mediante simple
 razón que suscribirá el respectivo funcionario, quien será subrogado por el que determine el Fiscal General de la República o el
@@ -1181,19 +1125,18 @@ presentada la solicitud por decisión fundada.
 En caso que la ley establezca la obligación del apartamiento del fiscal para un caso concreto, el superior jerárquico decidirá de
 acuerdo a las normas internas de distribución de trabajo.
 
-ARTICULO 74. Deber de informar. Los integrantes del Ministerio Público comunicarán a su superior jerárquico inmediato los
+##### ARTICULO 74.
+**Deber de informar.** Los integrantes del Ministerio Público comunicarán a su superior jerárquico inmediato los
 asuntos a su cargo que, por su importancia, trascendencia o complejidad, requieran un tratamiento especial, indicando
 concretamente las dificultades y proponiendo el modo de solucionarlas.
 
-```
 CAPITULO III
-* Carrera Profesional del Ministerio Público
-```
-## * (Reformado nombre del Capítulo III del Título V por Artículo 49 del Decreto 18-2016 del Congreso de la
+Carrera Profesional del Ministerio Público
 
-## República).
+**(Reformado nombre del Capítulo III del Título V por Artículo 49 del Decreto 18-2016 del Congreso de la República).**
 
-ARTICULO 75. (Reformado por Artículo 50 del Decreto 18-2016 del Congreso de la República). Carrera Profesional del
+##### ARTICULO 75.
+**(Reformado por Artículo 50 del Decreto 18-2016 del Congreso de la República).** Carrera Profesional del
 
 Ministerio Público. Se entenderá por carrera profesional el sistema de selección, nombramiento, ascenso, traslado, evaluación de
 desempeño y sistema disciplinario de los trabajadores del Ministerio Público, tanto fiscales, como personal técnico y administrativo
@@ -1210,7 +1153,8 @@ científico que cumple tareas de apoyo a la persecución penal. La carrera admin
 
 ## apoyo administrativo
 
-ARTICULO 76. (Reformado por Artículo 51 del Decreto 18-2016 del Congreso de la República). Principios de la carrera
+##### ARTICULO 76.
+**(Reformado por Artículo 51 del Decreto 18-2016 del Congreso de la República).** Principios de la carrera
 
 profesional del Ministerio Público. El sistema de carrera profesional del Ministerio Público, que corresponde a la carrera fiscal,
 carrera técnica y carrera administrativa, se rige conforme los siguientes principios:
@@ -1231,55 +1175,41 @@ color, sexo, idioma, religión, opinión política o de otra índole.
 f. Estabilidad: El sistema de carrera profesional garantizará la estabilidad en el cargo mientras no se incurra en causal legal
 para el cese del mismo.
 
-
 No se considerarán contrarias a este principio las acciones afirmativas que implemente el Ministerio Público, para proporcionar la
+presencia de grupos específicos en las diferentes unidades y dependencias de esta unidad.
 
-## presencia de grupos específicos en las diferentes unidades y dependencias de esta unidad.
-
-ARTICULO 77. (Reformado por Artículo 52 del Decreto 18-2016 del Congreso de la República). Incapacidades o
-
+##### ARTICULO 77.
+**(Reformado por Artículo 52 del Decreto 18-2016 del Congreso de la República).** Incapacidades o
 incompatibilidades. Son causales de incapacidad o incompatibilidad:
 
 a) No podrán aspirar a ingresar a la carrera del Ministerio Público:
 
-```
 1) Quienes hayan sido inhabilitados, en forma absoluta o especial para ejercer cargos públicos o la profesión de abogado
 y/o de notario o hayan sido privados de sus derechos como ciudadanos mientras dure la inhabilitación.
-```
-```
 2) Quienes hayan sido destituidos en otra institución de justicia, conforme al proceso legal o disciplinario correspondiente.
-```
-```
 3) Quienes hubieren sido condenados en cualquier tiempo por delito doloso.
-```
-```
 4) Quienes habiéndose desempeñado anteriormente en un servicio público, no acompañen a su postulación las
 respectivas declaraciones de finiquito de la Contraloría General de Cuentas, conforme a la Ley de Probidad y
 Responsabilidades de Funcionarios y Empleados Públicos.
-```
 b) Será incompatible con la función de miembro del Ministerio Público:
 
-```
 1) Cualquier cargo de elección popular o la postulación para el mismo.
-```
-```
 2) Cualquier otro empleo o cargo público privado remunerado, y cualquier otro empleo, cargos de dirección y asesoría en
 instituciones políticas, sindicatos o entidades que reciban, administren o ejecuten recursos públicos o bienes del
 Estado o que sean parte de la administración del Estado ajenos al Ministerio Público, u otras entidades con fines
 políticos o ser ministro de cualquier religión o culto. Se exceptúa el ejercicio de la docencia en la forma prescrita por la
 Constitución.
-```
-```
 3) El ejercicio de la abogacía y/o notariado, excepto el ejercicio de la defensa material propia.
-```
-## 4) El ejercicio del comercio o la integración de órganos de administración o control de sociedades mercantiles.
+4) El ejercicio del comercio o la integración de órganos de administración o control de sociedades mercantiles.
 
-ARTICULO 78. Nombramientos. (Reformado por Artículo 53 del Decreto 18-2016 del Congreso de la República). Los
+##### ARTICULO 78.
+**Nombramientos.** (Reformado por Artículo 53 del Decreto 18-2016 del Congreso de la República). Los
 
 nombramientos para cubrir los cargos en el Ministerio Público, estarán sujetos al procedimiento que se establezca en el reglamento,
 el cual deberá estar basado en concursos de oposición y mérito, que para el efecto debe emitir el Fiscal General.
 
-ARTICULO 79. (Reformado por Artículo 54 del Decreto 18-2016 del Congreso de la República). Ingreso y ascenso a la
+##### ARTICULO 79.
+**(Reformado por Artículo 54 del Decreto 18-2016 del Congreso de la República).** Ingreso y ascenso a la
 
 carrera fiscal. Cada vez que se determinen las necesidades del servicio, a requerimiento del Fiscal General, la Unidad de
 Capacitación institucional, convocará a proceso de oposición.
@@ -1296,24 +1226,19 @@ a) Precalificación. Reunir los requisitos legales exigidos para el cargo y no t
 
 b) Concurso de oposición. El concurso de oposición se realizará respetando las siguientes etapas:
 
-```
 1) Examen de mérito: La Unidad de Capacitación calificará el mérito del aspirante, evaluando sus antecedentes
 profesionales de acuerdo a la tabla fijada en el reglamento.
-```
-```
 2) Prueba escrita de conocimiento: Se realizará una prueba escrita de conocimiento que será elaborada y calificada por
 la Unidad de Capacitación. La prueba deberá realizarse de tal manera que la persona que la califique ignore la
 identidad del examinando.
-```
-```
 3) Prueba oral de conocimiento: El aspirante será examinado oralmente sobre los conocimientos que se requieran para
 el puesto. El reglamento determinará la forma de realización de la prueba oral. La prueba oral será pública, pudiendo
 ser presenciada por las personas que lo deseen, siempre y cuando no se perturbe el orden y el normal desarrollo de la
-```
-## misma.
+misma.
 
 
-ARTICULO 80. (Reformado por Artículo 55 del Decreto 18-2016 del Congreso de la República). Unidad de Capacitación.
+##### ARTICULO 80.
+**(Reformado por Artículo 55 del Decreto 18-2016 del Congreso de la República).** Unidad de Capacitación.
 
 La Unidad de Capacitación dependerá del Fiscal General del Ministerio Público, quien nombrará al Director y Subdirector, después
 de un procedimiento de oposición y selección.
@@ -1339,18 +1264,18 @@ convocará a un curso de selección a los aspirantes a fiscales que hayan aproba
 a la calificación obtenida. Durante el curso de selección, los aspirantes serán evaluados por la Unidad de Capacitación, aquellos
 que no superen el curso de selección no podrán ser nombrados en las plazas vacantes y serán suprimidos del listado de aspirantes.
 
-## El reglamento definirá la duración, metodología y sistema de evaluación y aprobación del curso.
+El reglamento definirá la duración, metodología y sistema de evaluación y aprobación del curso.
 
-ARTICULO 81. (DEROGADO por Artículo 60 del Decreto 18-2016 del Congreso de la República). Unidad de
+##### ARTICULO 81.
+**(DEROGADO por Artículo 60 del Decreto 18-2016 del Congreso de la República).** Unidad de
 
 Capacitación. La Unidad de Capacitación estará a cargo del Consejo del Ministerio Público, quien nombrará al director y subdirector
 de la Unidad. Será la encargada de promover, ejecutar y organizar cursos de capacitación y especialización para los integrantes del
 Ministerio Público y los aspirantes a cargos en la institución, así como también asignará becas de estudio conforme concurso de
 oposición, de acuerdo con el reglamento que elaborará para tal efecto.
 
-## ARTÍCULO 81 bis. Evaluación de desempeño. (Adicionado por Artículo 56 del Decreto 18-2016 del Congreso de la
-
-## República). La evaluación de desempeño es el sistema permanente por medio del cual se califica el rendimiento del personal de
+##### ARTÍCULO 81bis. 
+**Evaluación de desempeño.** (Adicionado por Artículo 56 del Decreto 18-2016 del Congreso de la República). La evaluación de desempeño es el sistema permanente por medio del cual se califica el rendimiento del personal de
 
 carrera, tendrá como finalidad determinar la eficiencia y eficacia del personal en el cumplimiento de sus funciones, así como
 establecer necesidades de capacitación a efecto de superar las deficiencias encontradas y reconocimientos.
@@ -1361,7 +1286,8 @@ El Ministerio Público contará con una unidad especializada, integrada por equi
 desarrollar y ejecutar el sistema de evaluación de desempeño, los integrantes de la unidad especializada deberán ser profesionales
 con cinco (5) años o más de colegiación profesional y encontrarse colegiados activos.
 
-## ARTÍCULO 81 ter. Contenido. (Adicionado por Artículo 57 del Decreto 18-2016 del Congreso de la República). La
+##### ARTÍCULO 81ter. 
+**Contenido.** (Adicionado por Artículo 57 del Decreto 18-2016 del Congreso de la República). La
 
 evaluación comprenderá:
 
@@ -1380,12 +1306,10 @@ La Unidad de Evaluación deberá elaborar los manuales e instrumentos de evaluac
 desarrollará la metodología de evaluación, los aspectos a evaluar, la valoración que le sea asignada a cada uno de ellos y la escala
 de calificación. El Jefe del Ministerio Público deberá aprobar el reglamento de evaluación de desempeño.
 
-## ARTÍCULO 81 quater. Resultados de la evaluación de desempeño. (Adicionado por Artículo 58 del Decreto 18-2016 del
-
-## Congreso de la República). Solamente quienes aprueben la evaluación de desempeño con la nota establecida en el reglamento,
+##### ARTÍCULO 81quater. 
+**Resultados de la evaluación de desempeño.** (Adicionado por Artículo 58 del Decreto 18-2016 del Congreso de la República). Solamente quienes aprueben la evaluación de desempeño con la nota establecida en el reglamento,
 
 podrán optar a ascensos en la institución.
-
 
 Previo a decidir sobre la concesión de un ascenso, debe evaluarse la mesa de trabajo del aspirante a efecto de determinar su perfil
 de trabajo.
@@ -1401,7 +1325,8 @@ los resultados de la evaluación de desempeño serán de acceso público.
 Cuando del proceso de evaluación se adviertan indicios sobre la existencia de delitos, faltas o infracciones administrativas, se
 comunicará inmediatamente al órgano correspondiente para el inicio de las investigaciones.
 
-## ARTÍCULO 81 quinquies. Recursos. (Adicionado por Artículo 59 del Decreto 18-2016 del Congreso de la República). El
+##### ARTÍCULO 81quinquies. 
+**Recursos.** (Adicionado por Artículo 59 del Decreto 18-2016 del Congreso de la República). El
 
 funcionario evaluado, deberá ser notificado del resultado de las evaluaciones de desempeño y podrá solicitar su revisión de forma
 fundamentada ante el jefe de la unidad de evaluación dentro de los ocho (8) días siguientes de haber recibido la calificación,
@@ -1414,54 +1339,63 @@ el presente Ley y en el reglamento.
 
 b) El interponente deberá indicar concretamente el error en el que considere que se incurrió en la evaluación.
 
-```
 TITULO VI
+
 CAPITULO UNICO
 DISPOSICIONES TRANSITORIAS Y FINALES
-```
-ARTICULO 82. Reglamento. El Fiscal General, elaborará los reglamentos correspondientes, dentro de los noventa días siguientes a
+
+##### ARTICULO 82.
+**Reglamento.** El Fiscal General, elaborará los reglamentos correspondientes, dentro de los noventa días siguientes a
 la vigencia de esta ley. En el mismo término, el Consejo del Ministerio Público elaborará los reglamentos que a dicho órgano le
 competen.
 
-ARTICULO 83. Presupuesto inicial. Se faculta al Presidente de la República para que formule el primer presupuesto del Ministerio
+##### ARTICULO 83.
+**Presupuesto inicial.** Se faculta al Presidente de la República para que formule el primer presupuesto del Ministerio
 Público que regirá al entrar en vigencia esta ley. Dicho presupuesto deberá ser sometido a consideración del Congreso de la
 República para su aprobación.
 
-ARTICULO 84. Derechos adquiridos. Los derechos adquiridos por el personal del Ministerio Público con anterioridad a la vigencia
+##### ARTICULO 84.
+**Derechos adquiridos.** Los derechos adquiridos por el personal del Ministerio Público con anterioridad a la vigencia
 de la presente ley; serán inalterables y servirán de base para optar a los nuevos cargos que se crearen.
 
-ARTICULO 85. Síndicos. En los municipios del interior de la República cuando no hubieren fiscales del Ministerio Público actuarán
+##### ARTICULO 85.
+**Síndicos.** En los municipios del interior de la República cuando no hubieren fiscales del Ministerio Público actuarán
 los síndicos municipales en representación del Ministerio Público para la aplicación del criterio de oportunidad, salvo que el fiscal
 de distrito ejerza la función por sí mismo o designe un agente fiscal o auxiliar fiscal para que se haga cargo de los asuntos.
 
-ARTICULO 86. Secretarios. Conforme las disposiciones administrativas internas que dicte el Fiscal General se podrán nombrar
+##### ARTICULO 86.
+**Secretarios.** Conforme las disposiciones administrativas internas que dicte el Fiscal General se podrán nombrar
 como secretarios a las personas que actualmente ocupan los cargos de oficiales y en el presupuesto deberán ser clasificados como
 tales.
 
-ARTICULO 87. Fortalecimiento Institucional. El Fiscal General podrá convocar a los diferentes sectores nacionales y a la comunidad
+##### ARTICULO 87.
+**Fortalecimiento Institucional.** El Fiscal General podrá convocar a los diferentes sectores nacionales y a la comunidad
 internacional con el objeto de captar recursos para la creación de un fondo nacional de cooperación destinado a la reorganización
 del Ministerio Público, a la tecnificación de la investigación y a la capacitación de los fiscales.
 
 Este fondo nacional ingresará al Ministerio Público y pasará a formar parte de los fondos privativos de la institución, estando sujetos
 a los controles fiscales establecidos en la ley.
 
-ARTICULO 88. Convenios. El Fiscal General puede realizar convenios de cooperación con instituciones públicas o privadas
+##### ARTICULO 88.
+**Convenios.** El Fiscal General puede realizar convenios de cooperación con instituciones públicas o privadas
 nacionales o extranjeras, para la realización de investigaciones en aquellos asuntos en los que fuere necesario.
 
 Asimismo puede realizar convenios para afectación transitoria de personal con los organismos del Estado o con entidades
 internacionales.
 
-ARTICULO 89. Bufetes Populares. El Fiscal General podrá suscribir convenios con las distintas facultades de Ciencias Jurídicas y
+##### ARTICULO 89.
+**Bufetes Populares.** El Fiscal General podrá suscribir convenios con las distintas facultades de Ciencias Jurídicas y
 Sociales o de Derecho del país, a efecto de que los estudiantes que ya hubieran cerrado pensum de estudios puedan desarrollar
 actividades dentro de la institución.
 
-
-ARTICULO 90. Disposiciones derogatorias. Se deroga el decreto No. 512 del Congreso de la República que contiene la Ley del
+##### ARTICULO 90.
+**Disposiciones derogatorias.** Se deroga el decreto No. 512 del Congreso de la República que contiene la Ley del
 Ministerio Público en lo concerniente a la sección de fiscalía así como los acuerdos gubernativos números 393-90 de fecha 9 de
 mayo de 1990, 527-90 de fecha 31 de mayo de 1990, 898-90 de fecha 21 de septiembre de 1990 y cualquier otra disposición que
 se oponga o limite las funciones contenidas en esta ley.
 
-ARTICULO 91. Transitorio. Nombramiento del Fiscal General y elección del Consejo del Ministerio Publico. El Fiscal General de la
+##### ARTICULO 91.
+**Transitorio.** Nombramiento del Fiscal General y elección del Consejo del Ministerio Publico. El Fiscal General de la
 República deberá ser nombrado conforme las reglas y plazo establecido en la Constitución. Para el efecto el Presidente de la
 comisión de postulación deberá convocar a sus miembros.
 
@@ -1474,33 +1408,24 @@ participarán todos los fiscales en funciones. La integración del primer Consej
 El actual jefe del Ministerio Público continuará con sus funciones hasta el momento en que asuma el Fiscal General que designe del
 Presidente de la República.
 
-ARTICULO 92. Vigencia. La presente ley entra en vigencia al día siguiente de su publicación en el Diario Oficial.
+##### ARTICULO 92.
+**Vigencia.** La presente ley entra en vigencia al día siguiente de su publicación en el Diario Oficial.
 
 PASE AL ORGANISMO EJECUTIVO PARA SU PUBLICACION Y CUMPLIMIENTO.
 
 DADO EN EL PALACIO DEL ORGANISMO LEGISLATIVO, EN LA CIUDAD DE GUATEMALA A LOS TRES DIAS DEL MES DE
 MAYO DE MIL NOVECIENTOS NOVENTA Y CUATRO.
 
-```
 OSCAR VINICIO VILLAR ANLEU
 PRESIDENTE.
-```
-```
 FRANCISCO REYES IXCAMEY
 SECRETARIO.
-```
-```
 EDNA ALICIA ORELLANA VDA. DE RUANO
 SECRETARIO.
-```
 PALACIO NACIONAL: GUATEMALA, DOCE DE MAYO DE MIL NOVECIENTOS NOVENTA Y CUATRO.
 
-```
 PUBLIQUESE Y CUMPLASE
-```
-```
 DE LEON CARPIO
-```
 ### EL SECRETARIO GENERAL DE LA
 
 ### PRESIDENCIA DE LA REPUBLICA
